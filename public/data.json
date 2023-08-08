@@ -333,6 +333,26 @@
           "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvRl04Bf1PbQLoskp-srVJ4MRPM0p9m-hakH5aGlBqlB0_Dd5q90_p5B5nfBUZpiQiPI&usqp=CAU"
         },
         {
+           "name": "EEC",
+           "notes": [
+             {
+                "name": "introduction to engineering economics",
+              "url": "https://drive.google.com/file/d/1V4Xc2kiYWaqJE3CVaVuQCKDgzG1VRxau/view?usp=sharing"   
+             },
+             {
+                "name": "unit-3",
+              "url": "https://drive.google.com/file/d/1C5gQbLbjAxRvlsPZB_4HA46-GufqGyef/view?usp=sharing"   
+             },
+              {
+                "name": "breakeven analysis and cost-sheet",
+              "url": "https://drive.google.com/file/d/14ZXP_fvphgbAvm26TQaxme9h-ZjJ6w_5/view?usp=sharing"   
+             }
+             
+           ],
+          
+         },
+          
+        {
           "name": "Maths-II",
           "notes": [
             {
@@ -422,7 +442,102 @@
             {
               "name": "Maths Assign-1",
               "url": "https://drive.google.com/file/d/1fY7TuA-MObWmPAcTcdJFT0BD2fQe_ypT/view?usp=drive_link"
-            }
+            },
+             {
+              "name": "Matrices-lecture1",
+              "url": "https://drive.google.com/file/d/16WqgTNXX3o2eGq0KPv7Bw1ehWT2wivL8/view?usp=sharing"
+            },
+             {
+              "name": "Gauss elemination and Cramers rule",
+              "url": "https://drive.google.com/file/d/1ojnkR-w2fQv0sU-hm03xfdJvJn7fVsWe/view?usp=sharing"
+            }, 
+            {
+              "name": "LU-factorization",
+              "url": "https://drive.google.com/file/d/1Lj1mID9KoXTbAHYHjztVGt1TVZHnQ6xi/view?usp=sharing"
+            }, 
+            {
+              "name": "Unit2-lec1",
+              "url": "https://drive.google.com/file/d/1b4FVWMp0-vhqVR0NnWPYuu9db5SPffOQ/view?usp=sharing"
+            },
+            {
+              "name": "Unit2-lec2",
+              "url": "https://drive.google.com/file/d/1y8oafmKxhOELxIKv0f-zhocF47GUhril/view?usp=sharing"
+            },
+            {
+              "name": "Unit2-lec3",
+              "url": "https://drive.google.com/file/d/1BFHAQlwCHIc7Kv5SfhWm5yLiykg8DfO2/view?usp=sharing"
+            },
+            {
+              "name": "Unit2-lec4",
+              "url": "https://drive.google.com/file/d/1LqhSbK9r6zdPCDnYs2ueZ8Vg4dNscwvf/view?usp=sharing"
+            },
+            {
+              "name": "Unit2-lec5",
+              "url": "https://drive.google.com/file/d/1NHYpNoZX_cQY7ps4GjE1fx5_gMoLOBim/view?usp=sharing"
+            },
+            {
+              "name": "unit3-lec-15-16",
+              "url": "https://drive.google.com/file/d/1frIFGDxwgQ_gm_-zCP27ejz6AeXj8FDJ/view?usp=sharing"
+            },
+               
+            {
+              "name": "lec-17_18",
+              "url": "https://drive.google.com/file/d/1frIFGDxwgQ_gm_-zCP27ejz6AeXj8FDJ/view?usp=sharing"
+            },
+            {
+              "name": "lec-19",
+              "url": "https://drive.google.com/file/d/1G1sO0KCucWSjGEnRh_0vbcbOHllMs9L1/view?usp=sharing"
+            },
+            {
+              "name": "lec-20",
+              "url": "https://drive.google.com/file/d/1_-UiZ-TnFVoQ1h1C-GecN0wAHNVnINqW/view?usp=sharing"
+            },
+                {
+              "name": "lec-21_22",
+              "url": "https://drive.google.com/file/d/1zYlBuYMlQw4apSUrf13EFgzm7hEZUwMc/view?usp=sharing"
+            },
+            {
+              "name": "lec-23",
+              "url": "https://drive.google.com/file/d/1WCwHzzifZYJSxbzPNQYAZ5vVnw9h19ni/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            {
+              "name": "lec-24",
+              "url": "https://drive.google.com/file/d/1u5USsz_nHZgoAYU1TyumCWu8-4ridUrQ/view?usp=sharing"
+            },
+            
+            
           ],
           "thumbnail": "https://www.magicmarks.in/wp-content/uploads/2021/11/Engineering-Mathematics-I.jpg"
         },

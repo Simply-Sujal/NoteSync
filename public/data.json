@@ -1007,15 +1007,116 @@
           "name": "Data Structure and Algorihtm in C",
           "notes": [
             { "name": "Note 1", "url": "/notes/subject1/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject1/note2.pdf" }
+            { "name": "Note 2", "url": "/notes/subject1/note2.pdf" },
+          
           ],
           "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
         },
         {
+          "name": "Data Structure in C(CGU)",
+          "notes" :[
+          {
+              "name": "single Link list(CGU)",
+              "url": "https://docs.google.com/presentation/d/10VY5abqSKCKmRApbE34DvbYa1TgxdeIu/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+          },
+        {
+          "name": "unit-1(CGU)",
+          "url": "https://docs.google.com/presentation/d/1SePUORR4muCXSn94srjfS41EeSaz4_Om/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+          
+        },
+         {
+          "name": "unit-3",
+          "url": "https://docs.google.com/presentation/d/1Sk1HjZqlCPP0LciqUcgtCDv2EZ3RU5ck/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+          
+        },
+         {
+          "name": "unit-4",
+          "url": "https://docs.google.com/presentation/d/1mUo4p8mSb9rzANJ5bgIAn96VCxR0YiAg/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+          
+        },
+         {
+          "name": "unit-5",
+          "url": "https://docs.google.com/presentation/d/1UzMSZ6uI6WcmHxf5tcHDsu3Mzvt_hNod/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+
+            
+        }
+         
+      ],
+      
+        },
+            
+        {
           "name": "Discrete Mathematics",
           "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
+            { "name": "Note 1", 
+              "url": "/notes/subject2/note1.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "DM U1 Notes (1st Part)", 
+              "url": "https://drive.google.com/file/d/1tjj8CZEiaQZIhV26Ys4RO1uQpg1Ndbl6/view?usp=sharing" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            { 
+              "name": "Note 2", 
+              "url": "/notes/subject2/note2.pdf" 
+            },
+            
+            
           ],
           "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
         },

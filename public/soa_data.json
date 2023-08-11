@@ -1,0 +1,220 @@
+{
+    "years": [
+      {
+        "id": 1,
+        "year": "First Year",
+        "subjects": [
+          {
+            "name": "Calculas",
+            "notes": [
+              {
+                "name": "Lesson Plan",
+                "url": "https://drive.google.com/drive/folders/1LUB7RYfB2TYETJPtDccHlJoeGQ1VXlU0?usp=drive_link"
+              },
+              {
+                "name": "Calculas Book",
+                "url": "https://drive.google.com/file/d/1w8quuzi_Ktgj48Bc-5F9g7amBq-KvXdD/view?usp=drive_link"
+              },
+              {
+                "name": "Calculas Lecture Notes 1-40",
+                "url": "https://drive.google.com/file/d/1PW5HManOhDAS1uuNgMR2prUeAi-WPoZ8/view?usp=drive_link"
+              },
+              {
+                "name": "Calculas Solutions",
+                "url": "https://drive.google.com/file/d/1v_Sh8C78JohOgQOWO54prU14hcXOjLOX/view?usp=drive_link"
+              } 
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IngIxgUhfHroyoCr8hFvpifViaUfhCO0Ag&usqp=CAU"
+          },
+          {
+            "name": "Discrete Mathematics",
+            "notes": [
+              {
+                "name": "DM Book",
+                "url": "https://drive.google.com/file/d/1xisa89gbYaXVrtSttE2675IJye2vcOwJ/view?usp=drive_link"
+              },
+              {
+                "name": "DM Complete Class Notes",
+                "url": "https://drive.google.com/file/d/14UI4DgOKx-6su55YOHOXfRigNgUDKrDb/view?usp=drive_link"
+              },
+              {
+                "name": "DM Lecture Notes",
+                "url": "https://drive.google.com/file/d/1L-wGCy6j0u_lFCPnhPYfsjMNGAcYWN6O/view?usp=drive_link"
+              },
+              {
+                "name": "DM Solutions",
+                "url": "https://drive.google.com/file/d/16-dQ5ZFDMR6vQaiBVU9ErLHrhryuh00a/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/61g-4Fx0ieL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "name": "Physics",
+            "notes": [
+              {
+                "name": "Course Handout",
+                "url": "https://drive.google.com/file/d/1QLhNfoMwG5dlfw5bC7D2HRyCZ5KhkUg0/view?usp=drive_link"
+              },
+              {
+                "name": "Ch 1-15 Formula Notes",
+                "url": "https://drive.google.com/file/d/1HVlYCIIo1kKZaoYhe7zJ8IPZFtB7TpRr/view?usp=drive_link"
+              },
+              {
+                "name": "UPM Book",
+                "url": "https://drive.google.com/file/d/1xHo-fdX1vYwgsmckNzWWRpn4Vmz8c3DB/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/61YILeTQKWL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "name": "Intoduction to Java",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1X_8bIw3yAJ1NxHRrPIJrWCbHDcKP46Ys?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1CRfy4d_hqvu0SqkcoGGEKm8X4BQsvWS-?usp=drive_link"
+              },
+              {
+                "name": "E Balagurusamy Book",
+                "url": "https://drive.google.com/file/d/1CM42V2WjvGd7ZrgPlOrBrrrozSETfb2D/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGdTRsiUWAPUnPMShMTgTxkfI8j4B-UukzA&usqp=CAU"
+          },
+  
+          {
+            "name": "Critical Thinking and Communication",
+            "notes": [
+              {
+                "name": "",
+                "url": ""
+              }
+            ],
+            "thumbnail": ""
+          }
+        ]
+      },
+
+
+
+      {
+        "id": 2,
+        "year": "Second Year",
+        "subjects": [
+          {
+            "name": "Calculas II",
+            "notes": [
+              {
+                "name": "Chapter Wise Notes",
+                "url": "https://drive.google.com/drive/folders/1Oo1YGFONPLBDKxIK-uiBnM6py52NC7mj?usp=drive_link"
+              },
+              {
+                "name": "Calculas Book",
+                "url": "https://drive.google.com/file/d/1ltDCPz53Eimn71v41jRAYuVmDIAS0CAB/view?usp=drive_link"
+              },
+              {
+                "name": "Calculas Solutions",
+                "url": "https://drive.google.com/file/d/19xUIPxWUDHrCBsTrU-SrGHGuhok3lDLk/view?usp=drive_link"
+              },
+              {
+                "name":"Lesson Plan",
+                "url":"https://docs.google.com/document/d/1E6ZhC3dNs8LxRexEVuncLjNRQtMax2tD/edit?usp=drive_link&ouid=106662232029024738712&rtpof=true&sd=true"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IngIxgUhfHroyoCr8hFvpifViaUfhCO0Ag&usqp=CAU"
+          },
+
+          {
+            "name": "DSA",
+            "notes": [
+              {
+                "name": "Assignments",
+                "url": "https://drive.google.com/drive/folders/14BWmarqobiSryv7IqCjSSaX3jBUMlyGS?usp=drive_link"
+              },
+              {
+                "name": "DSA Book",
+                "url": "https://drive.google.com/drive/folders/15Bij8Sgx0wowjhlqvKu1RIGhMOkCjsaq?usp=drive_link"
+              },
+              {
+                "name": "Handwritten Notes",
+                "url": "https://drive.google.com/drive/folders/19aJMnp7TDXOB3WZjq5h4JoH69AB15Yq_?usp=drive_link"
+              },
+              {
+                "name":"Minor Project",
+                "url":"https://drive.google.com/drive/folders/1rG1osLDs6s7P4wttT5lbYjfHod9lsvX8?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://www.interviewbit.com/blog/wp-content/uploads/2022/02/Data-Structures-and-Algorithms-in-Java.jpg"
+          },
+
+          {
+            "name": "IGT",
+            "notes": [
+              {
+                "name": "Book & Solutions",
+                "url": "https://drive.google.com/drive/folders/1UT-gaNfanOCdQ0pwjjEwxR-bNvpubcJt?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1Jmt8mtoxTsN0T4odoGIXEBROQ-wzNSlQ?usp=drive_link"
+              },
+              {
+                "name": "Handwritten Notes",
+                "url": "https://drive.google.com/drive/folders/1q20h5DB1vddgvk7TrYIRsbs9dUTvIX6g?usp=drive_link"
+              },
+              {
+                "name":"Short Notes",
+                "url":"https://drive.google.com/drive/folders/1gCD2-XRmhpq685l9JnFbg1tNn1brHv8i?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71+HR9wDKxL._AC_UF1000,1000_QL80_.jpg"
+          },
+
+          {
+            "name": "UPEM",
+            "notes": [
+              {
+                "name": "Book & Solution",
+                "url": "https://drive.google.com/drive/folders/1m1xIwnqBMfG__c_VJoy6YwqzBH42K1G1?usp=drive_link"
+              },
+              {
+                "name": "Notes and Formula Sheet",
+                "url": "https://drive.google.com/drive/folders/1NtjNY7AlhxtzCgZiBX8pfduwy7QqAcXq?usp=drive_link"
+              },
+              {
+                "name": "Handwritten Notes",
+                "url": "https://drive.google.com/drive/folders/1_Xsxkto2YMutQcjsC18g01h_F3Y_LHhY?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/4122ittPGlL._AC_UF1000,1000_QL80_.jpg"
+          },
+
+          {
+            "name": "PME",
+            "notes": [
+              {
+                "name": "HandOuts",
+                "url": "https://drive.google.com/drive/folders/154c8WD55yZFauQK2EIE_IybUR_B4UXU4?usp=drive_link"
+              },
+              {
+                "name": "Solutions",
+                "url": "https://drive.google.com/drive/folders/18BxjM27CuaQ5uP4JI8o33dKXnZrCKP0h?usp=drive_link"
+              },
+              {
+                "name": "Handwritten Notes",
+                "url": "https://drive.google.com/drive/folders/1FhHa_5wvogeICdUjX6HZ1WedPaCD9bjP?usp=drive_link"
+              },
+              {
+                "name":"Lesson Plan",
+                "url":"https://drive.google.com/drive/folders/1XpEs4p14Fr0KRGsM0yzg-RB5j-jTSV66?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51-axy9YGeL._AC_UF1000,1000_QL80_.jpg"
+          }
+        ]  
+      }      
+    ]
+}          

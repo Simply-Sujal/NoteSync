@@ -94,16 +94,8 @@
               }
             ],
             "thumbnail": ""
-          }
-        ]
-      },
+          },
 
-
-
-      {
-        "id": 2,
-        "year": "Second Year",
-        "subjects": [
           {
             "name": "Calculas II",
             "notes": [
@@ -213,6 +205,228 @@
               }
             ],
             "thumbnail": "https://m.media-amazon.com/images/I/51-axy9YGeL._AC_UF1000,1000_QL80_.jpg"
+          }
+
+        ]
+      },
+
+
+
+      {
+        "id": 2,
+        "year": "Second Year",
+        "subjects": [
+          {
+            "name": "Algorithm Design I",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+              },
+              {
+                "name": "Other Resources",
+                "url": "https://drive.google.com/drive/folders/1Ix3Mo4k1tD6_cD_gCQJljzOHLnvtlDR0?usp=drive_link"
+              },
+              {
+                "name": "Question Paper",
+                "url": "https://drive.google.com/drive/folders/1AQOL73qOpT_alHR6lBpHRlajFxpMjpaH?usp=drive_link"
+              },
+              {
+                "name":"Book",
+                "url":"https://drive.google.com/file/d/1aE38KS3oW_WO4ruYJ0UY3IbJjKOcf7Yz/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+          },
+
+          {
+            "name": "CSW",
+            "notes": [
+              {
+                "name": "Java Assignments",
+                "url": "https://drive.google.com/drive/folders/15ynMtITNTuMxNi939PE6zngdBLRua8ad?usp=drive_link"
+              },
+              {
+                "name": "Java Code",
+                "url": "https://drive.google.com/drive/folders/1a_FPEYbypG-CUxJlihW4FJnzWmYOaz25?usp=drive_link"
+              },
+              {
+                "name": "Java Imp. Topics",
+                "url": "https://drive.google.com/drive/folders/10an9mYn-i4YwgYvHHRlQwg3O7v6e4Lhd?usp=drive_link"
+              },
+              {
+                "name":"Resources",
+                "url":"https://drive.google.com/drive/folders/1MiCBDpf0EKrRYHaHSoWjJiyLTpYU5znV?usp=drive_link"
+              },
+              {
+                "name":"Book",
+                "url":"https://drive.google.com/file/d/1ayv-o2k-A_Rlnw3o2gUo0_qTUI_o_BOc/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/41+Bik0tUlL.jpg"
+          },
+
+          {
+            "name": "DLD",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1hlo7To8K_u_8KqeY6cgL6ZOYKKGECNLm?usp=drive_link"
+              },
+              {
+                "name": "Ch:2",
+                "url": "https://drive.google.com/drive/folders/1JSWmVDE75a8zjI4NUK1xcoh26A6XWSI7?usp=drive_link"
+              },
+              {
+                "name": "Ch:4",
+                "url": "https://drive.google.com/drive/folders/1tPAqdc9UG0V2hhfcgodML-nPDAq56D_W?usp=drive_link"
+              },
+              {
+                "name":"Ch:5",
+                "url":"https://drive.google.com/drive/folders/1zfS05i3Ct9sbAVsMarO5kBI_L42yYzk0?usp=drive_link"
+              },
+              {
+                "name":"LAB",
+                "url":"https://drive.google.com/drive/folders/1YyHEirFC0UCJX7xAhiS0LpxpzPeBT5Px?usp=drive_link"
+              },
+              {
+                "name":"Project",
+                "url":"https://drive.google.com/drive/folders/1yGL98zyCVPDj2Z8DXiZ52wwtGBWyzqxL?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://5.imimg.com/data5/LC/WM/MY-37365123/digital-logic-design-500x500.jpg"
+          },
+
+          {
+            "name": "PME",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1uTJF6N_odID3tcVnlzeRqglNDk6rpVlb?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/file/d/1mqe2A1h5oRWO73upgcGn7eYUEP1VAb4T/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2lT6ovVsF-p_Sm103dMJ_QdfQmyHxAGOnqbPHEygfR0dN-K4ZWQpXQt9ynwks8R7IhY&usqp=CAU"
+          },
+
+          {
+            "name": "Probability and Statistics",
+            "notes": [
+              {
+                "name": "Book",
+                "url": "https://drive.google.com/file/d/1W2ei9JjtTVCUtevpSwSu1N_uy1_Jjh0a/view?usp=drive_link"
+              },
+              {
+                "name": "Lecture 1-40",
+                "url": "https://drive.google.com/file/d/1XBgcXIkDkI2KfpzU6ghzmLp2a4vN9Y-W/view?usp=drive_link"
+              },
+              {
+                "name": "Lecture 1-17",
+                "url": "https://drive.google.com/file/d/1sh0cpdWW_V7oaLfQTr3FnIjnMd8nV8pz/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51uyFB+RNSL._AC_UF1000,1000_QL80_.jpg"
+          },
+
+
+
+
+          {
+            "name": "Algorithm Design II",
+            "notes": [
+              {
+                "name": "Assignments",
+                "url": "https://drive.google.com/drive/folders/1cfSSKdjQQKuPP1jhUUH9MMpGfNVBE7W3?usp=drive_link"
+              },
+              {
+                "name": "Projects",
+                "url": "https://drive.google.com/drive/folders/1im7m59-_eOwlz466lNW0_DMXrurD_UyH?usp=drive_link"
+              },
+              {
+                "name": "Resources",
+                "url": "https://drive.google.com/drive/folders/14WgpPFWD7Y8x6rXVeuUKHEGd0WKROJ91?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "name": "Applied Linear Alzebra",
+            "notes": [
+              {
+                "name": "Ch:1",
+                "url": "https://drive.google.com/drive/folders/1Cb4MaYvpwAA7pHSFCWn-R9bG_tlxphXy?usp=drive_link"
+              },
+              {
+                "name": "Ch:2",
+                "url": "https://drive.google.com/drive/folders/106998Q_EpXcm_DiwTR9d-YKigzOCX1md?usp=drive_link"
+              },
+              {
+                "name": "Ch:3",
+                "url": "https://drive.google.com/drive/folders/13icu4M9ty0iUTwtGSX2rUgCF2k7YH_jS?usp=drive_link"
+              },
+              {
+                "name": "Complete Notes",
+                "url": "https://drive.google.com/file/d/1RSAWmLM_k0bVl-0SxVXxvgMF5LpNfw61/view?usp=drive_link"
+              },
+              {
+                "name": "ALA 1-19",
+                "url": "https://drive.google.com/file/d/1UrB15jYqWQB5Il8wFKhTMc9WeVfynmoo/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51kHWUoiR5L._AC_UF1000,1000_QL80_.jpg"
+          },
+          {
+            "name": "COA",
+            "notes": [
+              {
+                "name": "Resources",
+                "url": "https://drive.google.com/drive/folders/1U76EY21gQREUmFi7gLx1zlRIiEi_WfJV?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://media.springernature.com/full/springer-static/cover-hires/book/978-981-16-5662-0"
+          },
+          {
+            "name": "CSW II",
+            "notes": [
+              {
+                "name": "Assignment 2A",
+                "url": "https://drive.google.com/drive/folders/18yuWpTJlQH9EzHUN_SRUud2_mro-iYbz?usp=drive_link"
+              },
+              {
+                "name": "Assignment 2B",
+                "url": "https://drive.google.com/drive/folders/1KW_zeBuz6FBoGvR6YHIoq-GEjkKMeVC4?usp=drive_link"
+              },
+              {
+                "name": "Assignment 3",
+                "url": "https://drive.google.com/drive/folders/1Kls2e2x1GRwJUSucxNWlWYh3dJQT72Wq?usp=drive_link"
+              },
+              {
+                "name": "Assignment 4",
+                "url": "https://drive.google.com/drive/folders/1mnAWYNfkC_RifnT36r6IEJYElAI1zMHu?usp=drive_link"
+              },
+              {
+                "name": "Assignment Questions",
+                "url": "https://drive.google.com/drive/folders/1CebqQdTur80U1ZrpyYObcubQUcdc6kjj?usp=drive_link"
+              },
+              {
+                "name": "Core Java",
+                "url": "https://drive.google.com/drive/folders/1hg05R1pXE4pYC1Fm_e53cXoFOfxixXKt?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/41+Bik0tUlL.jpg"
+          },
+          {
+            "name": "UHV",
+            "notes": [
+              {
+                "name": "Lectures",
+                "url": "https://drive.google.com/drive/folders/1VX0CbvdJkemd2j79uroy8jX7U0WC7_jS?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/n/m/p/universal-human-values-original-imagzkgpnghftfpr.jpeg?q=90"
           }
         ]  
       }      

@@ -2506,6 +2506,51 @@
           ],
           "thumbnail": "https://studentstudyhub.com/wp-content/uploads/2013/12/analysis-and-design-of-algorithm.png"
         },
+         {
+          "name": "Cloud Computing and Vitualization",
+          "notes": [
+            {
+              "name": " Overview of Computing Paradigm(cgu)",
+              "url": "https://docs.google.com/presentation/d/1NOmPlg6FjwgyyzGHQ4AnP1Oda6-eX2Lg/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+            },
+            {
+              "name": "presentation 3(cgu)",
+              "url": "https://drive.google.com/file/d/18JU-Jb9GtoR8FvK5PSW4NzkESTTne7OW/view?usp=sharing"
+            }
+      
+          ],
+          "thumbnail": "https://media.wiley.com/product_data/coverImage300/00/11194879/1119487900.jpg"
+        },
+        {
+          "name": "Operating System",
+          "notes": [
+            {
+              "name": " OS lecture 1 (cgu)",
+              "url": "https://drive.google.com/file/d/1DkxxP4zY5dmN-jjAZrhGlsNqUgbL1bhK/view?usp=sharing"
+            },
+            {
+              "name": "LINUX OPERATING SYSTEM ARCHITECTURE (cgu)",
+              "url": "https://docs.google.com/presentation/d/1M61DnM0pQsVerChwe1DVZ6Lzpl69bCq0/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+            },
+            {
+              "name": "‘lecture_2_OS (cgu)",
+              "url": "https://drive.google.com/file/d/1DRUmMttfbeeRcCbzqPMECuyfKLCxbhIJ/view?usp=sharing"
+            },
+            {
+              "name": "Lecture 3 (cgu)",
+              "url": "https://drive.google.com/file/d/12x9yeMs-hxRdGYsNTONdZyiF2ZMoMFem/view?usp=sharing"
+            },
+            {
+              "name": "‘lecture_4_and_5 (cgu)",
+              "url": "https://drive.google.com/file/d/1sP7jiGCiH9pyncanaMYt1cUgzbmK9nv9/view?usp=sharing"
+            },
+            {
+              "name": "‘lecture-6 (cgu)",
+              "url": "https://drive.google.com/file/d/1ObNDNfAdZ4be_Y3WOiRTwtIT2KvFk6b_/view?usp=sharing"
+            }
+          ],
+          "thumbnail": "https://www.theschoolrun.com/sites/theschoolrun.com/files/article_images/hardware_software_and_operating_system.jpg"
+        },
         {
           "name": "Computer Network",
           "notes": [

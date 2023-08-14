@@ -330,26 +330,26 @@
             }
             
           ],
-          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvRl04Bf1PbQLoskp-srVJ4MRPM0p9m-hakH5aGlBqlB0_Dd5q90_p5B5nfBUZpiQiPI&usqp=CAU"
+          "thumbnail": "https://www.perlego.com/books/RM_Books/taylor_francis_lm_feonmi/9781498750882.jpg"
         },
         {
-           "name": "EEC(cgu)",
+           "name": "EEC",
            "notes": [
              {
-                "name": "introduction to engineering economics",
+                "name": "introduction to engineering economics(cgu)",
               "url": "https://drive.google.com/file/d/1V4Xc2kiYWaqJE3CVaVuQCKDgzG1VRxau/view?usp=sharing"   
              },
              {
-                "name": "unit-3",
+                "name": "unit-3(cgu)",
               "url": "https://drive.google.com/file/d/1C5gQbLbjAxRvlsPZB_4HA46-GufqGyef/view?usp=sharing"   
              },
               {
-                "name": "breakeven analysis and cost-sheet",
+                "name": "breakeven analysis and cost-sheet(cgu)",
               "url": "https://drive.google.com/file/d/14ZXP_fvphgbAvm26TQaxme9h-ZjJ6w_5/view?usp=sharing"   
              }
              
            ],
-           "thumbnail":
+           "thumbnail":"https://www.freepik.com/free-vector/sales-growth-abstract-concept-illustration_13450388.htm#query=engineering%20economics&position=18&from_view=search&track=ais"
          },
           
         {
@@ -1085,21 +1085,21 @@
           "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
         },
         {
-          "name": "Object Oriented Programming in Java(cgu)",
+          "name": "Object Oriented Programming in Java",
           "notes": [
-            { "name": "Try-CatchBlock", 
+            { "name": "Try-CatchBlock(cgu)", 
               "url": "https://drive.google.com/file/d/1rL0iLh34kThqgLw2fZmZeftOlr3_Cndi/view?usp=sharing" 
             },
-            { "name": "TM2_String_StringBuffer", 
+            { "name": "TM2_String_StringBuffer(cgu)", 
               "url": "https://drive.google.com/file/d/1Dr0idhi27sk-2Wq0gopW8bi2DGliIWPC/view?usp=sharing" 
             },
-              { "name": "TM2_Overriding_Polymorphism", 
+              { "name": "TM2_Overriding_Polymorphism(cgu)", 
               "url": "https://drive.google.com/file/d/1FJQlWHkQodTfb4_DU375gfkzzwGm8gfo/view?usp=sharing"
             },
-              { "name": "TM2_Encapsulation_Abstraction", 
+              { "name": "TM2_Encapsulation_Abstraction(cgu)", 
               "url": "https://drive.google.com/file/d/11K-kX50vLXSXAMfqMF2W1WjYH_I19fSN/view?usp=sharing" 
             },
-            { "name": "Thread Priorities", 
+            { "name": "Thread Priorities(cgu)", 
               "url": "https://drive.google.com/file/d/1phHle89tf5Gcd4bMVh9N1GoN9QAEPsMs/view?usp=sharing" 
             }
           ],
@@ -1126,6 +1126,84 @@
           "notes": [
             { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
             { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
+          ],
+          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
+        },
+         {
+          "name": "SCLD",
+          "notes": [
+            { "name": "SCLD U1 Note(cgu)", 
+              "url": "https://drive.google.com/file/d/1JtiykGBNMSk3q9BpH3j3af_E0JGPhOf5/view?usp=sharing" 
+            },
+            { "name": "SCLD U2 Notes(cgu)", 
+              "url": "https://drive.google.com/file/d/16ZO4yTKp2Ma9rPQF7XtRcr9cQTgDzrYy/view?usp=sharing" 
+            },
+            { "name": "SCLD U3 Notes(cgu)", 
+              "url": "https://drive.google.com/file/d/1a7mpunzwR2iYBqc87gzq5Z_XZt-HX8Kf/view?usp=sharing" 
+            },
+            { "name": "SCLD U4 Notes(cgu)", 
+              "url": "https://drive.google.com/file/d/1a-BpTzOqB9b2DEflx__IXw9oWQVAkcCX/view?usp=sharing" 
+            },
+            { "name": "SCLD U5 Notes(cgu)", 
+              "url": "https://drive.google.com/file/d/1h7zPk_HpcLxLQEG-x_mhqemv0bQEEq7Q/view?usp=sharing" 
+            }
+          ],
+          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
+        },
+        {
+          "name": "Programming using C++",
+          "notes": [
+            { "name": "Mod+2+Classes+and+Objects(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1KMEVTROdR08UexaJYdPwc1ibtjmxq-j6/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            },
+            { "name": "Classes-and-Objects(cgu)", 
+              "url": "https://drive.google.com/file/d/1ar-zEpJ92RYQjWq672Qt_SNC5K0j7358/view?usp=sharing" 
+            },
+            { "name": "C+++MOD+3+INHERITANCE(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1LuqF1qpv2dEao6nBIkAlbay1IOORiC-V/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            },
+            { "name": "C++ Templates(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1pcn5uuyWAEhvarAHK6PHTW1qnvgOS91_/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            },
+            { "name": "C++ Namespaces(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1zfOFZ0jPJBOcSVssVrFBA-Omi940yqT4/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            },
+            { "name": "C++ MOD 4 POLYMORPHISM(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1g4Zk2CYQDAKJ9YewqrEZc5qQKfbJMuHF/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            },
+            { "name": "C++ Exception Handling(cgu)", 
+              "url": "https://docs.google.com/presentation/d/1QJP6tGHBjQDvdqsXeDgEGUjQT-6pg5aD/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true" 
+            }   
+          ],
+          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
+        },
+        {
+          "name": "LBES",
+          "notes": [
+            { "name": "The cell cycle-TRF(cgu)", 
+              "url": "https://drive.google.com/file/d/10gprEnaacGqcBEOdc5vAndR-y8X6wxoc/view?usp=sharing" 
+            },
+            { "name": "‘Respiration PDF(cgu)", 
+              "url": "https://drive.google.com/file/d/10xCDfVXE-Ma7TGy4sMVe7Yg76U798EjT/view?usp=sharing" 
+            },
+            { "name": "Photosynthesis(cgu)", 
+              "url": "https://drive.google.com/file/d/10tJ3qEgYcKGTnBz0xzqKQzPW10kz1k6v/view?usp=sharing" 
+            },
+            { "name": "mendel law of inheritance(cgu)", 
+              "url": "https://drive.google.com/file/d/10dl7N34wu6TY2Aw9Zkk0XQvHQ7lFZfwG/view?usp=sharing" 
+            },
+            { "name": "Human diseases by viruses and bacteria(cgu)", 
+              "url": "https://drive.google.com/file/d/10rZgQaUllCMqHMcxSvYlYwzPeeOGDFX0/view?usp=sharing" 
+            },
+            { "name": "Gram positive and Gram negative Bacteria(cgu)", 
+              "url": "https://drive.google.com/file/d/10bSNhKC0RnGWS1l2crT5Ukb0Cj6BrDvc/view?usp=sharing" 
+            },
+            { "name": "Gene expression and regulation(cgu)", 
+              "url": "https://drive.google.com/file/d/10bz1ONMHezpa7mQJ5CePChVvahkY8xJ0/view?usp=sharing" 
+            },
+              { "name": "Chemical_Composition of cells(cgu)", 
+              "url": "https://drive.google.com/file/d/10_j9ErsJFgH0Fsww0qHJlTBS8H4wrnrk/view?usp=sharing" 
+            }
           ],
           "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
         },
@@ -2011,11 +2089,12 @@
             
               "name": "5.2 unit-5,-lecture-2- (cgu)",
               "url": "https://docs.google.com/presentation/d/1tO68wUhwH1ww37p7z2fpiTZwgSPMnMDN/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
-          }
-                
+          },
           ]
           "thumbnail": "https://skkatariaandsons.com/resources/product/978-93-5014-432-9.png"
         },
+
+        
       ]
     },
     {

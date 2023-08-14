@@ -1897,6 +1897,56 @@
           ],
           "thumbnail": "https://skkatariaandsons.com/resources/product/978-93-5014-432-9.png"
         },
+          {
+          "name": "Design and Analysis of Algorithm",
+          "notes": [
+            {
+              "name": "DAA-Introduction (1)(cgu)",
+              "url": "https://drive.google.com/file/d/1kYbgGShOYP8gnNsf5UV4JFuL3W2hlCI9/view?usp=sharing"
+            },
+            {
+              "name": "HauffmanCoading(cgu)",
+              "url": "https://docs.google.com/document/d/1H_Zii-pEa7H_7maaVAqFvw0gNVpp0PfY/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+            },
+            {
+              "name": "growth of function(cgu)",
+              "url": "https://drive.google.com/file/d/1hzp80m_wM4BRqr-APDYbb40uRjSKyYo6/view?usp=sharing"
+            },
+            {
+              "name": "General Strategy of Dynamic Programming(cgu)",
+              "url": "https://drive.google.com/file/d/1bngSqSlTVjBc_c8bOxc3Gra1y1ZDZptT/view?usp=sharing"
+            },
+           {
+              "name": "Matrix chain multiplication_Basics(cgu)",
+              "url": "https://drive.google.com/file/d/1EzG-wRN0Osym1gQBpGCQTwyWmgpAR7EP/view?usp=sharing"
+            },
+           {
+              "name": "Masters Theorem(cgu)",
+              "url": "https://drive.google.com/file/d/17BH9yJSivjpAFnDnNbBZSUi1Z-xeYAKF/view?usp=sharing"
+            },
+           {
+              "name": "Naive String Matching and Robin Karp(cgu)",
+              "url": "https://docs.google.com/document/d/1XJzkilyNJyBAo5WPy5cluyExXL_wDu0p/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+            },
+           {
+              "name": "Recurrence relation(cgu) ",
+              "url": "https://drive.google.com/file/d/1UqoaeHgTp8suPpENdUQSwS2dUxyWa0P3/view?usp=sharing"
+            },
+           {
+              "name": "notations-unit 1(cgu)",
+              "url": "https://drive.google.com/file/d/19PYag8Rxm8rfWTJiYJFGNdRxoYlhq8mD/view?usp=sharing"
+            },(cgu)
+           {
+              "name": "Unit 4, 0-1 knapsack using branch and bound(cgu)",
+              "url": "https://docs.google.com/document/d/1hPUF-yFvsbELvf1bS8KCS27y-oiB3Qkv/edit?usp=sharing&ouid=112639265287856191942&rtpof=true&sd=true"
+            },
+           {
+              "name": "UNIT V(cgu)",
+              "url": "https://drive.google.com/file/d/19PYag8Rxm8rfWTJiYJFGNdRxoYlhq8mD/view?usp=sharing"
+            },
+          ],
+          "thumbnail": "https://skkatariaandsons.com/resources/product/978-93-5014-432-9.png"
+        },
         {
           "name": "Applied Linear Algebra - 1",
           "notes": [
@@ -2451,40 +2501,8 @@
             {
               "name": "TC DAA",
               "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-           {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-              {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-             {
-              "name": "TC DAA",
-              "url": "https://docs.google.com/presentation/d/1KgFcCNzr23opW1TlTi0lz1DbkuVY_tQb/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
-            },
-     
+            }
+
           ],
           "thumbnail": "https://studentstudyhub.com/wp-content/uploads/2013/12/analysis-and-design-of-algorithm.png"
         },

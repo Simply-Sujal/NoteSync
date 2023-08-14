@@ -726,50 +726,115 @@
         {
           "name": "Data Structure and Algorihtm in C",
           "notes": [
-            { "name": "Note 1", "url": "/notes/subject1/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject1/note2.pdf" }
+            { "name": "Course Handout", "url": "https://drive.google.com/file/d/1vfhJYXOvVVStiDVve-31MsMxxHvUqTHa/view?usp=drive_link" },
+            { "name": "DSA Full Notes", "url": "https://drive.google.com/file/d/1twvpc3mHzox5z33MzwR1CKNxbC9-nox4/view?usp=sharing" },
+            { "name": "Recurssion", "url": "https://drive.google.com/file/d/1TDMmPCIxPJ_Hj3MnzZg5CGlLo7zKIW35/view?usp=drive_link" },
+            { "name": "Pointer", "url": "https://drive.google.com/file/d/1wBBZK5PEXZPpr6Dx8sFYj3Ze5wkVj3pb/view?usp=drive_link" },
+            { "name": "Array part 1", "url": "https://drive.google.com/file/d/1XqXVcsVtzh8vawA2ty1SvzpJrYWqgHFD/view?usp=drive_link" },
+            { "name": "Array part 2", "url": "https://drive.google.com/file/d/1P4kIB8pN9B8yZN7fygmZII7Vm-HXObgu/view?usp=drive_link" },
+            { "name": "Hashing", "url": "https://drive.google.com/file/d/1jseu9Dg6fPuSxIcprK7nGOIDRCAwAIxQ/view?usp=drive_link" },
+            { "name": "Searchinhg Techniques", "url": "https://drive.google.com/file/d/1LIoZVB8EAzJIDMTzIBr-XSZWvhsEEc7D/view?usp=drive_link" },
+            { "name": "Heaps", "url": "https://drive.google.com/file/d/1HMQtQl_M8rwmuLud2yo1epbJ0GO9SmiH/view?usp=drive_link" },
+            { "name": "Queue", "url": "https://drive.google.com/file/d/1JCzzQVnLXLaWkTFm2Z-r6QHoVP59tVS4/view?usp=drive_link" },
+            { "name": "Double Linked List", "url": "https://drive.google.com/file/d/1ylxfmFpXVo7GiBJ1A2zIQ-vLfN60qAjo/view?usp=drive_link" },
+            { "name": "Circular Double Linked List", "url": "https://drive.google.com/file/d/1gBd-vFPmRsy0i1w7RpDEKeIw5TZZI7dH/view?usp=drive_link" },
+            { "name": "Address Calculation", "url": "https://drive.google.com/file/d/1XJrCTtd0rPnrND-QUWZKUQNdQrfEZNSD/view?usp=drive_link" },
+            { "name": "Linked List", "url": "https://drive.google.com/file/d/1XsNDlDPxEa0ZTmyhJ2W4W_rOkKiGTlWe/view?usp=drive_link" },
+            { "name": "B-tree", "url": "https://drive.google.com/file/d/1GwYHlOtGE5lOs9Ykym5k5c9g6y3q-ZXg/view?usp=drive_link" }
+
+
+
+
+
+
           ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
-        },
-        {
-          "name": "Discrete Mathematics",
-          "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
-          ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
-        },
-        {
-          "name": "Object Oriented Programming",
-          "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
-          ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
-        },
-        {
-          "name": "Engineering Economics",
-          "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
-          ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
-        },
-        {
-          "name": "Probability and Statistics",
-          "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
-          ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
+          "thumbnail": "https://www.learnsimpli.com/wp-content/uploads/2021/05/Data-structure-and-algorithms.png"
         },
         {
           "name": "Digital Electronics",
           "notes": [
-            { "name": "Note 1", "url": "/notes/subject2/note1.pdf" },
-            { "name": "Note 2", "url": "/notes/subject2/note2.pdf" }
+            { "name": "Course Handout", "url": "https://drive.google.com/file/d/1mmuuWHyyl_mGsEEx5JcqxKzsLnMxxqaH/view?usp=drive_link" },
+            { "name": "Class Notes", "url": "https://drive.google.com/file/d/1tJIUGzAT-kTXtoUExvUaKU7ZgQHVPNlx/view?usp=drive_link" },
+            { "name": "Full Notes", "url": "https://drive.google.com/file/d/1Ad-lPotVOOqONPfBoKiLY5VVX-LIMg38/view?usp=drive_link" },
+            { "name": "Counter(Teacher Notes", "url": "https://drive.google.com/file/d/1G8ZgDUnTUfFRHGhC898Ju8AxMc6QbKL8/view?usp=drive_link" },
+            { "name": "Asynchronous(Teacher Notes)", "url": "https://drive.google.com/file/d/1secK-kr0PSj2r7-31pFKpEOR71sK-gtf/view?usp=drive_link" },
+            { "name": "Synchronous (Teacher Notes)", "url": "https://drive.google.com/file/d/1dBgab9WqlzmOevscJ6onfsIvGY3k02V6/view?usp=drive_link" },
+            { "name": "Logic Family(Teacher Notes)", "url": "https://drive.google.com/file/d/1Ve03bfM7qB-iFIQFXOOVxc-Ny0fw0cWE/view?usp=drive_link" },
+            { "name": "Boolean Algebra(Teacher Notes", "url": "https://drive.google.com/file/d/1fVUPxkuIOTEFbYMjA7fXxku5bz8rcubW/view?usp=drive_link" },
+            { "name": "Number System(Teacher Notes)", "url": "https://drive.google.com/file/d/1ICVssZob7yexnDhF6vNQsopLZjfUNpkz/view?usp=drive_link" },
+            { "name": "Codes(Teacher Notes)", "url": "https://drive.google.com/file/d/1Cdp2Xd110rhSze_2Tlynad83UQmsFxBC/view?usp=drive_link" },
+            { "name": "Book", "url": "https://drive.google.com/file/d/1Zk5X3tclJMWHLvvDpL_rVuwdgAh4bsDQ/view?usp=drive_link" }
           ],
-          "thumbnail": "https://png.pngtree.com/png-vector/20221004/ourmid/pngtree-operating-system-png-image_6274391.png"
+          "thumbnail": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseImages/7b20bd57-e003-452e-8040-11de925cf8ef_CI.png"
+        },
+        {
+          "name": "Object Oriented Programming",
+          "notes": [
+            { "name": "Course Handout", "url": "https://drive.google.com/file/d/16D7Y-MFjaYYsPQfQhxTvb7c6OVFV29fV/view?usp=drive_link" },
+            { "name": "OOP(Mid Sem)", "url": "https://drive.google.com/file/d/1yFi99geB7MkiNt_QmaNbPCuu23Gb6-mx/view?usp=drive_link" },
+            { "name": "Files & Streams", "url": "https://drive.google.com/file/d/1LlwoxvlWyGzxKjf6BEmk2XEBxNO-09fy/view?usp=drive_link" },
+            { "name": "Operator OverLoading", "url": "https://drive.google.com/file/d/1UmqO-hGnUFynn_bu9GoaIKYBjcD5QJ3t/view?usp=drive_link" },
+            { "name": "Inheritance", "url": "https://drive.google.com/file/d/1uyAtfEg7BAFz-ohDKilmGdgfP9MpqMF0/view?usp=drive_link" },
+            { "name": "Constructors", "url": "https://drive.google.com/file/d/1d9bRNCW9yMJAgDqlvSWjwpNPK1LmxK8z/view?usp=drive_link" },
+            { "name": "Object Oriented Paradigm", "url": "https://drive.google.com/file/d/1tF7ewrJiQ99yOEDA3t5NnFn4wGiPfAQn/view?usp=drive_link" },
+            { "name": "Programming Basics", "url": "https://drive.google.com/file/d/1MDM3WPvvKBLoFmjZvuKryjqfNudI17F-/view?usp=drive_link" },
+            { "name": "Classes & Objects", "url": "https://drive.google.com/file/d/16JRmtPSpWdFGUCqwyvOW_mAbzDCq3DGJ/view?usp=drive_link" },
+            { "name": "Lab Manual", "url": "https://drive.google.com/file/d/1fyJ5aRJyE0IfHSq3a44JPFH9PCTi8j-A/view?usp=drive_link" }
+            
+          ],
+          "thumbnail": "https://media.istockphoto.com/id/1334768190/vector/oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=srCoPvK8egilkl5jeNNVq1dcjpggjEArb6xPagZIdP0="
+        },
+        {
+          "name": "Engineering Economics",
+          "notes": [
+            { "name": "Course Handput", "url": "https://drive.google.com/file/d/1zkf1-tD8uU-UL9e_L7eAThPqR-YKvFFy/view?usp=drive_link" },
+            { "name": "HandWritten Notes", "url": "https://drive.google.com/file/d/1zphrcaAvAnUV81SZSmW8nuIW_mYiIB-c/view?usp=drive_link" },
+            { "name": "Cobb Douglas", "url": "https://drive.google.com/file/d/1vEJ_KfxHSm2zOzEOqepghgIJwX9LxUCC/view?usp=drive_link" },
+            { "name": "Demand", "url": "https://drive.google.com/file/d/1Fr7Ly7GOYIp60ZFBwMZNIkEe_SBf7lJy/view?usp=drive_link" },
+            { "name": "Cost", "url": "https://drive.google.com/file/d/1_JWq0n6S6hxyl_vxEJVjQKKb-uj0zEyc/view?usp=drive_link" },
+            { "name": "Demand Forecasting", "url": "https://drive.google.com/file/d/1ipmopUaIU9lTp-0jZTtkt3pxZZyYJ8xg/view?usp=drive_link" },
+            { "name": "Elasticity of Demand", "url": "https://drive.google.com/file/d/1urbpmInmgU_eK-oX84L3xHEt7Qov77JP/view?usp=drive_link" },
+            { "name": "Equilibrium", "url": "https://drive.google.com/file/d/1BK2y6Ksj3_3jNRQjyzJhn-j9jExrpL56/view?usp=drive_link" },
+            { "name": "IC analysis", "url": "https://drive.google.com/file/d/1Pif4pnZpx95DACAEJg6bR2nGM_Dd9NtW/view?usp=drive_link" },
+            { "name": "Inflation", "url": "https://drive.google.com/file/d/1P1g9irV0eXzuSHioPdlv0B05YY3NWDpp/view?usp=drive_link" },
+            { "name": "Interest ", "url": "https://drive.google.com/file/d/1Woz50LkjZzR7EA2meO2qZca0Qw9EH6s4/view?usp=drive_link" },
+            { "name": "Introduction", "url": "https://drive.google.com/file/d/1L5Gpxx3iWz0sBHsf0oXPuD-MGHCjdEMh/view?usp=drive_link" },
+            { "name": "Iso Quant ", "url": "https://drive.google.com/file/d/1gOHh3FmlweitMApNWUgC5ise31tfrj4Y/view?usp=drive_link" },
+            { "name": "Methods Of Elasticity", "url": "https://drive.google.com/file/d/1EoW-trRXpbYVsOrEV_ILe9MNc7wZAySv/view?usp=drive_link" },
+            { "name": "Monopoly Numericals", "url": "https://drive.google.com/file/d/1oVACr6AjbeSo_W7V8EOxaxtpzok_ixLc/view?usp=drive_link" },
+            { "name": "Monopoly", "url": "https://drive.google.com/file/d/1Nn3eQLXfi8Te9iYxXpWVbaTcexVL7RvV/view?usp=drive_link" },
+            { "name": "National Income", "url": "https://drive.google.com/file/d/1VC5SwJpFHrU9GZbztCSPSMQHwwsl956n/view?usp=drive_link" },
+            { "name": "Perfect Commpetition", "url": "https://drive.google.com/file/d/1ZtGzv-DIcfAYCJgkBOUQHIm9vSBfTdJz/view?usp=drive_link" },
+            { "name": "Producer Equilibrium,", "url": "https://drive.google.com/file/d/1chYuaYK_B0OPWueT1kaSz3aXEvQZL7vQ/view?usp=drive_link" },
+            { "name": "Production Function", "url": "https://drive.google.com/file/d/15R7HB65Qrg6zHPAxp-MLLU59gdH1AsAY/view?usp=drive_link" },
+            { "name": "Return to scale", "url": "https://drive.google.com/file/d/1iavG27m83ZrD9qy5ssDHuscZ3I6NLGBb/view?usp=drive_link" },
+            { "name": "Revenue", "url": "https://drive.google.com/file/d/1pCC90evzccK1ABqprOXDl_YS2HPXE5kU/view?usp=drive_link" },
+            { "name": "Supply", "url": "https://drive.google.com/file/d/1X1kmAYAxDb4saK93YQmACGIxRm4cA52r/view?usp=drive_link" },
+            { "name": "Utility", "url": "https://drive.google.com/file/d/1ecQK-xpIkgD4C4SlhRbfCvJiSbN_0-Jb/view?usp=drive_link" }
+          ],
+          "thumbnail": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/9/e/9e5e3644ab89883387bc72b22b7093f203f888f01ba44d4865f1aef2233e0a07/engineering-economics-mc-slide4.png"
+        },
+        {
+          "name": "Probability and Statistics",
+          "notes": [
+            { "name": "Course Handout", "url": "https://drive.google.com/file/d/1ppQBA6VHwnggzThQ3AMFb0wnsmhFIlDR/view?usp=drive_link" },
+            { "name": "Lecture Notes", "url": "https://drive.google.com/file/d/1vN_PzFKZDFEJqVRbGgafpjxz1tlxqqZL/view?usp=drive_link" },
+            { "name": "Full Notes", "url": "https://drive.google.com/file/d/1r2DsZYJ36vVDbhmj0IbRW5isWReN2kIG/view?usp=drive_link" }
+          ],
+          "thumbnail": "https://cdn6.aptoide.com/imgs/7/e/2/7e22d5ef6caa75ec4a74b19ba3fc14ed_icon.png"
+        },
+        {
+          "name": "Discrete Mathematics",
+          "notes": [
+            { "name": "Course Handout", "url": "https://drive.google.com/file/d/1ZvLApEJp_TNNJ7R0i8VB_xwvgVpC271w/view?usp=drive_link" },
+            { "name": "DMS(Mid Sem)", "url": "https://drive.google.com/file/d/1MarT2A9IloE_63OcMRfFVuxpNA0lQxn3/view?usp=drive_link" },
+            { "name": "Abstract Algebra", "url": "https://drive.google.com/file/d/1tZE_yyY28eqr3CIhGZMFVuLhcZrlj-fL/view?usp=drive_link" },
+            { "name": "Graph Theory", "url": "https://drive.google.com/file/d/1C9o5LiDiuffbEyAciy9UsAHt3f3mHyUV/view?usp=drive_link" },
+            { "name": "DMS Notes-1", "url": "https://drive.google.com/file/d/1fT1oRFhIwJetbAu8hVrBG95Ee8RgYJre/view?usp=sharing" },
+            { "name": "DMS Notes-2", "url": "https://drive.google.com/file/d/1ZbsakcInY6DDVlHwS_rJHsnlK2G43ylY/view?usp=drive_link" },
+            { "name": "DMS notes", "url": "https://drive.google.com/file/d/12lORf-LZ9BXiVeqztUjQm6-OrQ2d2srQ/view?usp=drive_link" }
+          ],
+          "thumbnail": "https://edurev.gumlet.io/AllImages/original/ApplicationImages/CourseImages/fcc14a0c-8e59-46c0-a761-64023fcecfbe_CI.png"
         },
         {
           "name": "Computer Organization and Architecture",

@@ -429,6 +429,173 @@
             "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/n/m/p/universal-human-values-original-imagzkgpnghftfpr.jpeg?q=90"
           }
         ]  
-      }      
+      },
+      
+      
+
+
+
+
+
+
+      {
+        "id": 3,
+        "year": "Third Year",
+        "subjects": [
+          {
+            "name": "Advance Doscrete Mathematics",
+            "notes": [
+              {
+                "name": "Additional Material",
+                "url": "https://drive.google.com/drive/folders/1H8vo86bynmkEAQvvSMQkvVqFWRX0TJjh?usp=drive_link"
+              },
+              {
+                "name": "ADM 2nd Book",
+                "url": "https://drive.google.com/drive/folders/1Qr45nOoRgpJEG0EwsuEjrQbW533XQi-f?usp=drive_link"
+              },
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1frQXQotEQECo_SpflAuNWKYq2M_bJm7c?usp=drive_link"
+              },
+              {
+                "name":"Book & Solution",
+                "url":"https://drive.google.com/drive/folders/1PHFf_u1KNLvrXANbt5NLqQNIiaT-Srlv?usp=drive_link"
+              },
+              {
+                "name":"Lesson Plan",
+                "url":"https://drive.google.com/drive/folders/1MRuZkUWldPZ6MT2xWJW42LSZL27tAmsj?usp=drive_link"
+              },
+              {
+                "name":"Notes",
+                "url":"https://drive.google.com/drive/folders/1jdyK97UUbl6nCsl9d7ygiDZcchOLSjne?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNJRsmBhWcdOiuU8McThEvUUS0NTMF5PKMzZ2LxQ65kfs94n9QNuS4mzoJVv-ZnBb9j4&usqp=CAU"
+          },
+
+          {
+            "name": "Computer Networking",
+            "notes": [
+              {
+                "name": "Assignments",
+                "url": "https://drive.google.com/drive/folders/1L3ZZTx_8MLTJDCci3gv8i7V_CB4hxzlE?usp=drive_link"
+              },
+              {
+                "name": "Books",
+                "url": "https://drive.google.com/drive/folders/1oSK5X3Lj8_BZEfCjtAW_TykrYpHi3K9a?usp=drive_link"
+              },
+              {
+                "name": "End Term Project",
+                "url": "https://drive.google.com/drive/folders/1VNlQFxEUIUicO9MPS1-kAKK0JuRELZ9d?usp=drive_link"
+              },
+              {
+                "name":"Handwritten Notes",
+                "url":"https://drive.google.com/drive/folders/1PZ5oqqAu8ttI3fjatTRnsk5YhgvYBV1g?usp=drive_link"
+              },
+              {
+                "name":"Lab",
+                "url":"https://drive.google.com/drive/folders/1X0F2tbcmxJYVMzSFuO1KjJoVknZq7ZK-?usp=drive_link"
+              },
+              {
+                "name":"Project",
+                "url":"https://drive.google.com/drive/folders/1a-VhPQurchAHkPvK04_KsHyDAQkVxa4L?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Ky_haBQVkZZCJnLd-u854DzREQY8IrixfA&usqp=CAU"
+          },
+
+          {
+            "name": "Design of Operating System",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1xmDPxLnMlrsmJvlJSRYEEMDqHTn6kFHt?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1Fn9VknvnOwSkGm9FbPtM7zaWhARseEbz?usp=drive_link"
+              },
+              {
+                "name": "Book-1",
+                "url": "https://drive.google.com/file/d/1sz1knLsOA5s2KyIrLlAw1fdyykCMWwUx/view?usp=drive_link"
+              },
+              {
+                "name":"Book-2",
+                "url":"https://drive.google.com/file/d/1fT_GKmRGXhqSDoI8zSzHfBL8zqiIiYH5/view?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IYWu-K3gJeXI_0R-t9RI7-38SNSjOIrI1A&usqp=CAU"
+          },
+
+          {
+            "name": "Operating System Workshop",
+            "notes": [
+              {
+                "name": "Assignment",
+                "url": "https://drive.google.com/drive/folders/1zx-Ev9eHhEClldONW5EJr-YzGXd4xTCu?usp=drive_link"
+              },
+              {
+                "name": "Books",
+                "url": "https://drive.google.com/drive/folders/1IKmEfQuKyTcgabWbP168arfBMszapVqr?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1pg1V_urHia0npDWDooZUzz0DpN6Ioma7?usp=drive_link"
+              },
+              {
+                "name": "PPT",
+                "url": "https://drive.google.com/drive/folders/1xSZwNMoygY_wFKH0UnmGgIjBLrADRVdz?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmCOWZR5hb7HwQd4Di7V1jYHK-dcaUq2-AmDLvPZurJnYi6w9bwdTlhB727qbxU2e6OZ8&usqp=CAU"
+          },
+
+          {
+            "name": "Programming in Python",
+            "notes": [
+              {
+                "name": "Books",
+                "url": "https://drive.google.com/drive/folders/1tvR9CYDZ66h6AE20ooJ6XhsFCTlMeMkn?usp=drive_link"
+              },
+              {
+                "name": "HandOuts",
+                "url": "https://drive.google.com/drive/folders/1VLIrH7wp_0_CLO3FH78mQxt2wgn-t5ro?usp=drive_link"
+              },
+              {
+                "name": "Lab",
+                "url": "https://drive.google.com/drive/folders/1Y_dqJ0dfjs-ExPw_gQ8mqqFGbkre94cx?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1oXOntuzwZAI4CmCe0xar2AVD4zrgVCj4?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/41+l48O6TbL.jpg"
+          },
+          {
+            "name": "Theory of Computation",
+            "notes": [
+              {
+                "name": "Assignments",
+                "url": "https://drive.google.com/drive/folders/19KwOZlsTYMpjSuMOLAibNwI8pVgI5Zaq?usp=drive_link"
+              },
+              {
+                "name": "Books",
+                "url": "https://drive.google.com/drive/folders/1r4zBTNMumiHgfoac7OOzi1MRA6Yi4twm?usp=drive_link"
+              },
+              {
+                "name": "Lesson Plan",
+                "url": "https://drive.google.com/drive/folders/1vs4V4TNQ3-_6ccduuA2-U5BGt65bpa03?usp=drive_link"
+              },
+              {
+                "name": "Notes",
+                "url": "https://drive.google.com/drive/folders/1YN3sZxxQdk0H4Ty3fL7_2vDUsFEqjePo?usp=drive_link"
+              }
+            ],
+            "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/kiqbma80-0/book/l/m/n/theory-of-computation-original-imafygk9sa8ewab8.jpeg?q=20"
+          }
+          
+        ]  
+      }
     ]
 }          

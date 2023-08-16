@@ -12,6 +12,7 @@ const SubjectList = ({ year, subjects, onSubjectSelect }) => {
     };
 
     return (
+        <>
         <div className='w-[100%]'>
             <div className='max-w-[1240px] mx-auto'>
                 <h2 className='text-center mt-10 text-4xl font-bold'>Welcome to <span className='text-green-400'>{year}</span> Notes</h2>
@@ -25,6 +26,8 @@ const SubjectList = ({ year, subjects, onSubjectSelect }) => {
                 </div>
             </div>
         </div>
+        <div id='notes-section'>&nbsp; <br /> &nbsp;</div>
+        </>
     );
 };
 

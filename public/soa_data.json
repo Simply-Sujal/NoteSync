@@ -5,7 +5,7 @@
         "year": "First Year",
         "subjects": [
           {
-            "name": "Calculas",
+            "name": "Calculas (ITER)",
             "notes": [
               {
                 "name": "Lesson Plan",
@@ -27,7 +27,7 @@
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IngIxgUhfHroyoCr8hFvpifViaUfhCO0Ag&usqp=CAU"
           },
           {
-            "name": "Discrete Mathematics",
+            "name": "Discrete Mathematics (ITER)",
             "notes": [
               {
                 "name": "DM Book",
@@ -49,7 +49,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/61g-4Fx0ieL._AC_UF1000,1000_QL80_.jpg"
           },
           {
-            "name": "Physics",
+            "name": "Physics (ITER)",
             "notes": [
               {
                 "name": "Course Handout",
@@ -67,7 +67,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/61YILeTQKWL._AC_UF1000,1000_QL80_.jpg"
           },
           {
-            "name": "Intoduction to Java",
+            "name": "Intoduction to Java (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -86,7 +86,7 @@
           },
   
           {
-            "name": "Critical Thinking and Communication",
+            "name": "Critical Thinking and Communication (ITER)",
             "notes": [
               {
                 "name": "",
@@ -97,7 +97,7 @@
           },
 
           {
-            "name": "Calculas II",
+            "name": "Calculas II (ITER)",
             "notes": [
               {
                 "name": "Chapter Wise Notes",
@@ -120,7 +120,7 @@
           },
 
           {
-            "name": "DSA",
+            "name": "DSA (ITER)",
             "notes": [
               {
                 "name": "Assignments",
@@ -143,7 +143,7 @@
           },
 
           {
-            "name": "IGT",
+            "name": "IGT (ITER)",
             "notes": [
               {
                 "name": "Book & Solutions",
@@ -166,7 +166,7 @@
           },
 
           {
-            "name": "UPEM",
+            "name": "UPEM (ITER)",
             "notes": [
               {
                 "name": "Book & Solution",
@@ -185,7 +185,7 @@
           },
 
           {
-            "name": "PME",
+            "name": "PME (ITER)",
             "notes": [
               {
                 "name": "HandOuts",
@@ -217,7 +217,7 @@
         "year": "Second Year",
         "subjects": [
           {
-            "name": "Algorithm Design I",
+            "name": "Algorithm Design I (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -240,7 +240,7 @@
           },
 
           {
-            "name": "CSW",
+            "name": "CSW (ITER)",
             "notes": [
               {
                 "name": "Java Assignments",
@@ -267,7 +267,7 @@
           },
 
           {
-            "name": "DLD",
+            "name": "DLD (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -298,7 +298,7 @@
           },
 
           {
-            "name": "PME",
+            "name": "PME (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -313,7 +313,7 @@
           },
 
           {
-            "name": "Probability and Statistics",
+            "name": "Probability and Statistics (ITER)",
             "notes": [
               {
                 "name": "Book",
@@ -335,7 +335,7 @@
 
 
           {
-            "name": "Algorithm Design II",
+            "name": "Algorithm Design II (ITER)",
             "notes": [
               {
                 "name": "Assignments",
@@ -353,7 +353,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
           },
           {
-            "name": "Applied Linear Alzebra",
+            "name": "Applied Linear Alzebra (ITER)",
             "notes": [
               {
                 "name": "Ch:1",
@@ -379,7 +379,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/51kHWUoiR5L._AC_UF1000,1000_QL80_.jpg"
           },
           {
-            "name": "COA",
+            "name": "COA (ITER)",
             "notes": [
               {
                 "name": "Resources",
@@ -419,7 +419,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/41+Bik0tUlL.jpg"
           },
           {
-            "name": "UHV",
+            "name": "UHV (ITER)",
             "notes": [
               {
                 "name": "Lectures",
@@ -443,7 +443,7 @@
         "year": "Third Year",
         "subjects": [
           {
-            "name": "Advance Doscrete Mathematics",
+            "name": "Advance Doscrete Mathematics (ITER)",
             "notes": [
               {
                 "name": "Additional Material",
@@ -474,7 +474,7 @@
           },
 
           {
-            "name": "Computer Networking",
+            "name": "Computer Networking (ITER)",
             "notes": [
               {
                 "name": "Assignments",
@@ -505,7 +505,7 @@
           },
 
           {
-            "name": "Design of Operating System",
+            "name": "Design of Operating System (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -528,7 +528,7 @@
           },
 
           {
-            "name": "Operating System Workshop",
+            "name": "Operating System Workshop (ITER)",
             "notes": [
               {
                 "name": "Assignment",
@@ -551,7 +551,7 @@
           },
 
           {
-            "name": "Programming in Python",
+            "name": "Programming in Python (ITER)",
             "notes": [
               {
                 "name": "Books",
@@ -573,7 +573,7 @@
             "thumbnail": "https://m.media-amazon.com/images/I/41+l48O6TbL.jpg"
           },
           {
-            "name": "Theory of Computation",
+            "name": "Theory of Computation (ITER)",
             "notes": [
               {
                 "name": "Assignments",

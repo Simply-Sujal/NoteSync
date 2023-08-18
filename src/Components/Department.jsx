@@ -44,7 +44,7 @@ const Department = () => {
         {
             id: 7,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
-            topic: "Discrete Mathematics",
+            topic: "Web Technology",
             totalnotes: "70 Notes"
         },
         {

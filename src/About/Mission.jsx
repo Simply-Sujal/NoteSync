@@ -15,10 +15,10 @@ const Mission = () => {
                     <h1 className='text-4xl pb-5 text-green-400 font-semibold'>NoteSync. <span className='text-[#1C1427]'>Mission</span></h1>
                     <p className='text-start py-3 text-[17px] text-[#1C1427]'>At NoteSync.  , our mission is to empower college engineering students by providing them with comprehensive, high-quality, and easily accessible subject notes. We are dedicated to supporting students in their academic journey, helping them excel in their studies, and preparing them for successful careers in the engineering field.</p>
                     <p className='text-start py-3 text-[17px] text-[#1C1427]'>We strive to cover a wide range of engineering disciplines and offer a comprehensive library of notes, ensuring that students can find relevant and reliable resources for their specific courses and subjects.</p>
-                    <p className='text-start py-3 text-[17px] text-[#1C1427]'>We are committed to maintaining the highest standards of quality and accuracy in our notes. Our team of experienced engineering professionals and educators carefully create and review each resource to ensure its relevance and reliability.</p>
+                    <p className='text-start py-3 text-[17px] text-[#1C1427]'>NoteSync also provides the top video materials that we believe are beneficial for our engineering students, and you can find the most filtered out video lectures. Developed by certain professionals and educators.</p>
                     <div className='py-3 flex gap-2'>
                         <Link to="/resource"><ButtonFill>Resource</ButtonFill></Link>
-                        <Link to='/video'><ButtonOutline>Explore</ButtonOutline></Link>
+                        <Link to='/video'><ButtonOutline>Video</ButtonOutline></Link>
                     </div>
                 </div>
             </div>

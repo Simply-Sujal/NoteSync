@@ -1,5 +1,5 @@
 import React from 'react'
-import ButtonFill from './ButtonFill'
+import { Link } from 'react-router-dom'
 
 const Newsletter = () => {
     return (
@@ -10,11 +10,15 @@ const Newsletter = () => {
                     <p>Sign in to our newsletter and stay up to date.</p>
                 </div>
                 <div className='my-4'>
-                    <div className='flex flex-col sm:flex-row items-center justify-between w-full'>
-                        <input className='p-3 flex w-full rounded-md text-black ' type='email' placeholder='Enter Email' />
-                        <button className='bg-[#22c55e] text-black rounded-md shadow-sm shadow-green-700 font-medium md:text-sm text-xs tracking-wide w-[200px] ml-4 my-6 px-5 py-3'>Notify Me</button>
-                    </div>
-                    <p>We care about the protection of your data. Read our <span className='text-[#22c55e]'>privacy policy.</span> </p>
+                    <form action="https://formspree.io/f/xgejovkl" method='POST' className='flex flex-col space-y-4'>
+                        <div className='flex flex-col sm:flex-row items-center justify-between w-full'>
+
+                            <input className='p-3 flex w-full rounded-md text-black ' type='email' placeholder='Enter Email' name='Email' required />
+                            <button className='bg-[#22c55e] text-black rounded-md shadow-sm shadow-green-700 font-medium md:text-sm text-xs tracking-wide w-[200px] ml-4 my-6 px-5 py-3'>Notify Me</button>
+                        </div>
+                    </form>
+                    <p>We care about the protection of your data. Read our <span className='text-[#22c55e]'>
+                        <Link to='/privacy-policy'>privacy policy</Link>.</span> </p>
                 </div>
             </div>
         </div>

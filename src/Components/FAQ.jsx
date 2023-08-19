@@ -30,23 +30,27 @@ const data = [
 
 const FAQ = () => {
     return (
-        <div className='w-full my-32 text-center'>
-            <h2 className='text-4xl md:text-5xl font-bold'><span className='text-[#212121]'> FAQ's </span></h2>
-            <div className='max-w-[800px] mx-auto px-3 my-10'>
-                {
-                    data.map((item) => {
-                        // destruct
-                        const { question, answer } = item;
-                        return (<div className='bg-[#F5F5F5] p-5 my-2 rounded-md' key={item.id}>
-                            <Accordian
-                                question={question}
-                                answer={answer}></Accordian>
-                        </div>
-                        );
-                    })
-                }
+        <>
+            <div id='faq'></div>
+            <div className='w-full my-32 text-center'>
+                <h2 className='text-4xl md:text-5xl font-bold'><span className='text-[#212121]'> FAQ's </span></h2>
+                <div className='max-w-[800px] mx-auto px-3 my-10'>
+                    {
+                        data.map((item) => {
+                            // destruct
+                            const { question, answer } = item;
+                            return (<div className='bg-[#F5F5F5] p-5 my-2 rounded-md' key={item.id}>
+                                <Accordian
+                                    question={question}
+                                    answer={answer}></Accordian>
+                            </div>
+                            );
+                        })
+                    }
+                </div>
             </div>
-        </div>
+
+        </>
     )
 }
 

@@ -9,49 +9,57 @@ const Department = () => {
             id: 1,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Software Engineering",
-            totalnotes: "100 Notes"
+            totalnotes: "video",
+            videoLink: "/softwareeng"
         },
         {
             id: 2,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Computer Network",
-            totalnotes: "80 Notes"
+            totalnotes: "video",
+            videoLink: "/cnbyamitkhurana"
         },
         {
             id: 3,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Database Mangement",
-            totalnotes: "50 Notes"
+            totalnotes: "video",
+            videoLink: "/dbms"
         },
         {
             id: 4,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Data Structure",
-            totalnotes: "150 Notes"
+            totalnotes: "video",
+            videoLink: "/dsaincnesoacademy"
         },
         {
             id: 5,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Operating System",
-            totalnotes: "80 Notes"
+            totalnotes: "video",
+            videoLink: "/oscodehelp"
         },
         {
             id: 6,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
             topic: "Discrete Mathematics",
-            totalnotes: "50 Notes"
+            totalnotes: "video",
+            videoLink: "/discretemathematics"
         },
         {
             id: 7,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
-            topic: "Discrete Mathematics",
-            totalnotes: "70 Notes"
+            topic: "Computer Organization",
+            totalnotes: "video",
+            videoLink: "/coabinduagarwala"
         },
         {
             id: 8,
             image: "https://png.pngtree.com/png-vector/20230311/ourmid/pngtree-computer-science-line-icon-vector-png-image_6643745.png",
-            topic: "Economics",
-            totalnotes: "20 Notes"
+            topic: "Artificial intelligence",
+            totalnotes: "video",
+            videoLink: "/aibyeasyenggclasses"
         }
     ]
     return (
@@ -69,19 +77,18 @@ const Department = () => {
                                         <img src={item.image} className='text-red-800 bg-cover' />
                                     </div>
                                     <h1 className='text-[20px] leading-8 my-5 font-bold text-center'>{item.topic}</h1>
-                                    <Link to='/resources'>
+                                    <Link to={item.videoLink}>
                                         <span className='bg-[#f8f8f8] rounded-md text-[#007dfe] text-1xl py-1 px-2 font-semibold'>{item.totalnotes}</span></Link>
                                 </div>
                             ))
                         }
                     </div>
 
-                    <div className='py-10'>
+                    {/* <div className='py-10'>
                         <Link to='/resources'>
                             <button className=' bg-[#22c55e] text-white rounded-full shadow-sm shadow-green-700 font-semibold md:text-sm text-xs tracking-wide md:px-16 px-9 py-3'>Know More</button>
                         </Link>
-                    </div>
-
+                    </div> */}
                 </div>
             </section >
         </>

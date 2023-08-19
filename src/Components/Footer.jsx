@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
     const handleLinkedInClick1 = () => {
-        window.location.href = "https://www.instagram.com/me_console_coder/";
+        window.location.href = "https://www.instagram.com/notesync_in/";
     };
     const handleLinkedInClick2 = () => {
-        window.location.href = "https://twitter.com/362Sujal";
+        window.location.href = "https://twitter.com/NoteSync_in";
     };
     const handleLinkedInClick3 = () => {
         window.location.href = "https://www.linkedin.com/in/sujal-timilsina-a26299197/";
@@ -45,10 +45,10 @@ const Footer = () => {
                 <div className='p-5'>
                     <ul>
                         <p className='text-gray-800 font-bold text-2xl pb-4'>Notes</p>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/resources'>PDF</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/resources'>PPT</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/computernetoworks'>Video Lectures</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/resources'>Assignment</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://drive.google.com/file/d/1hjvxfPjpdfNFROJ98B2yJpBt0RkjIwwA/view'>PDF</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://docs.google.com/document/d/1hPUF-yFvsbELvf1bS8KCS27y-oiB3Qkv/edit'>DOC's</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://drive.google.com/drive/folders/1Am0ewd2Xv3b0dHwrYOVP_fQThmXbMj2e'>Lecture Notes</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://drive.google.com/drive/folders/1uTJF6N_odID3tcVnlzeRqglNDk6rpVlb'>Assignment</Link></li>
                     </ul>
                 </div>
 
@@ -56,6 +56,7 @@ const Footer = () => {
                 <div className='p-5'>
                     <ul>
                         <p className='text-gray-800 font-bold text-2xl pb-4'>Support</p>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://chat.whatsapp.com/KwDtVov5yrw3StSWe87hWo'>Community</Link></li>
                         <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/termsandconditions'>Terms & Conditions</Link></li>
                         <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/disclaimer'>Disclaimer</Link></li>
                         <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/privacy-policy'>Privacy Policies</Link></li>

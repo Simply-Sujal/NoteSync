@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import { BsTelephoneFill } from 'react-icons/bs'
 import { GrMail } from 'react-icons/gr'
 import { MdLocationOn } from 'react-icons/md'

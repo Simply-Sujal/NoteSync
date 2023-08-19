@@ -7,10 +7,10 @@ import { Link } from 'react-router-dom'
 
 const HomePage = () => {
     const handleLinkedInClick1 = () => {
-        window.location.href = "https://www.instagram.com/me_console_coder/";
+        window.location.href = "https://www.instagram.com/notesync_in/";
     };
     const handleLinkedInClick2 = () => {
-        window.location.href = "https://twitter.com/362Sujal";
+        window.location.href = "https://twitter.com/NoteSync_in";
     };
     const handleLinkedInClick3 = () => {
         window.location.href = "https://www.linkedin.com/in/sujal-timilsina-a26299197/";

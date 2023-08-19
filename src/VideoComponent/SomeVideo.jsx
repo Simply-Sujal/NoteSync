@@ -806,7 +806,7 @@ const ytVideos = [
         id: 86,
         courseName: "Big Data (5min Engg.)",
         courseImage: "https://cdn.slidesharecdn.com/ss_thumbnails/englishbigdata-210727080650-thumbnail.jpg?width=640&height=640&fit=bounds",
-        aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them, else go on to another.",
+        aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/bdby5minengg',
         year: 'Third Year'

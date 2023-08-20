@@ -2283,6 +2283,7 @@
               ],
               "thumbnail": "https://static.vecteezy.com/system/resources/previews/011/332/798/original/artificial-intelligence-ai-logo-human-technology-human-digital-robot-tech-icon-design-template-free-vector.jpg"
             },
+  
             {
               "name": "Big Data",
               "notes": [
@@ -2340,9 +2341,406 @@
                 }
               ],
               "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+            {
+              "name": "Data Mining & Data WareHouse",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://drive.google.com/file/d/1AXt4A6C4WADqoM77OlhMkwYZoXp-TpeD/view?usp=drive_link"
+                },
+                {
+                  "name": "Introduction",
+                  "url":"https://drive.google.com/file/d/15fBmEqLhJ5pZB6klkIrqbWsIWnTjlfHy/view?usp=drive_link"
+                },
+                {
+                  "name": "Artificial Neural Intelligence",
+                  "url":"https://drive.google.com/file/d/1gov6MoEAuCBV6xWhhbe1X7gQWPEoObO_/view?usp=drive_link"
+                },
+                {
+                  "name": "Data Mining Classification",
+                  "url": "https://drive.google.com/file/d/1VtJt-gjmHjLTQK6BCXfzmsOXOvzBs-JD/view?usp=drive_link"
+                },
+                {
+                  "name": "Spatial and Temporal Data Mining",
+                  "url": "https://docs.google.com/document/d/19tr2cA38MF4Dceh3caWBNCDCrfTYq30-/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Data Preprocessing",
+                  "url": "https://drive.google.com/file/d/17OS_YLca9JL3f44ZuDRbWGncWH1oM4_T/view?usp=drive_link"
+                },
+                {
+                  "name": "Concept & Techniques",
+                  "url": "https://docs.google.com/presentation/d/1WQUnQLK3cE_zKCpWjQjIDKTANutKLG_m/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Hierarchial Clustering",
+                  "url": "https://drive.google.com/file/d/1BvpPV7RdY9okzkpE_xDl-Uq3vM0y5fCh/view?usp=drive_link"
+                },
+                {
+                  "name": "Data Warehousing",
+                  "url": "https://drive.google.com/file/d/1J6iuLy-mYPkh9OiZRIQxjIC80YUrYpeO/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_8",
+                  "url": "https://drive.google.com/file/d/1OXZwN7CFWK3RNEX2tacaBMZl1OxaQW5J/view?usp=drive_link"
+                },
+                {
+                  "name": "Lazy Learners",
+                  "url": "https://drive.google.com/file/d/1XB9rNVTUuNqBrJY9iFo8P12UXcoPGkGf/view?usp=drive_link"
+                },
+                {
+                  "name": "Normalisation",
+                  "url": "https://drive.google.com/file/d/1wNLjoPya9EAmN5pleHFFmDUAh7Adhxx3/view?usp=drive_link"
+                },
+                {
+                  "name": "pmf",
+                  "url": "https://drive.google.com/file/d/1CTo8ZTba4FGVco7taGXM0SHaFFDY0Cw1/view?usp=drive_link"
+                },
+                {
+                  "name": "Morgan Kaufmann Series",
+                  "url": "https://drive.google.com/file/d/1ShUZ_DMwT2k3h1xWrhkIvmPn6Inj8th_/view?usp=drive_link"
+                },
+                {
+                  "name": "Concept & Techniques-2",
+                  "url": "https://docs.google.com/presentation/d/1_CQXl2J8iOS-0Hjp8Ada_dYj7LXA9PXV/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Chi Square",
+                  "url": "https://docs.google.com/presentation/d/1KD5tfO30orbiNFxMtuKOTH2oO89bl6LZ/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Correlation",
+                  "url": "https://drive.google.com/file/d/1aCHgGXs1OFxgxKg-T-rHotIurf-dm509/view?usp=drive_link"
+                },
+                {
+                  "name": "Data Transformation",
+                  "url": "https://drive.google.com/file/d/15RDBiQhVeLSqTUHT0MCvQ7tb5IAQvb13/view?usp=drive_link"
+                },
+                {
+                  "name": "Dimensionality Reduction",
+                  "url": "https://drive.google.com/file/d/14P9Fsr1n1H2a4Q8OvFI41RkP88RDZsVD/view?usp=drive_link"
+                },
+                {
+                  "name": "Multi-Layer Feed-Forward Neural Network",
+                  "url": "https://drive.google.com/file/d/15uZ_glpsR6DaWH8R85XCpZ6qGUYPlyqm/view?usp=drive_link"
+                },
+                {
+                  "name": "Bayesian Classification",
+                  "url": "https://drive.google.com/file/d/1-cU-_8H9smMSUE33DUJ7KtbM8WuOKQMD/view?usp=drive_link"
+                },
+                {
+                  "name": "Data 1",
+                  "url":"https://drive.google.com/file/d/1QNciFSe1ela17ngiz9oNvr1QSGUbZOe5/view?usp=drive_link"
+                },
+                {
+                  "name": "Data 2",
+                  "url":"https://drive.google.com/file/d/1d22UzSc2Gr82_QrTOmy_Tm-BON64ICEg/view?usp=drive_link"
+                },
+                {
+                  "name": "Basic Statistical Data",
+                  "url":"https://drive.google.com/file/d/1y7h6RoJZGDibSzacuI9IejhuIa4j7IIt/view?usp=drive_link"
+                },
+                {
+                  "name": "Sampling",
+                  "url":"https://drive.google.com/file/d/1S21szfEZ2tIypW92bUAHQAv_bdPKr2UF/view?usp=drive_link"
+                },
+                {
+                  "name": "DW & BI-1",
+                  "url":"https://drive.google.com/file/d/1VGR-u7qkuO1JQtXJfTsvBdoOgNha3w4H/view?usp=drive_link"
+                }
+                ,
+                {
+                  "name": "Association and apriori algorithm",
+                  "url":"https://drive.google.com/file/d/1a3_DAW3nii4AKURbNQIL1Z2QmHXunpXF/view?usp=drive_link"
+                }
+                ,
+                {
+                  "name": "Association & Correlation Analysis",
+                  "url":"https://drive.google.com/file/d/1wrKenQp2E61A4Nk4SrJqYvgKfpRUC0OP/view?usp=drive_link"  
+                }
+               
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "Data Analytics",
+              "notes": [
+                {
+                  "name": "DA Full Notes",
+                  "url": "https://drive.google.com/file/d/1BVDS9MoxnS1tFTOPCMBp_i91s1T9UZpB/view?usp=drive_link"
+                },
+                {
+                  "name": "Intro",
+                  "url": "https://drive.google.com/file/d/1_VOXig2VMLWAken9v9NhuW-iEgQzpQ75/view?usp=drive_link"
+                },
+                {
+                  "name": "Data Analytics",
+                  "url": "https://drive.google.com/file/d/1Q7JAQe24TX76brwulWqqRZ5oJb5DOmVJ/view?usp=drive_link"
+                },
+                {
+                  "name": "Mining Data Streams",
+                  "url": "https://drive.google.com/file/d/193bDASzR7ATEC-6JOju8oHvTepDFkkjK/view?usp=drive_link"
+                },
+                {
+                  "name": "Support Vector Machine",
+                  "url": "https://drive.google.com/file/d/1-7xylDIJTmN8wzo3p4Y9TrPiY96-6KDm/view?usp=drive_link"
+                },
+                {
+                  "name": "Classification & Clustering",
+                  "url": "https://drive.google.com/file/d/1rOoT0Yi5KadRUbC_0Ae2-90pz2rU7Eu6/view?usp=drive_link"
+                },
+                {
+                  "name": "Life Cycle",
+                  "url": "https://drive.google.com/file/d/1Nzs_r_TpamCSr7GijodgkUKUBNyJydzN/view?usp=drive_link"
+                },
+                {
+                  "name": "Data exploration",
+                  "url": "https://drive.google.com/file/d/1ZUxStkDgHoGZu35yyqUWJsy8g0DFFJqP/view?usp=drive_link"
+                },
+                {
+                  "name": "FrameWork & Visualization",
+                  "url": "https://drive.google.com/file/d/11Gu9-XGGaJMovxaIFP_bsnQU_yhQcA8o/view?usp=drive_link"
+                },
+                {
+                  "name": "Big Data Analytics",
+                  "url": "https://drive.google.com/file/d/1gpASztBSBumYYUn6qEvAYM-LGMyKxUDA/view?usp=drive_link"
+                },
+                {
+                  "name": "Market Basket Analysis",
+                  "url": "https://drive.google.com/file/d/1fvYSBSgqHgcw7CVXu9KOb8KYBIoyNNV3/view?usp=drive_link"
+                },
+                {
+                  "name": "Regression",
+                  "url": "https://drive.google.com/file/d/1nSmuBIb1ONJ_kxjsnY-T_48gJllzTtfW/view?usp=drive_link"
+                },
+                {
+                  "name": "Statistics & Probabiltiy",
+                  "url": "https://docs.google.com/presentation/d/1HDnFpa9_WAnz3Mlhs0JGV6Ghgeq5mmFB/edit?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "FPM",
+              "notes": [
+                {
+                  "name": "Cost of Quality",
+                  "url": "https://drive.google.com/file/d/1DOyF4nJi6T-4FiUsxAolQzti3iXFZcnA/view?usp=drive_link"
+                },
+                {
+                  "name": "Project Performance",
+                  "url": "https://drive.google.com/file/d/1ayf2GxvlVpXQfpkg1Hjf5e7nm8vUv632/view?usp=drive_link"
+                },
+                {
+                  "name": "Uncertainity performance",
+                  "url": "https://docs.google.com/presentation/d/1rDbfFFG-5jiejlxQRE-xqBtovrUBmtiv/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Measurement Performance Domain",
+                  "url": "https://docs.google.com/presentation/d/1zlCzbvn9QKitD-66ksXE_9BOnmBmGCiL/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Project Work Performance",
+                  "url":"https://docs.google.com/presentation/d/1uE3wC45FJsJJxYyMARRkXQD4c2zW0TxK/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Planning Performance  ",
+                  "url": "https://docs.google.com/presentation/d/1K0ToHfMwErg3t1nd3CiSK8Qv1Nvm-kJj/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Teamm Performance",
+                  "url": "https://docs.google.com/presentation/d/14kTMCJGnX2Y0UNdR3HAli-MtFX_fvWcX/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "StakeHolder Performance",
+                  "url": "https://docs.google.com/presentation/d/1vgjcIomwo0zBcCG_x91_PptLp2rfWxpA/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                }
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "Object Oriented System Design",
+              "notes": [
+                {
+                  "name": "Overveiw",
+                  "url": "https://docs.google.com/presentation/d/1kr6LH5vP6vntoX_WWYn1uPrYJ3Efel5u/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Object Basics",
+                  "url": "https://docs.google.com/presentation/d/1Fb6wLBTTG3mrSbBA3m1BjwtO1mfHTjU6/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Life Cycle",
+                  "url": "https://docs.google.com/presentation/d/1gqpwtyPFxEOpQ_zdhFCxNhGLenbmW3rk/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Methodologies",
+                  "url": "https://docs.google.com/presentation/d/1VzViaXyp6BAq4bxiD3XucdRrTQZX3QvC/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Identifying objects",
+                  "url": "https://docs.google.com/presentation/d/1mUTXX8mpj_Jn05O8fWq8FsbYFhiavfVS/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Classification",
+                  "url": "https://docs.google.com/presentation/d/1zEwLwbcfIl0gSLJbAeJMq53zuFKHIIDr/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "OODP & Design Axioms",
+                  "url": "https://drive.google.com/file/d/1lCwkTemkNw7CJAqNVlI0uRdtcBWTfDpJ/view?usp=drive_link"
+                },
+                {
+                  "name": "Access Layer",
+                  "url": "https://drive.google.com/file/d/1MwZxYQyENWnkiVMZPmKMjxXl7j7mTwpm/view?usp=drive_link"
+                },
+                {
+                  "name": "Uml",
+                  "url": "https://docs.google.com/presentation/d/14-zGBT1yzKUnClD0vyGjT5KxkuOudyqr/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Uml Tutorial",
+                  "url": "https://drive.google.com/file/d/1AX1DzFo3FV1-60nTgYaOt26fQZXojd5I/view?usp=drive_link"
+                },
+                {
+                  "name": "Analysis Principles using UML",
+                  "url": "https://docs.google.com/presentation/d/1ytUgI6nFAp9cxrielYZ4SQ6yK2UqQdz4/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                }
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "Machine Learning",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://drive.google.com/file/d/1kQh5EUyKJI1LbOEfaWYGh384-LsnCIne/view?usp=drive_link"
+                },
+                {
+                  "name": "Intro",
+                  "url": "https://docs.google.com/presentation/d/1Q-e9yQ7rRP5jjK0EvkHeYFbx4A9sEfT0/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Simple Linear Regression",
+                  "url": "https://docs.google.com/presentation/d/1oW3xYZRreS1Q6WpmQ6eBnyenBDvWKLMH/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Ridge and Lasso",
+                  "url": "https://docs.google.com/presentation/d/1zMQ1j_fClm9dolwFgqN4h63U9nmlY4QT/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Classification-1",
+                  "url": "https://docs.google.com/presentation/d/16z8BVP59CszK--5mJzfsLNT18647ryPy/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Classifcation-2",
+                  "url": "https://docs.google.com/presentation/d/1LO6WUYEwvF8ItrenNmduwmlJdD_5IzXm/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Decision Tree ",
+                  "url": "https://drive.google.com/file/d/1qjPdQbwNBtMfnMKvwOY4WgkSeQAe7wPu/view?usp=drive_link"
+                },
+                {
+                  "name": "Clustering",
+                  "url": "https://docs.google.com/presentation/d/1CvtbCyZj-wB3UZ5jMqO5NFZ6ke8ftAnv/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Logical Regression",
+                  "url": "https://docs.google.com/presentation/d/1aAU3Vsm_5EJ_6F8RMMjx4mtNFSS4fz7v/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Random Forest",
+                  "url": "https://drive.google.com/file/d/1Zt0pqVf6jRlUABqKWBAxr_I5c9e7iEbg/view?usp=drive_link"
+                },
+                {
+                  "name": "PCA",
+                  "url": "https://drive.google.com/file/d/1O2ZU5-BOAyoQKMaYpcRtRVtKw-TZA1Mg/view?usp=drive_link"
+                },
+                {
+                  "name": "Support Vector Machine",
+                  "url": "https://drive.google.com/file/d/1xw-8CudheLvsDtspqoZtm192oGS7nciR/view?usp=drive_link"
+                },
+                {
+                  "name": "AN-1",
+                  "url": "https://drive.google.com/file/d/1daMZn70hIM5TB53e7CHxISd6vVQouWHU/view?usp=drive_link"
+                },
+                {
+                  "name": "Bayesian Classification",
+                  "url": "https://drive.google.com/file/d/1nPInrQd6kxB8S3sBCJPbTY5tqaaqlFav/view?usp=drive_link"
+                }
+               
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "IoT",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://docs.google.com/document/d/1HyWx-duSqZA7VGu8DYKMxRhzi_9sZtYO/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "IoT midsem",
+                  "url": "https://drive.google.com/file/d/1JJpsSuQMjgzqJNPuL45lyH_JX5UjiApR/view?usp=drive_link"
+                },
+                {
+                  "name": "Introduction",
+                  "url": "https://drive.google.com/file/d/1uctUDiTBOkihI3eIPIONinSsGnpFyUt5/view?usp=drive_link"
+                },
+                {
+                  "name": "Doain Specific ",
+                  "url": "https://drive.google.com/file/d/1240fGkZyJkTK_UUcmWEN_ORUVQzpDhLW/view?usp=drive_link"
+                },
+                {
+                  "name": "M2M",
+                  "url": "https://drive.google.com/file/d/1e2w8JA7qZy2XEFWWSKgfg-TE-y4wLN2Z/view?usp=drive_link"
+                },
+                {
+                  "name": "System Management",
+                  "url": "https://drive.google.com/file/d/1wUn1q1myT8gyFIHsRZFP5nyoWzfyZLKV/view?usp=drive_link"
+                },
+                {
+                  "name": "Methodology",
+                  "url": "https://drive.google.com/file/d/1tHAEPXTepM6gPsBhfZ6MjgfWZdnozJyW/view?usp=drive_link"
+                },
+                {
+                  "name": "System Logical Design",
+                  "url": "https://drive.google.com/file/d/1rbkNv-Bw9kPgSTFx7eVeQrdrLRHENo-D/view?usp=drive_link"
+                },
+                {
+                  "name": "Physical Devices",
+                  "url": "https://drive.google.com/file/d/1GFTYZo3nYhx0zj4NMHT6ibwA3wyxw7DD/view?usp=drive_link"
+                },
+                {
+                  "name": "Physical Servers",
+                  "url": "https://drive.google.com/file/d/1oDe7NbXeMdJqmcyZnxCrC54NnzdslA9p/view?usp=drive_link"
+                },
+                {
+                  "name": "Case Studies",
+                  "url": "https://drive.google.com/file/d/1QQzpo21n7NBSoobw-QsqZ9253wCLp9GF/view?usp=drive_link"
+                },
+                {
+                  "name": "Cloud Computing",
+                  "url": "https://docs.google.com/presentation/d/1LhU5WO-j_cI5cmNMwIwQ8iM6bUsJ138u/edit?usp=drive_link&ouid=117659705214405942864&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Data Analytics",
+                  "url": "https://drive.google.com/file/d/1jFP6aP2bQdNpC9ceAhOZHcH6QFdMta_q/view?usp=drive_link"
+                }
+                
+               
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
             }
           ]
         },
+          
+        
         {
           "id": 4,
           "year": "Fourth Year",
@@ -4383,25 +4781,830 @@
         {
           "id": 1,
           "year": "First Year",
-          "subjects": []
+          "subjects": [
+            {
+              "name": "Maths-1",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1e9IEKXe-EkcVC9jxy1GhBzyLXnN8pOtt/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1Bn8HYYYqphFn-22n16cmJpnSBMD9tNvI/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1LwCHAq18T0HoEArCil3j9LIApaCXPOvn/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url":"https://drive.google.com/file/d/1lbTYA-9xKcMf_MuwNvJiXyYvBiZlKScO/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1NqV1FDiCNlzBHeQIHPopWSTHi-w_ntEx/view?usp=sharing"
+                },
+                {
+                  "name": "Module-6",
+                  "url": "https://drive.google.com/file/d/1ZLK8Bgoj4Qu6TJAk40NVnvO03VFHXCjg/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://lh3.googleusercontent.com/ejtmPYVGJbvqQhqba7oZGPZYHLD_Up3FDS3w04B0_e4rKPorFaiy9_HAk2U8qqw-vQ=s180"
+            },
+
+            {
+              "name": "Maths-2",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/13NJVOQl563tZxxTnq86869gUCYLR0wIV/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1MkZROhR5V1RdG5oVwmxT1HJQkU5wH99g/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1rGafPnLa4SayVWWtv_Qfxv2NM0xmcJos/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1WyYZN9UGMBqARfzBhvJ8sUF_nlvHOCIw/view?usp=sharing"
+                },
+                {
+                  "name": "Module-6",
+                  "url": "https://drive.google.com/file/d/16zD79xtKsPuuWvh9hD5W1CAThgWAopkm/view?usp=sharing"
+                },
+                {
+                  "name": "Poisson Distribution Table",
+                  "url": "https://drive.google.com/file/d/117ilZ0Gy9tHiODIg2CyqqRFIiJJ5HHd6/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://i.pinimg.com/originals/d4/8e/ab/d48eab5eaf8e39701e146e0c2de1236a.jpg"
+            },
+
+            {
+              "name": "Physics",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1bTNWSf0JMU5ZgNUdzKZAqCphPF82pNRq/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1W4XpbrHJPQDtz-HC-9Z2ZAWm_W8hn6l6/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1dzLd9aAnrspqaP2p5e8dfuuwBGoTXEXz/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1YeJj35UV3DSgb17wwVajaBCFlcGAiz85/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://www.techglads.com/wp-content/uploads/2015/04/ep.jpg"
+            },
+            {
+              "name": "Chemistry",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1EK4_yN3qUJQMzREhXMUoFB-kXJ2XCP_i/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.mMJHHaBYGnaTR64Gj_WXKwHaE8&pid=Api&P=0&h=180"
+            },
+
+            {
+              "name": "Data Structure And Algorithm",
+              "notes": [
+                {
+                  "name": "DSA-merged",
+                  "url": "https://drive.google.com/file/d/16oOMXpD3Ao-ih3Ouc1IqyAM3hW07rewC/view?usp=sharing"
+                },
+                {
+                  "name": "Sorting",
+                  "url": "https://drive.google.com/drive/folders/1bkt13AnXHWHx67xdabVRcwolW1NkR0hc?usp=sharing"
+                },
+                {
+                  "name": "Tree",
+                  "url": "https://drive.google.com/drive/folders/1o29jg8wPAKFAFap0dyPgFkRmEgwiQyJD?usp=sharing"
+                },
+                {
+                  "name": "Graph",
+                  "url": "https://drive.google.com/drive/folders/1E6eH7GI3qevdcTt-oBoHNI-CaEL8DFi0?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://www.borntodev.com/wp-content/uploads/2020/03/sqr_data-structure.png"
+            },
+            {
+              "name": "Environmental Education",
+              "notes": [
+                {
+                  "name": "Env",
+                  "url": "https://drive.google.com/drive/folders/1g_5oDLz6ZvoUjDw98fpuaY7CIBlKLoCw?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.BuBPtgBTqfNHUht76JzobwAAAA&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Basic Electrical",
+              "notes": [
+                {
+                  "name": "Complete Lecture Notes",
+                  "url": "https://drive.google.com/file/d/1PAtAQj8dORtbMiSsuAbFP-bJs4Qi-CBI/view?usp=sharing"
+                },
+                {
+                  "name": "Module-1 and Module-2",
+                  "url": "https://drive.google.com/file/d/1Ga-V5bjbE1xeQKXDzEZVd8JLTlSiLBXH/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/13XI9JCosv4S6IKoCw3FrgH_xzkXCdvk1/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1nAahmQGGEBIN5erFn5EnGzLz8K8CKc9f/view?usp=sharing"
+                },
+                {
+                  "name": "DC Generator Problem",
+                  "url": "https://docs.google.com/presentation/d/1bzagrFgU-RZjhj88JuEPtsw6wQxNhgtr/edit?usp=sharing&ouid=110544212537477443171&rtpof=true&sd=true"
+                }
+                
+              ],
+              "thumbnail": "http://lh3.googleusercontent.com/_cOaTmxNAlpkMjx1XnjLgX-PSbO1IDk1ocu7rm3iozJ1DOEja76StT22EubCO1LPhaEX=w300"
+            },
+            {
+              "name": "Basic Electronics",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1EkyxL4-zGxWtmGK1aH9kwG5a7CNdwL-2/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.FXNMYYGGZV3WSra-N0CJFQHaEK&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Constitution Of India",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/17U-j_TZ7OczEWkeHZLCsU-9RX7Xd1Y91/view?usp=sharing"
+                }
+                
+              ],
+              "thumbnail": "https://cdn.slidesharecdn.com/ss_thumbnails/constitutionofindia2003-110926211105-phpapp01-thumbnail-4.jpg?cb=1317071654"
+            },
+            {
+              "name": "Engineering Graphics",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/drive/folders/14AnWiDU3XuPOpwucImqu_jM1cIV-LjII?usp=sharing"
+                } 
+              ],
+              "thumbnail": "https://i.ytimg.com/vi/Kue8XTOc6Us/maxresdefault.jpg"
+            }
+          ]
         },
 
         {
           "id": 2,
           "year": "Second Year",
-          "subjects": []
+          "subjects": [
+            {
+              "name": "Maths-3",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1cjdn4pftXhzrnqL-tMqX058yZ0n1n6-V/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "http://aswdc.in/Upload/Project/27%20Engineering%20Mathematics%203.png"
+            },
+            {
+              "name": "BME",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1x2YjkTCyoU5WIgNfcxn22Bmo5noQTSKD/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1YO9Vxg1EHkxoGs1JD_FBfe_6Gickpivi/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1mYTj4_eKgwjigktqO5-9xPQ5polpmceW/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1Ndw6YhONE8TJAnucwAfLcwL3CRR_farO/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/15ABJd0qa9t0AY_2nJnvlBbobYa4bl1bh/view?usp=sharing"
+                },
+                {
+                  "name": "Module-6",
+                  "url": "https://drive.google.com/file/d/1L00rkNxbLouiOaJCfHiXUdBo9vxMkrAf/view?usp=sharing"
+                },
+                {
+                  "name": "Pure Substance Problems",
+                  "url": "https://drive.google.com/file/d/1fbcqzQx0GiLE4dhGDS7xxQk1o-aXz9op/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://i.ytimg.com/vi/AOWXGD2mOII/maxresdefault.jpg"
+            },
+            {
+              "name": "Digital Electronics",
+              "notes": [
+                {
+                  "name": "Complete DEC Notes",
+                  "url": "https://drive.google.com/file/d/1oVk8xhC7_afMMFxTqy4lx1F5tjs2bzvV/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.LEJ0lZ_y3l4D_wvMMkHecwHaFj&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Discrete Mathematics",
+              "notes": [
+                {
+                  "name": "Part-1",
+                  "url": "https://drive.google.com/file/d/1noAacnC2EMrnOVmmVsiCo4s8mCBHrUGB/view?usp=sharing"
+                },
+                {
+                  "name": "Part-2",
+                  "url": "https://drive.google.com/file/d/14sNWgmgQuImhtUYA-7ra6DijE3DdckFH/view?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://lh3.googleusercontent.com/RPc0nF_qOp_mgV9cIyA_NGuE_o9y1bTtowoFgleeNIJuRCdSodwKFhda68gt_o2j5YQ=s180"
+            },
+            {
+              "name": "Economics",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/14n_U4VfWKI7qCi3U6nRp2bIj6254ZLhZ/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.LFXeIrniuWW4HByYRzj1nQHaEr&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Java",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1_JkZlU--3jcBXaYxQId2bRZBZme8Auo_/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1kWRwER_5iABSYxxyeojatTfnltC_TGoc/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/10fcFyv4uqkWYfgn9PD879L_qzuiVVCNJ/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4 and Module-5",
+                  "url": "https://drive.google.com/file/d/1FwsJ_Y2qzrbrOEg5kfKWBb4zJXQToWxO/view?usp=sharing"
+                },
+                {
+                  "name": "Handwritten Notes",
+                  "url": "https://drive.google.com/file/d/1Sh3iPbpdaYrJi-9cnCVzgxysFcj3ATBv/view?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.HqeRiEHZbGqApn1zThz5HwHaE8&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Data Base Management System",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/15eq2aYieBpfxNzEqoMoxS7JsRJ3PfyK-/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1hGBqj8aPZ7hrzmTfN9WzcTDs29WU1s3A/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1K1AY0_hFZvICXqZsjU9JsGx0yATAW3Nv/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1aHx6-YDDoEdfUgFRRxHnbXaqmCJw8ss1/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1Kb-n5lv3rnmEKzc7A8AD9TmrmC3RPXbk/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.ltvzNrEKyCmK29oRKMHAIwHaEK&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "DAA",
+              "notes": [
+                {
+                  "name": "DAA Complete Notes",
+                  "url": "https://drive.google.com/file/d/1N2edQWQK9JuWw-Ovc92THevtOGrZNyXR/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://i.ytimg.com/vi/QJQM7dGnH4s/maxresdefault.jpg"
+            },
+            {
+              "name": "Computer Organizations And Architecture",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1igl76OXWa0b5vq4-QJjPoFNEJbM_MWgS/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.8Uv5kgOQwzOwt0292D3lNQHaEK&pid=Api&P=0&h=180"
+            }
+          ]
         },
-
+        
         {
           "id": 3,
           "year": "Third Year",
-          "subjects": []
+          "subjects": [
+            {
+              "name": "Biology",
+              "notes": [
+                {
+                  "name": "Course Handout",
+                  "url": "https://drive.google.com/file/d/1p1xHKQCh0ust6W1V0fKd8OpPacn2V9pF/view?usp=sharing"
+                },
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1PeTpWdWupzwjcljMEk_yK_R1YM8I88vB/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.NoBdMc9ARMuPHviJ5AJAhAHaEP&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Advance java",
+              "notes": [
+                {
+                  "name": "Part-1",
+                  "url": "https://drive.google.com/file/d/1jc9qUP27axw7w9VIOjTpPcpz2VT1wYXh/view?usp=sharing"
+                },
+                {
+                  "name": "Part-2",
+                  "url": "https://drive.google.com/file/d/1tpUzpmWKjfW4Iql75FQKVYl0nkdYK4HD/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.GJt26SuXpM3YwPClPJkkowHaDK&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Data Mining And Data WareHousing",
+              "notes": [
+                {
+                  "name": "Course Handout",
+                  "url": "https://drive.google.com/file/d/1pOr8fwk8i52EHU3A1uqD8BrXtJXV2CPw/view?usp=sharing"
+                },
+                {
+                  "name": "Module-1",
+                  "url": "https://docs.google.com/document/d/1SLb76sSSS4Nys-xZqUeh2702EuVDO7Zo/edit?usp=sharing&ouid=110544212537477443171&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/12wfPy7Qv_k4HQxK5SToUphB8dY0gl3HC/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1Bl3ncmqVuva11A0x6RfT5gJW6Ufi6Os0/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/1XcDeVaLpQ0A9z9WbPWnTcZZFX5HS_B_h/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1hlw0gFcJ5lCHcV55W68nMEcZTptXnlos/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://content.kopykitab.com/ebooks/2016/02/46716/content/medium/page1.png"
+            },
+            {
+              "name": "Mobile Computing",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1bFsVeQtCAq5-LfQrPTQ9v78ginJn7x46/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1pkjQp1v6LnfQTZ_Vnks5XSJG3evtFajY/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1znkh6pQIBKDbC4Ahv3eiGY0yWasTNrR7/view?usp=sharing"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/12R2GsY7dlmaI6OZdFI84-ZA7JWQ62jR8/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1WkTCdzeBUxEnJlooLbIwUdX3MaVn91zf/view?usp=sharing"
+                },
+                {
+                  "name": "Module-6",
+                  "url": "https://drive.google.com/file/d/1BtQoA093qcbRXO2jgCPVHjgwiNXjsC_3/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.Kb3WvtCChf-QLmkI2mym4wHaFj&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Professional Ethics",
+              "notes": [
+                {
+                  "name": "Course Handout",
+                  "url": "https://drive.google.com/file/d/1ewAUK5t8BAdAMeVCMaa4wh85AhQYEH5a/view?usp=sharing"
+                },
+                {
+                  "name": "Complete notes",
+                  "url": "https://drive.google.com/file/d/1X_B2yPjt7d5AdWHjgsrr-FNufRC8S647/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.Xr4nVdh025rC_Q_837GpkQHaFj&pid=Api&P=0&h=180"
+            },
+            {
+              "name": "Operating Systems",
+              "notes": [
+                {
+                  "name": "Course Handout",
+                  "url": "https://drive.google.com/file/d/1Oqtozylq_FdF8d6G2Ieo6ngAZgW6j6Io/view?usp=sharing"
+                },
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1Zo79B6AY2eJqGcSwsaaFfXY9snnfgjyx/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/1WKBLYPkGmDbinRhadOryFXE8C5R0LBku/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://docs.google.com/presentation/d/1DZX1rOCKuD66TfGwzD1badbCZmEqL4Fo/edit?usp=sharing&ouid=110544212537477443171&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://docs.google.com/presentation/d/1s8ytOUV0xu7pavFLI4keusHGMQ9-vvd0/edit?usp=sharing&ouid=110544212537477443171&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://docs.google.com/presentation/d/17-9Yv2fp_A6VcjkgYHKnX8B0YWiVd7_U/edit?usp=drive_link&ouid=110544212537477443171&rtpof=true&sd=true"
+                }
+              ],
+              "thumbnail": "https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Teaser/operating-system-t.jpg"
+            },
+            {
+              "name": "Artificial Intelligence",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1sokThOO_ajj6-FQCn_dFvByL6O_kpcjg/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://icaagencyalliance.com/wp-content/uploads/2019/01/Artificial-Intelligence-Growth.jpg"
+            },
+            {
+              "name": "Formal Language And Automata Theory",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/1YcKurO-W6riwJwtGZ4K8he1xYU8mnU1K/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://codebun.com/wp-content/uploads/2020/09/Formal-Language-and-Automata-Theory-FLAT.png"
+            },
+            {
+              "name": "Machine Learning",
+              "notes": [
+                {
+                  "name": "Module-1",
+                  "url": "https://drive.google.com/file/d/1DTgbaoC7HtwB9tFRpOodciZNkpvVExhS/view?usp=sharing"
+                },
+                {
+                  "name": "Module-2",
+                  "url": "https://drive.google.com/file/d/12usW5YOKwNw50r0bVaeJoxqCmYCySFGz/view?usp=sharing"
+                },
+                {
+                  "name": "Module-3",
+                  "url": "https://drive.google.com/file/d/1LIonABXjZYfAoPOlAYve4tqjK5VMuUyJ/view?usp=drive_link"
+                },
+                {
+                  "name": "Module-4",
+                  "url": "https://drive.google.com/file/d/13Y7zwF8N4UaznkCgqmytOjrCtAthQC9n/view?usp=sharing"
+                },
+                {
+                  "name": "Module-5",
+                  "url": "https://drive.google.com/file/d/1AB1Zk6Uc35VhRgjGlMJVplmT4bAQHZeO/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://digitaltransformationtrends.com/wp-content/uploads/2020/01/machine-learning.jpeg"
+            },
+            {
+              "name": "Natural Language Processing",
+              "notes": [
+                {
+                  "name": "Complete Notes",
+                  "url": "https://drive.google.com/file/d/138t3LLGnxoZwtaDzqy-vlDsJ96s-PvPw/view?usp=sharing"
+                }
+              ],
+              "thumbnail": "https://miro.medium.com/max/1200/0*4x5HPrOlbSE0kXzz"
+            }
+          ]
         },
-
+        
         {
           "id": 4,
           "year": "Fourth Year",
-          "subjects": []
+          "subjects": [
+            {
+              "name": "Artificial Intelligence",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://drive.google.com/file/d/19VGwDX6xvNvpaQlww5KClUbFD8cR-ydx/view?usp=drive_link"
+                },
+                {
+                  "name": "1_Intro",
+                  "url": "https://drive.google.com/file/d/1PgLhNDkztPrHZln24LkosJjIeKXT3fAu/view?usp=drive_link"
+                },
+                {
+                  "name": "2_Intelligent Agents",
+                  "url": "https://drive.google.com/file/d/18LDpQLdxomf83zoAqcc0OVVMzN8Tyobs/view?usp=drive_link"
+                },
+                {
+                  "name": "3_Solving Problems",
+                  "url": "https://drive.google.com/file/d/1hbz2aGemrI2pqOmNYNhwkFUSIB1kikqr/view?usp=drive_link"
+                },
+                {
+                  "name": "4_Informed Search",
+                  "url": "https://drive.google.com/file/d/17pEPNczV3N5ijVm89xtQp5YQXaFu76fn/view?usp=drive_link"
+                },
+                {
+                  "name": "5_Constraint Satis.",
+                  "url": "https://drive.google.com/file/d/1t6-0ncCKVLqY_oxaZ6i-zNFEukXppqYW/view?usp=drive_link"
+                },
+                {
+                  "name": "6_Adversarial Search",
+                  "url": "https://drive.google.com/file/d/1iiJuRnqZKXUKR0OCvCnGTG8YVtB3VOq9/view?usp=drive_link"
+                },
+                {
+                  "name": "7_Logical Agents",
+                  "url": "https://drive.google.com/file/d/1gbeRl4_idC99qSDmfW6ZHyWizw-1rGHO/view?usp=drive_link"
+                },
+                {
+                  "name": "8_First-Order Logic",
+                  "url": "https://drive.google.com/file/d/1VmLYxyxhOlO9Jd_vAyXeVgXwfU_TiFh_/view?usp=drive_link"
+                },
+                {
+                  "name": "9_Inference",
+                  "url": "https://drive.google.com/file/d/1KHvr-ihojfKV5-JNErwQaiw0KWwmLWFY/view?usp=drive_link"
+                },
+                {
+                  "name": "10_Planning",
+                  "url": "https://docs.google.com/presentation/d/1ZvKDUzZdoNN3PlBSnyiH3ErsiLKskfdW/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "AI PPT",
+                  "url": "https://drive.google.com/file/d/1Lhmqwm67qzzypOAyyBImVz-qqgeo7s3B/view?usp=drive_link"
+                },
+                {
+                  "name": "AIMergedPPTs",
+                  "url": "https://drive.google.com/file/d/11QIxLP11pCpECzE5YofgznuMCKlP33o0/view?usp=drive_link"
+                },
+                {
+                  "name": "1_AI",
+                  "url": "https://drive.google.com/file/d/1c7b2Fe9WGJHkzK9wsqucLBsBL33IZrth/view?usp=drive_link"
+                },
+                {
+                  "name": "Lsearch_Prof Mausam",
+                  "url": "https://drive.google.com/file/d/19gD2iaN8UQi407XD7mvPZ7MovoeGxMFU/view?usp=drive_link"
+                },
+                {
+                  "name": "Puzzle Game",
+                  "url": "https://drive.google.com/file/d/14dv8k39DtlNRlib0NNgYe2PBQLAkeOx-/view?usp=drive_link"
+                },
+                {
+                  "name": "A_ search",
+                  "url": "https://drive.google.com/file/d/1YCRdtQh5iVZE0VlRUloxmpXMiykjTAka/view?usp=drive_link"
+                },
+                {
+                  "name": "A_-g2",
+                  "url": "https://drive.google.com/file/d/1kuPOhLW4uQ6PcLGFimNbpvjdsiCGamk-/view?usp=drive_link"
+                },
+                {
+                  "name": "AI Notes(Midsems)",
+                  "url": "https://drive.google.com/file/d/1H5-RFWV8gYGYpNmE3s_6ELn184rnLWSK/view?usp=drive_link"
+                },
+                {
+                  "name": "AI_agent_env",
+                  "url": "https://drive.google.com/file/d/12S_syfI8zwT4VAlHnFuIyMFUsnzsWWu2/view?usp=drive_link"
+                },
+                {
+                  "name": "BFS",
+                  "url": "https://drive.google.com/file/d/1zmssvjBMcFTq3RpSpKnmWR1b7lOZONw4/view?usp=drive_link"
+                },
+                {
+                  "name": "Constraint Problem",
+                  "url": "https://drive.google.com/file/d/1n_tMVp0UxaAQRzq5vGJ4U-tK5e5wM9Mu/view?usp=drive_link"
+                },
+                {
+                  "name": "Hill Climbing Tech.",
+                  "url": "https://drive.google.com/file/d/1MXys7BkKxt5rgwRPYqJEPgTW09amMg1K/view?usp=drive_link"
+                },
+                {
+                  "name": "N-Queen Backtracking",
+                  "url": "https://drive.google.com/file/d/1wRyiSfxzwRffxMroU3rzeEuu6TrRUVI-/view?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://static.vecteezy.com/system/resources/previews/011/332/798/original/artificial-intelligence-ai-logo-human-technology-human-digital-robot-tech-icon-design-template-free-vector.jpg"
+            },
+            {
+              "name": "Big Data",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://drive.google.com/file/d/1SxDs9q4fxK4Yo2povCmzSuU5QTzr6BXy/view?usp=drive_link"
+                },
+                {
+                  "name": "1_Intro",
+                  "url": "https://drive.google.com/file/d/1B5lM8Hai8bURg2kRhkDY97aG151LUKdZ/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_2",
+                  "url": "https://drive.google.com/file/d/1DX_vfTMQoi4I5LXORX54CMt6oGV_IooS/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_3",
+                  "url": "https://drive.google.com/file/d/13A0AHM2r0ryYVPDCRIrdfMdcQbkr3wJ2/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_4",
+                  "url": "https://drive.google.com/file/d/1cHpHT1e9a6oOFMa2mRESWokLReHbgsZb/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_5",
+                  "url": "https://drive.google.com/file/d/1V5wzu-pfJt4nZ1OH9wBFqmt72xBwM3gL/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_6",
+                  "url": "https://drive.google.com/file/d/1n3_c4sTog6KBXJv4A_jiLNzrEk5U5dHh/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_7",
+                  "url": "https://drive.google.com/file/d/1mGXPohB2jYMTFI2qwxejqz00V16Fifve/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_8",
+                  "url": "https://drive.google.com/file/d/1OXZwN7CFWK3RNEX2tacaBMZl1OxaQW5J/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit_9",
+                  "url": "https://drive.google.com/file/d/1LDo8HKqUqcLkHOAO4D5cMFJ7dxkB098I/view?usp=drive_link"
+                },
+                {
+                  "name": "Hadoop HDFS",
+                  "url": "https://drive.google.com/file/d/1W-56LLQ_pb7btBkfz2-6AhVaT-7zu3rI/view?usp=drive_link"
+                },
+                {
+                  "name": "HIVE_HBase",
+                  "url": "https://drive.google.com/file/d/1UOzlwCpk7p_BGsHnDV8Kn-sQJ-iOW7aM/view?usp=drive_link"
+                },
+                {
+                  "name": "Qst. on Hadoop",
+                  "url": "https://drive.google.com/file/d/15ODO7c7VzBYN5blyOBlsSnTHFU0sCxv5/view?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://www.seekpng.com/png/detail/907-9071652_big-data-graphic-tra-big-data-points.png"
+            },
+
+            {
+              "name": "Software Engineering",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://docs.google.com/document/d/1eo0WUJ3_U3_nXv8lxezKCLp8hEo7x7tW/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Intro to SE",
+                  "url": "https://docs.google.com/presentation/d/14EjDWnr7Zm7xferYtgQrREtKkyqsfHZM/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Lect 1",
+                  "url": "https://docs.google.com/presentation/d/1oUxpX4BNOuAM1A2rwVaT788ibvFckW-i/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Lect 2",
+                  "url": "https://docs.google.com/presentation/d/1cb-U9gpfPvQu7NB2SnPr1xXHCvh13VFv/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Lect 4",
+                  "url": "https://docs.google.com/presentation/d/17AkdACgqyhf1F4vQrczY-189Wi2Zpq8V/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "M2-SDLC",
+                  "url": "https://docs.google.com/presentation/d/17POszM-RTYV05qyMfXie4ita5wpNFN-1/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "M3-SRS",
+                  "url": "https://docs.google.com/presentation/d/1_v-vFbdUOIrhl_qswCDFCf91G7DFZT2l/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "M4-SPM",
+                  "url": "https://docs.google.com/presentation/d/1HOnOgRAkoV1QAi7cIh7TF5UoeYwLZ5XP/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "SE FULL NOTES",
+                  "url": "https://drive.google.com/file/d/1NC4yMyrlfOXcTGMo_exQgD4lmUSNezUx/view?usp=drive_link"
+                },
+                {
+                  "name": "SE FULL NOTES",
+                  "url": "https://drive.google.com/file/d/1HZfX2CfZYYlPRbdXTYwZF1LoqzddkMKv/view?usp=drive_link"
+                },
+                {
+                  "name": "SE Handwritten",
+                  "url": "https://drive.google.com/file/d/1vqvZw0ZzaA6dqTH6rbXIw2DJOy8Rb9SM/view?usp=drive_link"
+                },
+                {
+                  "name": "Shower_Example",
+                  "url": "https://docs.google.com/presentation/d/1fNoYUdVvMSmOeK0DxGe9VtQEqw7saG9J/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "Software Eng. Merged",
+                  "url": "https://drive.google.com/file/d/1a1kwGVFcu7OBG8tg-uU0gOL_8oP6Jgwz/view?usp=drive_link"
+                },
+                {
+                  "name": "SE Notes",
+                  "url": "https://drive.google.com/file/d/14lL8YqawS2lpJLapGSPvFxS71YPKBUxG/view?usp=drive_link"
+                },
+                {
+                  "name": "Intro CH_1",
+                  "url": "https://docs.google.com/document/d/1FliaNocP4fIXzn5uLiWhGrgSteVQZUVl/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_2",
+                  "url": "https://docs.google.com/document/d/1qMx7rqosiRDtjIQcEjZNZfBIgpJ58Gx7/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_3",
+                  "url": "https://docs.google.com/presentation/d/1_gaytJzJ-_PLfys9pzl1RuwQlCNLesf4/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_3 Project Manag.",
+                  "url": "https://docs.google.com/document/d/16p59eNoJf1vRe08BWpCM9oLrRWPP610n/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_4",
+                  "url": "https://drive.google.com/file/d/1-0q2P9xyEGcc-1F0dDs8FpVTckLeeeWE/view?usp=drive_link"
+                },
+                {
+                  "name": "CH_5",
+                  "url": "https://drive.google.com/file/d/1p_r5iY4Z1mIUWfHhhn3SjrmLU92kl8yE/view?usp=drive_link"
+                },
+                {
+                  "name": "CH_6",
+                  "url": "https://docs.google.com/presentation/d/1lney9cRkw5Y82TJ1QNd8GX9fmc77M27P/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_7",
+                  "url": "https://docs.google.com/presentation/d/1XapdUySvFoOSbYxtiC3OzkJAMzTFSh8w/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "CH_9",
+                  "url": "https://drive.google.com/file/d/1Ew1jLWe2ID0Dkz9gksOD5JVK0KyyoqoM/view?usp=drive_link"
+                },
+                {
+                  "name": "CH_10",
+                  "url": "https://drive.google.com/file/d/1N32IPyhuzki-EjdNvB1UZwd7FCTFuyqd/view?usp=drive_link"
+                },
+                {
+                  "name": "CH_11",
+                  "url": "https://docs.google.com/presentation/d/12oc4JufCrvRaAGkIst4UeTHCTQr1RuoQ/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                },
+                {
+                  "name": "M2_SDLC",
+                  "url": "https://docs.google.com/presentation/d/17POszM-RTYV05qyMfXie4ita5wpNFN-1/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                }
+              ],
+              "thumbnail": "https://images.credly.com/size/680x680/images/1e3e36a0-ab85-40f7-802e-006e90211db6/Software_Engineering_GVSU_Badge.png"
+            }
+          ]
         }
       ]
     },

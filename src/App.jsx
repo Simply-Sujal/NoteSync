@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import { createBrowserHistory } from 'history';
+
 import Home from './Pages/Home';
 import Resources from './Pages/Resources';
 import VidResources from './Pages/VidResources';
@@ -12,12 +12,11 @@ import PrivacyP from './Pages/PrivacyP';
 import DisclaimerPart from './Pages/DisclaimerPart';
 import Termsandconditions from './Pages/Termsandconditions';
 
-const history = createBrowserHistory();
 
 const App = () => {
   return (
     <>
-      <Router history={history}>
+      <Router >
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />

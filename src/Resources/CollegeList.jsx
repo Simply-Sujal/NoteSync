@@ -5,12 +5,10 @@ const CollegeList = ({ onCollegeSelect }) => {
     const [colleges, setColleges] = useState([]);
 
     const handleCollegeClick = (college) => {
-      
         const collegeSection = document.getElementById('college-section');
         if (collegeSection) {
             collegeSection.scrollIntoView({ behavior: 'smooth' });
         }
-       
         onCollegeSelect(college);
     };
 

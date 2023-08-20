@@ -1,6 +1,8 @@
 import React from 'react'
-import Sujal1 from '../assets/Sujal1.jpg'
+import Sujal from '../assets/Sujal.jpeg'
 import Piyush from '../assets/Piyush.jpg'
+import Barsha from '../assets/Barsha Rani.jpeg'
+import Animesh from '../assets/Animesh.jpeg'
 import { FaLinkedin } from 'react-icons/fa'
 
 const Team = () => {
@@ -23,120 +25,95 @@ const Team = () => {
         window.location.href = "https://www.linkedin.com/in/divyansh-suman-911027237/";
     };
     return (
-        <div className='w-full bg-[#C5DFF8] '>
-            <div className='mx-auto container flex flex-col py-10 md:flex-row md:gap-5 md:py-32 max-w-[1320px] px-3'>
-                <div className='md:w-[50%] w-full'>
-                    <h1 className='top-0 h-fit py-12 text-center text-3xl font-semibold md:sticky md:basis-96 md:py-40 md:text-left text-[#272829]'>The <span className='text-green-500'>team</span> that makes everything possible.
-                    </h1>
-                    {/* <p className='text-2xl pb-2'>Our Vision</p>
-                    <p className='text-[15px] text-[#001C30] font-normal'><span className='text-green-500 font-bold'>Excellence </span>: We are committed to delivering excellence in the quality of our resources, user experience.</p>
-                    <p><span className='text-green-500 font-bold'>Integrity </span>: We operate with integrity, ensuring the accuracy, credibility, and authenticity of our notes and interactions with our users.</p>
-                    <p><span className='text-green-500 font-bold'>Learning and Growth </span>: We believe in lifelong learning and continuous improvement, both for ourselves and the students who use our platform.</p>
-                    <p><span className='text-green-500 font-bold'>Student-Centric Approach </span>: We always prioritise our student users' needs and success, seeking to give the greatest possible study materials and video resources suited to their specific needs.</p> */}
-                </div>
+        <div className='w-full bg-blue-100'>
+            <div className='mx-auto container py-16 px-4 md:max-w-5xl'>
+                <h1 className='text-center text-3xl md:text-5xl font-semibold mb-8'>
+                    The <span className='text-green-600'>Team</span> that makes everything possible.
+                </h1>
 
-                <div className="mt-2 grid grow grid-cols-2 grid-rows-2 place-items-center gap-3 md:gap-2 xl:grid-cols-2">
-                    {/* class="grid grow grid-cols-2 grid-rows-6 place-items-center gap-3 md:gap-8 xl:grid-cols-3" */}
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src={Sujal1}
+                            src={Sujal}
                             alt="Sujal"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Sujal Timilsina</h3>
-                            <p className="text-gray-200 text-center">Founder</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Sujal Timilsina</h3>
+                            <p className="text-sm">Founder</p>
                         </div>
                     </div>
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
                             src={Piyush}
-                            alt="Piyush"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            alt="Team Member"
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick1}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick1} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Piyush</h3>
-                            <p className="text-gray-200 text-center">Developer</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Piyush Kr. Singh</h3>
+                            <p className="text-sm">Developer</p>
                         </div>
                     </div>
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src={Sujal1}
-                            alt="Sujal"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            src="https://i.pinimg.com/custom_covers/222x/822188544411387155_1592188623.jpg"
+                            alt="Team Member"
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick2}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick2} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Radhika</h3>
-                            <p className="text-gray-200 text-center">Contributor</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Radhika Rani</h3>
+                            <p className="text-sm">Contributor</p>
                         </div>
                     </div>
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src={Sujal1}
-                            alt="Sujal"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            src={Animesh}
+                            alt="Team Member"
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick3}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick3} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Animesh</h3>
-                            <p className="text-gray-200 text-center">Contributor</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Animesh Singh</h3>
+                            <p className="text-sm">Contributor</p>
                         </div>
                     </div>
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src={Sujal1}
-                            alt="Sujal"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            src={Barsha}
+                            alt="Team Member"
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick4}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick4} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Barsha</h3>
-                            <p className="text-gray-200 text-center">Contributor</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Barsha Rani Parida</h3>
+                            <p className="text-sm">Contributor</p>
                         </div>
                     </div>
-                    <div className="relative md:w-64 md:h-64 md:mb-14">
+                    <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src={Sujal1}
-                            alt="Sujal"
-                            className="w-full h-full object-cover rounded-t-xl "
+                            src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/man-vector-design-template-1ba90da9b45ecf00ceb3b8ae442ad32c_screen.jpg?ts=1601484738"
+                            alt="Team Member"
+                            className="w-full h-64 object-cover"
                         />
-                        <div className="absolute bottom-0 left-0 w-full h-full flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300">
-                            <FaLinkedin
-                                className=" text-5xl cursor-pointer text-blue-600 duration-300 transition ease-in-out "
-                                onClick={handleLinkedInClick5}
-                            />
+                        <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
+                            <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick5} />
                         </div>
-                        <div className='bg-black rounded-t-none rounded-b-xl'>
-                            <h3 className=" text-white text-xl font-medium text-center">Divyansh</h3>
-                            <p className="text-gray-200 text-center">Marketing</p>
+                        <div className='bg-black text-white text-center py-2'>
+                            <h3 className="text-lg font-semibold">Divyansh Suman</h3>
+                            <p className="text-sm">Marketing</p>
                         </div>
                     </div>
                 </div>

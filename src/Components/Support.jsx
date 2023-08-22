@@ -13,7 +13,11 @@ const Support = () => {
         if (collegeSection) {
             collegeSection.scrollIntoView({ behavior: 'smooth' });
         }
-    }
+    };
+
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
 
     return (
         <>
@@ -58,7 +62,7 @@ const Support = () => {
                                 <p className='text-gray-600 text-xl '>You can ask questions or raise problems using the contact us form at any time, in any situation.</p>
                             </div>
                             <div className='bg-slate-100 pl-8 py-4'>
-                                <p className='flex items-center text-[#007dfe]'><Link to='/contact-us' className='flex align-middle items-center'>Contact Us <BsArrowRightShort className='w-5 ml-2' /></Link></p>
+                                <p className='flex items-center text-[#007dfe]'><Link to='/contact-us' className='flex align-middle items-center' onClick={handleLinkedInClick}>Contact Us <BsArrowRightShort className='w-5 ml-2' /></Link></p>
                             </div>
                         </div>
 

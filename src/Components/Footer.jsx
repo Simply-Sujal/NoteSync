@@ -15,6 +15,10 @@ const Footer = () => {
     const handleLinkedInClick4 = () => {
         window.location.href = "https://www.youtube.com/@consolecoder6724/featured";
     };
+
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
     return (
         <>
             <div className='bg-gray-50 h-1/2 w-full flex md:flex-row flex-col justify-around items-start p-20'>
@@ -34,10 +38,10 @@ const Footer = () => {
                 <div className='p-5'>
                     <ul>
                         <p className='text-gray-800 font-bold text-2xl pb-4'>Home</p>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/resources'>Resource</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/video'>Video</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/about'>About</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/contact-us'>Contact Us</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/resources' onClick={handleLinkedInClick}>Resource</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/video' onClick={handleLinkedInClick}>Video</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/about' onClick={handleLinkedInClick}>About</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer' onClick={handleLinkedInClick}><Link to='/contact-us'>Contact Us</Link></li>
                     </ul>
                 </div>
 
@@ -57,9 +61,9 @@ const Footer = () => {
                     <ul>
                         <p className='text-gray-800 font-bold text-2xl pb-4'>Support</p>
                         <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='https://chat.whatsapp.com/KwDtVov5yrw3StSWe87hWo'>Community</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/termsandconditions'>Terms & Conditions</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/disclaimer'>Disclaimer</Link></li>
-                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/privacy-policy'>Privacy Policies</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/termsandconditions' onClick={handleLinkedInClick}>Terms & Conditions</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/disclaimer' onClick={handleLinkedInClick}>Disclaimer</Link></li>
+                        <li className='text-gray-500 text-md pb-2 font-semibold hover:text-green-500 cursor-pointer'><Link to='/privacy-policy' onClick={handleLinkedInClick}>Privacy Policies</Link></li>
                     </ul>
                 </div>
             </div >

@@ -2,6 +2,11 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 const Newsletter = () => {
+    
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
+
     return (
         <div className='w-full mt-10 py-20 m text-white bg-black px-4'>
             <div className='max-w-[1240px] mx-auto grid lg:grid-cols-3'>
@@ -18,7 +23,7 @@ const Newsletter = () => {
                         </div>
                     </form>
                     <p>We care about the protection of your data. Read our <span className='text-[#22c55e]'>
-                        <Link to='/privacy-policy'>privacy policy</Link>.</span> </p>
+                        <Link to='/privacy-policy' onClick={handleLinkedInClick}>privacy policy</Link>.</span> </p>
                 </div>
             </div>
         </div>

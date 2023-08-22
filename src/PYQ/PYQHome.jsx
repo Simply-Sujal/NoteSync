@@ -5,6 +5,19 @@ import ButtonFill from '../Components/ButtonFill'
 import { Link } from 'react-router-dom'
 
 const PYQHome = () => {
+
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
+
+    const handleClick = () => {
+        
+        const notesSection = document.getElementById('pyq-section');
+        if (notesSection) {
+            notesSection.scrollIntoView({ behavior: 'smooth' });
+        }
+    };
+
     return (
         <>
             <div className='w-full bg-[#ebf3ff] h-screen bg-hero flex flex-col items-center justify-center'>
@@ -13,8 +26,8 @@ const PYQHome = () => {
                         <h1 className='text-3xl md:text-6xl font-bold'>PYQs as Your<span className='text-green-500 my-3'> Secret Weapon</span></h1>
                         <p className='text-[15px] md:text-[18px]'>Explore Our Comprehensive Collection of Previous Year Questions - Your Ultimate Resource for Exam Preparation Excellence.</p>
                         <div className='flex md:flex-row flex-col gap-3 md:gap-5'>
-                            <Link to='/resources'><ButtonFill>Notes</ButtonFill></Link>
-                            <Link to='/video'><ButtonOutline>Videos</ButtonOutline></Link>
+                            <div onClick={() => handleClick()}><ButtonFill>PYQ's </ButtonFill></div>
+                            <Link to='/resource' onClick={handleLinkedInClick}><ButtonOutline>Notes</ButtonOutline></Link>
                         </div>
                     </div>
 
@@ -23,6 +36,8 @@ const PYQHome = () => {
                     </div>
                 </div>
             </div>
+
+            <div id='pyq-section'>&nbsp; <br /> &nbsp; <br />&nbsp;</div>
         </>
     )
 }

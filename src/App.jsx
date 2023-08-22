@@ -11,6 +11,7 @@ import PrivacyP from './Pages/PrivacyP';
 import DisclaimerPart from './Pages/DisclaimerPart';
 import Termsandconditions from './Pages/Termsandconditions';
 import PYQHome from './PYQ/PYQHome';
+import PYQ from './Pages/PYQ';
 
 
 const App = () => {
@@ -27,7 +28,8 @@ const App = () => {
           <Route path="/:coursename" element={<CourseStructure />}></Route>
           <Route path='/about' element={<About />} />
           <Route path='/contact-us' element={<ContactUs />} />
-          <Route path='/pyq' element={<PYQHome />} />
+          <Route path='/pyq' element={<PYQ />} />
+          {/* <Route path='/pyq' element={<PYQ />} /> */}
           <Route path='/privacy-policy' element={<PrivacyP />} />
           <Route path='/disclaimer' element={<DisclaimerPart />} />
           <Route path='/termsandconditions' element={<Termsandconditions />} />

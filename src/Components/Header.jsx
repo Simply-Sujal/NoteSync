@@ -6,12 +6,16 @@ import { CgClose } from 'react-icons/cg'
 
 const Header = () => {
     const [open, setOpen] = useState(false);
-    return (
 
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
+
+    return (
         <>
             <div className='w-screen h-[70px] bg-[#ffffff] p-4 z-10 fixed drop-shadow-lg'>
                 <nav className='px-4 flex justify-between items-center mx-auto w-full h-full '>
-                    <Link to="/"><h1 className='text-3xl font-semibold cursor-pointer sm:text-4xl'>Note<span className='text-green-500'>Sync.</span></h1></Link>
+                    <Link to="/" onClick={handleLinkedInClick}><h1 className='text-3xl font-semibold cursor-pointer sm:text-4xl'>Note<span className='text-green-500'>Sync.</span></h1></Link>
 
                     <ul className='md:flex hidden items-center gap-10 py-4'>
                         <NavLinks />

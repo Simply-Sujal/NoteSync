@@ -730,7 +730,7 @@
           "year": "Second Year",
           "subjects": [
             {
-              "name": "Data Structure and Algorihtm in C",
+              "name": "Data Structure and Algorithm in C",
               "notes": [
                 {
                   "name": "Course Handout",
@@ -2830,7 +2830,7 @@
               "thumbnail": "https://m.media-amazon.com/images/I/61YILeTQKWL._AC_UF1000,1000_QL80_.jpg"
             },
             {
-              "name": "Intoduction to Java ",
+              "name": "Introduction to Java ",
               "notes": [
                 {
                   "name": "Assignment",
@@ -3193,7 +3193,7 @@
           "year": "Third Year",
           "subjects": [
             {
-              "name": "Advance Doscrete Mathematics ",
+              "name": "Advance Discrete Mathematics ",
               "notes": [
                 {
                   "name": "Additional Material",
@@ -4440,7 +4440,7 @@
           "year": "Third Year",
           "subjects": [
             {
-              "name": "Cloud Computing and Vitualization",
+              "name": "Cloud Computing and Virtualization",
               "notes": [
                 {
                   "name": " Overview of Computing Paradigm",
@@ -5106,7 +5106,7 @@
               "thumbnail": "https://i.ytimg.com/vi/QJQM7dGnH4s/maxresdefault.jpg"
             },
             {
-              "name": "Computer Organizations And Architecture",
+              "name": "Computer Organisation and Architecture",
               "notes": [
                 {
                   "name": "Complete Notes",
@@ -5225,7 +5225,7 @@
               "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.Xr4nVdh025rC_Q_837GpkQHaFj&pid=Api&P=0&h=180"
             },
             {
-              "name": "Operating Systems",
+              "name": "Operating System",
               "notes": [
                 {
                   "name": "Course Handout",
@@ -6057,7 +6057,7 @@
             },
 
             {
-              "name": "Data Structure and Algorihtm in C",
+              "name": "Data Structure and Algorithm in C",
               "notes": [
                 {
                   "name": "Course Handout",
@@ -6208,7 +6208,7 @@
             },
 
             {
-              "name": "Computer Organization and Architecture",
+              "name": "Computer Organisation and Architecture",
               "notes": [
                 {
                   "name": "Course Handout",
@@ -6669,7 +6669,7 @@
             },
 
             {
-              "name": "Advance Doscrete Mathematics ",
+              "name": "Advance Discrete Mathematics ",
               "notes": [
                 {
                   "name": "Additional Material",

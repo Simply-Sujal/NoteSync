@@ -1,6 +1,4 @@
 import React from 'react'
-import Resources from '../Pages/Resources'
-import ButtonFill from './ButtonFill'
 import { Link } from 'react-router-dom'
 
 const Department = () => {
@@ -72,7 +70,7 @@ const Department = () => {
                     <div className='grid gap-6 lg:grid-cols-4 md:grid-cols-2 grid-cols-1'>
                         {
                             data.map((item) => (
-                                <div key={item.id} className='bg-[#fff] py-6 px-5 shadow-2xl  cursor-pointer hover:bg-sky-400 transition duration-200 ease-in-out hover:text-white transition duration-200 hover:rounded'>
+                                <div key={item.id} className='bg-[#fff] py-6 px-5 shadow-2xl  cursor-pointer hover:bg-sky-400 transition duration-200 ease-in-out hover:text-white hover:rounded'>
                                     <div className='h-20 mx-auto w-20'>
                                         <img src={item.image} className='text-red-800 bg-cover' />
                                     </div>

@@ -28,13 +28,18 @@ const NavLinks = () => {
             name: "ContactUs",
             link: "/contact-us"
         },
-    ]
+    ];
+
+    const handleLinkedInClick = () => {
+        window.scrollTo(0, 0);
+    };
+
     return (
         <>
             {
                 Links.map((item) => (
                     <li key={item.id} className='font-semibold hover:text-green-500'>
-                        <Link to={item.link}>{item.name}</Link>
+                        <Link to={item.link} onClick={handleLinkedInClick}>{item.name}</Link>
                     </li>
                 ))
             }

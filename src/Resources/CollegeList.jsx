@@ -27,7 +27,7 @@ const CollegeList = ({ onCollegeSelect }) => {
                     </h1>
                     <div className='flex flex-col md:flex-row justify-center mt-5 gap-2 md:gap-8'>
                         {colleges.map((college) => (
-                            <div key={college.id} onClick={() => handleCollegeClick(college)} className='bg-sky-100 w-28 rounded-md hover:bg-sky-400 transition duration-200 ease-in-out'>
+                            <div key={college.id} onClick={() => handleCollegeClick(college)} className='bg-sky-100 w-full md:w-28 rounded-md hover:bg-sky-400 transition duration-200 ease-in-out'>
                                 <h1 align='center' className='cursor-pointer p-2 font-medium text-black hover:font-bold'>
                                     {college.college}
                                 </h1>

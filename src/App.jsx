@@ -1,9 +1,5 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-<<<<<<< HEAD
-=======
-
->>>>>>> 57b35812fa00f7a0325d2e25942b0a51b46f161e
 import Home from './Pages/Home';
 import Resources from './Pages/Resources';
 import VidResources from './Pages/VidResources';
@@ -14,16 +10,13 @@ import CourseStructure from './VideoComponent/CourseStructure';
 import PrivacyP from './Pages/PrivacyP';
 import DisclaimerPart from './Pages/DisclaimerPart';
 import Termsandconditions from './Pages/Termsandconditions';
+import PYQHome from './PYQ/PYQHome';
 
 
 const App = () => {
   return (
     <>
-<<<<<<< HEAD
-      <Router>
-=======
       <Router >
->>>>>>> 57b35812fa00f7a0325d2e25942b0a51b46f161e
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
@@ -34,6 +27,7 @@ const App = () => {
           <Route path="/:coursename" element={<CourseStructure />}></Route>
           <Route path='/about' element={<About />} />
           <Route path='/contact-us' element={<ContactUs />} />
+          <Route path='/pyq' element={<PYQHome />} />
           <Route path='/privacy-policy' element={<PrivacyP />} />
           <Route path='/disclaimer' element={<DisclaimerPart />} />
           <Route path='/termsandconditions' element={<Termsandconditions />} />

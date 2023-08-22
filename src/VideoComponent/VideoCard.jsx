@@ -19,7 +19,7 @@ const VideoCard = ({ selectedCategory }) => {
         <>
             <div className='w-full bg-[#F5F5F5]'>
                 <div className='max-w-[1320px] mx-auto'>
-                    <h1 className='text-4xl text-center py-5 text-[#001C30] font-medium'>
+                    <h1 className='text-4xl text-center py-6 pt-10 text-[#001C30] font-medium'>
                         {headingText}
                     </h1>
                 </div>

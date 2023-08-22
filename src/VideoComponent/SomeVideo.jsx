@@ -78,7 +78,7 @@ const ytVideos = [
         courseImage: "https://i.ytimg.com/vi/Vd2UJiIPbag/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
-        linking: '/basicelectricaleng',
+        linking: '/basicelectricaleng1',
         year: 'First Year'
     },
     {
@@ -810,6 +810,24 @@ const ytVideos = [
         watch: "Watch",
         linking: '/bdby5minengg',
         year: 'Third Year'
+    },
+    {
+        id: 87,
+        courseName: "HPC (Harshit Anand KIIT)",
+        courseImage: "https://i.ytimg.com/vi/KlVstCzLQyc/mqdefault.jpg",
+        aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/hpcbyharshitanand',
+        year: 'Third Year'
+    },
+    {
+        id: 88,
+        courseName: "Software Testing",
+        courseImage: "https://i.ytimg.com/vi/YdZ-sduNb48/maxresdefault.jpg",
+        aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/softwaretestingmentor',
+        year: 'Fourth Year'
     },
 ]
 

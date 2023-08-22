@@ -88,7 +88,7 @@ const CourseStructure = () => {
         egtikle: 'PLDN15nk5uLiBpnIOK5r3KXdfFOVzGHJSt',
         softgate: 'PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2',
         softaktu: 'PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm',
-        softiitkgp: 'PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt',
+        sofiitkgp: 'PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt',
         daabari: 'PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O',
         daagate: 'PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm',
         daauni: 'PL-JvKqQx2Atd--1Gs3WB8nmWOWRbEM7WW',
@@ -105,6 +105,8 @@ const CourseStructure = () => {
         bdbyperfectcomputerengineer: 'PLPIwNooIb9vi4f8tVkzLnr1tll6Pubbqh',
         bdbyenggonevideo: 'PLUwI7zx-CMG2gwI31eQpraaQvnE1v9T2a',
         bdby5minengg: 'PLYwpaL_SFmcCgBLQ9UCxMVWKqR8FEUzJ8',
+        hpcbyharshitanand: 'PLCo9BILrfLzdD1tSNtyAKtakkiwTR8z5e',
+        softwaretestingmentor: 'PLL34mf651faM_nn8uKlnwbQPw5zSh_F84'
     };
 
     useEffect(() => {

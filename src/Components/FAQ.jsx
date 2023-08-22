@@ -4,7 +4,7 @@ import Accordian from './Accordian'
 const data = [
     {
         id: 1,
-        question: "Why use notesyn for taking notes and learning?",
+        question: "Why use Notesync for taking notes and learning?",
         answer: "NoteSync. is the only platform that delivers engineering top-notch high-quality notes to individuals and teaches you how to prepare one day before the exam and achieve good grades."
     }, {
         id: 2,
@@ -13,17 +13,17 @@ const data = [
     },
     {
         id: 3,
-        question: "Is notsync applicable to all engineering departments?",
+        question: "Is Notesync applicable to all engineering departments?",
         answer: "Yes, it is mostly focused on fundamental engineering areas such as CSE, IT, ELECTRICAL, CIVIL, MECHANICAL, and many more to come!"
     },
     {
         id: 4,
-        question: "Does notesync impose any fees for the resources they provide?",
+        question: "Does Notesync impose any fees for the resources they provide?",
         answer: "No, notesync does not currently charge its users for anything; everything is free!"
     },
     {
         id: 5,
-        question: "Are there any Notesyn mobile apps available?",
+        question: "Are there any Notesync mobile apps available?",
         answer: "No, we do not currently have a mobile application, but we will undoubtedly develop one."
     }
 ]

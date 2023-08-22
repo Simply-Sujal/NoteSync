@@ -3,6 +3,7 @@ import Sujal from '../assets/Sujal.jpeg'
 import Piyush from '../assets/Piyush.jpg'
 import Barsha from '../assets/Barsha Rani.jpeg'
 import Animesh from '../assets/Animesh.jpeg'
+import Radhika from '../assets/Radhika.jpeg'
 import { FaLinkedin } from 'react-icons/fa'
 
 const Team = () => {
@@ -36,7 +37,7 @@ const Team = () => {
                         <img
                             src={Sujal}
                             alt="Sujal"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick} />
@@ -50,7 +51,7 @@ const Team = () => {
                         <img
                             src={Piyush}
                             alt="Team Member"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick1} />
@@ -62,9 +63,9 @@ const Team = () => {
                     </div>
                     <div className="relative overflow-hidden rounded-xl shadow-md bg-white">
                         <img
-                            src="https://i.pinimg.com/custom_covers/222x/822188544411387155_1592188623.jpg"
+                            src={Radhika}
                             alt="Team Member"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick2} />
@@ -78,7 +79,7 @@ const Team = () => {
                         <img
                             src={Animesh}
                             alt="Team Member"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick3} />
@@ -92,7 +93,7 @@ const Team = () => {
                         <img
                             src={Barsha}
                             alt="Team Member"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick4} />
@@ -106,7 +107,7 @@ const Team = () => {
                         <img
                             src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/man-vector-design-template-1ba90da9b45ecf00ceb3b8ae442ad32c_screen.jpg?ts=1601484738"
                             alt="Team Member"
-                            className="w-full h-64 object-cover"
+                            className="w-full h-72 object-cover"
                         />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50">
                             <FaLinkedin className="text-4xl text-blue-600 cursor-pointer transition duration-300 ease-in-out" onClick={handleLinkedInClick5} />

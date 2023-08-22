@@ -1,0 +1,4678 @@
+{
+  "colleges": [
+    {
+      "id": "1",
+      "college": "KIIT",
+      "years": [
+        {
+          "id": 1,
+          "year": "First Year",
+          "subjects": [
+            {
+              "name": "AEC Theory",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+            {
+              "name": "BEE Theory",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+            {
+              "name": "Physics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Maths-II",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Chemistry",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "C Programming",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Maths-I",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "PCOM",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "year": "Second Year",
+          "subjects": [
+            {
+              "name": "Data Structure and Algorithm in C",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Digital Electronics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Object Oriented Programming",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Engineering Economics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Probability and Statistics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Discrete Mathematics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Computer Organization and Architecture",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "DBMS",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "OS",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Web Technology",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Automata and Formal Lang.",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Principles of Digital Communication",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Applied Linear Algebra - 1",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "year": "Third Year",
+          "subjects": [
+            {
+              "name": "High Performance Computing",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Software Engineering",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Design and Analysis of Algo.",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Computer Network",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Artificial Intelligence",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Big Data",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Data Mining & Data WareHouse",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Data Analytics",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "FPM",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Object Oriented System Design",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "Machine Learning",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+
+            {
+              "name": "IoT",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "id": 4,
+          "year": "Fourth Year",
+          "subjects": [
+            {
+              "name": "OS",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            },
+            {
+              "name": "DBMS",
+              "notes": [
+                {
+                  "name": "2022",
+                  "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                },
+                {
+                  "name": "2021",
+                  "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                },
+                {
+                  "name": "2020",
+                  "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                },
+                {
+                  "name": "2019",
+                  "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                },
+                {
+                  "name": "2018",
+                  "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+        "id": "2",
+        "college": "ITER",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "BEE Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "Physics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-II",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Chemistry",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "C Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-I",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "PCOM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Web Technology",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Software Engineering",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Network",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Big Data",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Analytics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "FPM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Machine Learning",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "IoT",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "3",
+        "college": "CV RAMAN",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "BEE Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "Physics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-II",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Chemistry",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "C Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-I",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "PCOM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Web Technology",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Software Engineering",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Network",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Big Data",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Analytics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "FPM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Machine Learning",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "IoT",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "4",
+        "college": "SILICON",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "BEE Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "Physics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-II",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Chemistry",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "C Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-I",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "PCOM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Web Technology",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Software Engineering",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Network",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Big Data",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Analytics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "FPM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Machine Learning",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "IoT",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "5",
+        "college": "IIT BBSR",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "BEE Theory",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "Physics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-II",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Chemistry",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "C Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Maths-I",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "PCOM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Web Technology",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Software Engineering",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Computer Network",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Big Data",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Data Analytics",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "FPM",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "Machine Learning",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+  
+              {
+                "name": "IoT",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              },
+              {
+                "name": "DBMS",
+                "notes": [
+                  {
+                    "name": "2022",
+                    "url": "https://drive.google.com/file/d/1WMNWkxL4_hApF7odsctHN8TvsQ06T8Rn/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2021",
+                    "url": "https://drive.google.com/file/d/1huNRJgOdq0dlYmok-onIbgXp6OhoJmiU/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2020",
+                    "url": "https://drive.google.com/file/d/1RNctOl9uGPiOXL629ZuT296JU_5Za56Q/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2019",
+                    "url": "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+                  },
+                  {
+                    "name": "2018",
+                    "url": "https://drive.google.com/file/d/1hwUe4ialEYZeoGYQKvgdFC4Fjw4pA66B/view?usp=drive_link"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+  ]
+}

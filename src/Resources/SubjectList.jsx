@@ -4,7 +4,7 @@ const SubjectList = ({ year, college, subjects, onSubjectSelect }) => {
     const handleSubjectClick = (subject) => {
         onSubjectSelect(subject);
         // Scroll to the notes section
-        const notesSection = document.getElementById('notes-section');
+        const notesSection = document.getElementById('notes-section1');
         if (notesSection) {
             notesSection.scrollIntoView({ behavior: 'smooth' });
         }
@@ -28,7 +28,7 @@ const SubjectList = ({ year, college, subjects, onSubjectSelect }) => {
                     </div>
                 </div>
             </div>
-            <div id='notes-section'>&nbsp; <br /> &nbsp;</div>
+            <div id='notes-section1'>&nbsp; <br /> &nbsp;</div>
         </>
     );
 };

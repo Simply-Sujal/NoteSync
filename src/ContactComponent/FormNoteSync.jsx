@@ -44,7 +44,7 @@ const FormNoteSync = () => {
 
                             <div className='inline-flex space-x-2 items-center'>
                                 <GrMail className="text-xl text-cyan-500" />
-                                <span>Sujal.kumar311@gmail.com</span>
+                                <span>helpme@notesync.in</span>
                             </div>
 
                             <div className='inline-flex space-x-2 items-center'>

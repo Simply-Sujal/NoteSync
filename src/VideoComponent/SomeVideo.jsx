@@ -10,7 +10,7 @@ const ytVideos = [
     },
     {
         id: 2,
-        courseName: "DBMS",
+        courseName: "Database Management System",
         courseImage: "https://i.ytimg.com/vi/kBdlM6hNDAE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpbNmhuhzYTAcmCLRlB3-gpBKa9g",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -19,7 +19,7 @@ const ytVideos = [
     },
     {
         id: 3,
-        courseName: "Design & Analysis Algo.",
+        courseName: "Design & Analysis Algorithm",
         courseImage: "https://i.ytimg.com/vi/u8JZ9gU5o4g/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -28,7 +28,7 @@ const ytVideos = [
     },
     {
         id: 4,
-        courseName: "Automata & Formal Lang.",
+        courseName: "Automata & Formal Language",
         courseImage: "https://i.ytimg.com/vi/iVZDqRQiPMo/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -74,7 +74,7 @@ const ytVideos = [
     },
     {
         id: 9,
-        courseName: "Basic Electrical Engg. 1",
+        courseName: "Basic Electrical Engineering 1",
         courseImage: "https://i.ytimg.com/vi/Vd2UJiIPbag/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -101,7 +101,7 @@ const ytVideos = [
     },
     {
         id: 12,
-        courseName: "Software Eng.",
+        courseName: "Software Engineering",
         courseImage: "https://i.ytimg.com/vi/imzSpM_5R6k/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -155,7 +155,7 @@ const ytVideos = [
     },
     {
         id: 18,
-        courseName: "Engg. Mechanics 1",
+        courseName: "Engineering Mechanics 1",
         courseImage: "https://i.ytimg.com/vi/S0tNby6AA6M/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -164,7 +164,7 @@ const ytVideos = [
     },
     {
         id: 19,
-        courseName: "Basic Electric Engg. 2",
+        courseName: "Basic Electrical Engineering 2",
         courseImage: "https://i.ytimg.com/vi/IbHHMWUQaB0/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -191,7 +191,7 @@ const ytVideos = [
     },
     {
         id: 22,
-        courseName: "Engg. Mechanics 2",
+        courseName: "Engineering Mechanics 2",
         courseImage: "https://1.bp.blogspot.com/-t9EoxRcAtcM/YIg99v3DXEI/AAAAAAAABEg/RVR4uyYrqUAZeyW3vvvMoN0aWkrr-2r-ACLcBGAsYHQ/s1961/engineering-mechanics-notes.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -200,7 +200,7 @@ const ytVideos = [
     },
     {
         id: 23,
-        courseName: "Basic Electric Engg. 3",
+        courseName: "Basic Electrical Engineering 3",
         courseImage: "https://i.ytimg.com/vi/jCchZkU7vY8/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -227,7 +227,7 @@ const ytVideos = [
     },
     {
         id: 26,
-        courseName: "Engg. Mechanics 3",
+        courseName: "Engineering Mechanics 3",
         courseImage: "https://i.ytimg.com/vi/Z4WN2Z9okfs/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -236,7 +236,7 @@ const ytVideos = [
     },
     {
         id: 27,
-        courseName: "Engg. Graphics",
+        courseName: "Engineering Graphics",
         courseImage: "https://i.ytimg.com/vi/uojN7SOHPBw/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -344,7 +344,7 @@ const ytVideos = [
     },
     {
         id: 39,
-        courseName: "DSA in C(CWH)",
+        courseName: "Data Structures & Algorithm in C(CWH)",
         courseImage: "https://i.ytimg.com/vi/5_5oE5lgrhw/mqdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -398,12 +398,25 @@ const ytVideos = [
     },
     {
         id: 45,
-        courseName: "Engg. Economics 1",
+        courseName: "Engineering Economics 1",
         courseImage: "https://i.ytimg.com/vi/BZaLOsmJqmc/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/economics1',
+<<<<<<< HEAD
         year: 'College Courses'
+=======
+        year: 'Second Year'
+    },
+    {
+        id: 46,
+        courseName: "Engineering Economics 2",
+        courseImage: "https://i.ytimg.com/vi/AonY7XKRTUI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4TjiMHpc3ZbCSVviTGgEAaT81NA",
+        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/economics2',
+        year: 'Second Year'
+>>>>>>> 2bd1a3e16cbf8777c1f97b92184e00aa74ffd09b
     },
 
     {
@@ -462,7 +475,7 @@ const ytVideos = [
     },
     {
         id: 52,
-        courseName: "OS (CodeHelp)",
+        courseName: "Operating System (CodeHelp)",
         courseImage: "https://i.ytimg.com/vi/a1l4MceYHaQ/mqdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -471,7 +484,7 @@ const ytVideos = [
     },
     {
         id: 53,
-        courseName: "OS (Knowledge Gate)",
+        courseName: "Operating System (Knowledge Gate)",
         courseImage: "https://learnyst-user-assets.s3.ap-south-1.amazonaws.com/school-assets/schools/86062/courses/89841/168414941013313.png",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -480,7 +493,7 @@ const ytVideos = [
     },
     {
         id: 54,
-        courseName: "OS (Jenny's Lecture)",
+        courseName: "Operating System (Jenny's Lecture)",
         courseImage: "https://i.ytimg.com/vi/x9FF723STvo/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -489,7 +502,7 @@ const ytVideos = [
     },
     {
         id: 55,
-        courseName: "DBMS (Neso)",
+        courseName: "Database Management System (Neso)",
         courseImage: "https://i.ytimg.com/vi/6Iu45VZGQDk/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -498,7 +511,7 @@ const ytVideos = [
     },
     {
         id: 56,
-        courseName: "DBMS (CodeHelp)",
+        courseName: "Database Management System (CodeHelp)",
         courseImage: "https://i.ytimg.com/vi/TYo_CUnIWP8/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -507,7 +520,7 @@ const ytVideos = [
     },
     {
         id: 57,
-        courseName: "DBMS (CodingNinjas)",
+        courseName: "Database Management System (CodingNinjas)",
         courseImage: "https://i.ytimg.com/vi/VmF2jv4VcVQ/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -543,7 +556,7 @@ const ytVideos = [
     },
     {
         id: 61,
-        courseName: "COA (Gate Smashers)",
+        courseName: "Computer Organisation & Architecture (Gate Smashers)",
         courseImage: "https://i.ytimg.com/vi/L9X7XXfHYdU/mqdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -552,7 +565,7 @@ const ytVideos = [
     },
     {
         id: 62,
-        courseName: "COA (Bindu)",
+        courseName: "Computer Organisation & Architecture (Bindu)",
         courseImage: "https://i.ytimg.com/vi/bfH8jO4Sy9I/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -561,7 +574,7 @@ const ytVideos = [
     },
     {
         id: 63,
-        courseName: "COA (University Acad.)",
+        courseName: "Computer Organisation & Architecture (University Acad.)",
         courseImage: "https://i.ytimg.com/vi/2kc1_ShR72o/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -570,7 +583,7 @@ const ytVideos = [
     },
     {
         id: 64,
-        courseName: "PDC (All About Elec.)",
+        courseName: "Pulse & Digital Circuits (All About Elec.)",
         courseImage: "https://i.ytimg.com/vi/qhjj6WG7Rgc/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -606,7 +619,7 @@ const ytVideos = [
     },
     {
         id: 68,
-        courseName: "Egg. Graphics 'Tikel's Ac.'",
+        courseName: "Engineering Graphics 'Tikel's Ac.'",
         courseImage: "https://i.ytimg.com/vi/7JpSSBVeSpI/mqdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -615,7 +628,7 @@ const ytVideos = [
     },
     {
         id: 69,
-        courseName: "Software Engg. (GS)",
+        courseName: "Software Engineering (GS)",
         courseImage: "https://i.ytimg.com/vi/uJpQlyT_CK4/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -624,7 +637,7 @@ const ytVideos = [
     },
     {
         id: 70,
-        courseName: "Software Engg. (EEC)",
+        courseName: "Software Engineering (EEC)",
         courseImage: "https://i.ytimg.com/vi/tZreaH_FyMs/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -633,7 +646,7 @@ const ytVideos = [
     },
     {
         id: 71,
-        courseName: "Software Engg. (IIT KGP)",
+        courseName: "Software Engineering (IIT KGP)",
         courseImage: "https://i.ytimg.com/vi/Ln_LP7c23WM/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -642,7 +655,7 @@ const ytVideos = [
     },
     {
         id: 72,
-        courseName: "DAA (Abdul Bari)",
+        courseName: "Design & Analysis of Algorithm (Abdul Bari)",
         courseImage: "https://i.ytimg.com/vi/0IAPZzGSbME/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -651,7 +664,7 @@ const ytVideos = [
     },
     {
         id: 73,
-        courseName: "DAA (Gate Hub)",
+        courseName: "Design & Analysis of Algorithm (Gate Hub)",
         courseImage: "https://i.ytimg.com/vi/B6L7hh_H1wo/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -660,7 +673,7 @@ const ytVideos = [
     },
     {
         id: 74,
-        courseName: "DAA (Uni. Academy)",
+        courseName: "Design & Analysis of Algorithm (Uni. Academy)",
         courseImage: "https://i.ytimg.com/vi/twE1eiO7gEE/mqdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -669,7 +682,7 @@ const ytVideos = [
     },
     {
         id: 75,
-        courseName: "DAA (Asha Khilrani)",
+        courseName: "Design & Analysis of Algorithm (Asha Khilrani)",
         courseImage: "https://i.ytimg.com/vi/ClOVnG7xOr4/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -679,7 +692,7 @@ const ytVideos = [
 
     {
         id: 76,
-        courseName: "HPC (English)",
+        courseName: "High Performance Computing (English)",
         courseImage: "https://i.ytimg.com/vi/HkOG4zHjlNo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCFLKkC0NiJyBXutKK80T5HZ7OqHQ",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -688,7 +701,7 @@ const ytVideos = [
     },
     {
         id: 77,
-        courseName: "HPC (IISc)",
+        courseName: "High Performance Computing (IISc)",
         courseImage: "https://i.ytimg.com/vi/EDbutwR35bg/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -698,7 +711,7 @@ const ytVideos = [
 
     {
         id: 78,
-        courseName: "CN (Amit Khurana)",
+        courseName: "Computer Network (Amit Khurana)",
         courseImage: "https://i.ytimg.com/vi/H4ystojVBak/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDiIhGARmTdNV_1vwojuI2Gf_o1Hw",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -707,7 +720,7 @@ const ytVideos = [
     },
     {
         id: 79,
-        courseName: "CN (Gate Wallah)",
+        courseName: "Computer Network (Gate Wallah)",
         courseImage: "https://i.ytimg.com/vi/pGWxdTJPjKE/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -716,7 +729,7 @@ const ytVideos = [
     },
     {
         id: 80,
-        courseName: "CN (Knowledge Gate)",
+        courseName: "Computer Network (Knowledge Gate)",
         courseImage: "https://learnyst-user-assets.s3.ap-south-1.amazonaws.com/school-assets/schools/86062/courses/92457/168414945988614.png",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -725,7 +738,7 @@ const ytVideos = [
     },
     {
         id: 81,
-        courseName: "AI (CS50)",
+        courseName: "Artificial Intelligence (CS50)",
         courseImage: "https://i.ytimg.com/vi/WbzNRTTrX0g/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -734,7 +747,7 @@ const ytVideos = [
     },
     {
         id: 82,
-        courseName: "AI (Easy Engg. Classes)",
+        courseName: "Artificial Intelligence (Easy Engg. Classes)",
         courseImage: "https://i.ytimg.com/vi/FpvnF7_-tW8/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -743,7 +756,7 @@ const ytVideos = [
     },
     {
         id: 83,
-        courseName: "AI (Stanford)",
+        courseName: "Artificial Intelligence (Stanford)",
         courseImage: "https://i.ytimg.com/vi/J8Eh7RqggsU/maxresdefault.jpg",
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
@@ -779,7 +792,7 @@ const ytVideos = [
     },
     {
         id: 87,
-        courseName: "HPC (Harshit Anand KIIT)",
+        courseName: "High Performance Computing (Harshit Anand KIIT)",
         courseImage: "https://i.ytimg.com/vi/KlVstCzLQyc/mqdefault.jpg",
         aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",

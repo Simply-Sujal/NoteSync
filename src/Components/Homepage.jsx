@@ -2,12 +2,12 @@
 import React from 'react'
 import ButtonFill from '../Components/ButtonFill'
 import ButtonOutline from '../Components/ButtonOutline'
-import { FaInstagram, FaTwitter, FaLinkedin, FaYoutube } from 'react-icons/fa'
+import { FaInstagram, FaTwitter, FaLinkedin, FaYoutube, FaWhatsapp } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 
 const HomePage = () => {
     const handleLinkedInClick1 = () => {
-        window.location.href = "https://www.instagram.com/notesync_in/";
+        window.location.href = "https://www.instagram.com/_notesync_in_/";
     };
     const handleLinkedInClick2 = () => {
         window.location.href = "https://twitter.com/NoteSync_in";
@@ -18,6 +18,10 @@ const HomePage = () => {
     const handleLinkedInClick4 = () => {
         window.location.href = "https://www.youtube.com/@consolecoder6724/featured";
     };
+    const handleLinkedInClick5 = () => {
+        window.location.href = "https://chat.whatsapp.com/KwDtVov5yrw3StSWe87hWo";
+    };
+
     return (
         <>
             <div className='w-full h-screen bg-hero flex flex-col justify-between'>
@@ -29,11 +33,12 @@ const HomePage = () => {
                             <Link to='/resources'><ButtonFill>PDF</ButtonFill></Link>
                             <Link to='/video'><ButtonOutline>Video</ButtonOutline></Link>
                         </div>
-                        <div className='flex md:justify-start md:flex-row justify-center items-center md:items-s gap-5'>
+                        <div className='flex md:justify-start md:flex-row justify-center items-center md:items-s gap-4'>
                             <FaInstagram className='text-2xl cursor-pointer hover:text-yellow-600' onClick={handleLinkedInClick1} />
                             <FaTwitter className='text-2xl cursor-pointer hover:text-blue-600' onClick={handleLinkedInClick2} />
                             <FaLinkedin className='text-2xl cursor-pointer hover:text-blue-600' onClick={handleLinkedInClick3} />
                             <FaYoutube className='text-2xl cursor-pointer hover:text-red-600' onClick={handleLinkedInClick4} />
+                            <FaWhatsapp className='text-2xl cursor-pointer hover:text-green-400' onClick={handleLinkedInClick5} />
                         </div>
                     </div>
 

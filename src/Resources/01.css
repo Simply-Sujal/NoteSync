@@ -1,0 +1,30 @@
+/* Add this CSS to your stylesheet */
+
+/* For Firefox */
+div.overflow-auto {
+    scrollbar-width: thin;
+    scrollbar-color: #4A90E2 #D1D5DB;
+}
+
+/* For Webkit based browsers (Chrome, Safari) */
+div.overflow-auto::-webkit-scrollbar {
+    width: 8px;
+    
+}
+
+div.overflow-auto::-webkit-scrollbar-track {
+    background-color: #D1D5DB;
+}
+
+div.overflow-auto::-webkit-scrollbar-thumb {
+    background-color: rgba(128, 128, 128, 0.326);
+    border-radius: 4px;
+}
+
+/* Style applied when user interacts with the thumb */
+div.overflow-auto::-webkit-scrollbar-thumb:hover {
+    background-color: #2766B5;
+    
+}
+
+/* Adjust the scroll bar track and thumb to your design preferences */

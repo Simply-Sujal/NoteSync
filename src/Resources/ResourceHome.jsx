@@ -37,7 +37,7 @@ const ResourceHome = () => {
                 </div>
             </div>
 
-            <div id='notes-section'>&nbsp; <br /> &nbsp; <br />&nbsp;</div>
+            <div id='notes-section'>&nbsp; <br /> &nbsp; <br /></div>
         </>
     )
 }

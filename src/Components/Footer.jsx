@@ -1,10 +1,10 @@
 import React from 'react'
-import { FaInstagram, FaTwitter, FaLinkedin, FaYoutube } from 'react-icons/fa'
+import { FaInstagram, FaTwitter, FaLinkedin, FaYoutube, FaWhatsapp } from 'react-icons/fa'
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
     const handleLinkedInClick1 = () => {
-        window.location.href = "https://www.instagram.com/notesync_in/";
+        window.location.href = "https://www.instagram.com/_notesync_in_/";
     };
     const handleLinkedInClick2 = () => {
         window.location.href = "https://twitter.com/NoteSync_in";
@@ -14,6 +14,9 @@ const Footer = () => {
     };
     const handleLinkedInClick4 = () => {
         window.location.href = "https://www.youtube.com/@consolecoder6724/featured";
+    };
+    const handleLinkedInClick5 = () => {
+        window.location.href = "https://chat.whatsapp.com/KwDtVov5yrw3StSWe87hWo";
     };
 
     const handleLinkedInClick = () => {
@@ -26,11 +29,12 @@ const Footer = () => {
                     <ul>
                         <p className='text-3xl font-bold text-[#212121] pb-6'>Note<span className='text-green-500'>Sync.</span>
                         </p>
-                        <div className='flex gap-6 pb-5'>
+                        <div className='flex gap-4 pb-5'>
                             <FaInstagram className='text-2xl cursor-pointer hover:text-yellow-600' onClick={handleLinkedInClick1} />
                             <FaTwitter className='text-2xl cursor-pointer hover:text-blue-600' onClick={handleLinkedInClick2} />
                             <FaLinkedin className='text-2xl cursor-pointer hover:text-blue-600' onClick={handleLinkedInClick3} />
                             <FaYoutube className='text-2xl cursor-pointer hover:text-red-600' onClick={handleLinkedInClick4} />
+                            <FaWhatsapp className='text-2xl cursor-pointer hover:text-green-400' onClick={handleLinkedInClick5} />
                         </div>
                     </ul>
                 </div>

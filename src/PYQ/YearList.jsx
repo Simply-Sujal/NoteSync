@@ -27,7 +27,7 @@ const YearList = ({ college, onYearSelect }) => {
         <>
             <div className='w-[100%] mt-12'>
                 <div className='max-w-[1240px] mx-auto'>
-                    <h1 className='text-center text-5xl font-semibold'>
+                    <h1 className='text-center text-4xl font-semibold'>
                         Select Your <span className='text-green-400'> Year</span>
                     </h1>
                     <div className='flex flex-col md:flex-row justify-center mt-5 gap-2 md:gap-8'>

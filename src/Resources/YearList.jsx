@@ -27,8 +27,8 @@ const YearList = ({ college, onYearSelect }) => {
         <>
             <div className='w-[100%] mt-12'>
                 <div className='max-w-[1240px] mx-auto'>
-                    <h2 className='text-center text-5xl font-semibold'>
-                        Select Your <span className='text-green-400'> Year</span> <span className='font-bold'>({college})</span>
+                    <h2 className='text-center text-4xl font-semibold'>
+                        Select Your <span className='text-green-400'> Year</span> 
                     </h2>
                     <div className='flex flex-col md:flex-row justify-center mt-5 gap-2 md:gap-8'>
                         {years.map((year) => (

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import './01.css';
 
 const CollegeList = ({ onCollegeSelect }) => {
     const [colleges, setColleges] = useState([]);
@@ -29,9 +30,10 @@ const CollegeList = ({ onCollegeSelect }) => {
 
     return (
         <div className='w-full max-w-4xl mx-auto'>
-            <h2 className='text-center mt-10 text-4xl font-bold'>Select Your <span className='text-green-400'>College</span></h2>
-            <div className='mt-5'>
-                <input type='text' placeholder='Search for a college...' value={searchTerm} onChange={handleSearchChange} className='w-full px-4 py-2 border rounded-md focus:outline-none focus:border-sky-500 my-5' />
+            <h2 className='text-center  text-4xl font-bold'>Select Your <span className='text-green-400'>College</span></h2>
+            <input type='text' placeholder='Search for a college...' value={searchTerm} onChange={handleSearchChange} className='w-full px-4 py-2 border border-sky-400 rounded-full focus:outline-none focus:border-sky-500 my-5' />
+            <div className='mt-5 h-72 overflow-auto'>
+                
 
                 {filteredColleges.map((college) => (
                     <div key={college.id} onClick={() => handleCollegeClick(college)} className='cursor-pointer border-2 border-sky-500 flex flex-col justify-center mb-2 hover:bg-sky-400 transition duration-200 ease-in-out rounded hover:rounded-md hover:text-white'>
@@ -41,7 +43,7 @@ const CollegeList = ({ onCollegeSelect }) => {
                     </div>
                 ))}
             </div>
-            <div id='college-section'>&nbsp; <br /> &nbsp;</div>
+            <div id='college-section' className='mb-10'>&nbsp; <br /> &nbsp;</div>
         </div>
     );
 };

@@ -2,12 +2,10 @@ import React, { useState } from 'react';
 import CollegeList from './CollegeList';
 import YearList from './YearList';
 import SubjectList from './SubjectList';
-import NoteList from './NoteList';
 
 const Main = () => {
     const [selectedCollege, setSelectedCollege] = useState(null);
     const [selectedYear, setSelectedYear] = useState(null);
-    const [selectedSubject, setSelectedSubject] = useState(null);
 
     const handleCollegeSelect = (college) => {
         setSelectedCollege(college);
@@ -17,7 +15,6 @@ const Main = () => {
 
     const handleYearSelect = (year) => {
         setSelectedYear(year);
-        setSelectedSubject(null);
     };
 
     const handleSubjectSelect = (subject) => {
@@ -32,12 +29,8 @@ const Main = () => {
             )}
 
             {selectedYear && selectedYear.subjects && (
-                <SubjectList year={selectedYear.year} college={selectedCollege.college} subjects={selectedYear.subjects} 
-                    onSubjectSelect={handleSubjectSelect} />   
-            )}
-
-            {selectedSubject && (
-                <NoteList  subject={selectedSubject} />
+                <SubjectList year={selectedYear.year} college={selectedCollege.college} subjects={selectedYear.subjects}
+                    onSubjectSelect={handleSubjectSelect} />
             )}
         </div>
     );

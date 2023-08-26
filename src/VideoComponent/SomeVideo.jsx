@@ -6,7 +6,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/operatingSystem',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dbms',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/designanalysisofalgo',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/automataandformallang',
-        year: 'Second Year'
+        year: 'College Courses'
     }
     ,
     {
@@ -43,7 +43,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/computerorganization',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 6,
@@ -52,7 +52,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/pdc',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 7,
@@ -61,7 +61,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/discretemathematics',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 8,
@@ -70,7 +70,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/probabilityandstatistics',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 9,
@@ -79,7 +79,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/basicelectricaleng1',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 10,
@@ -88,7 +88,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/analogelectronics',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 11,
@@ -97,7 +97,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/computernetoworks',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 12,
@@ -106,7 +106,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/softwareeng',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 13,
@@ -115,7 +115,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/bigdata',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 14,
@@ -124,7 +124,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/artificialintelligence',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 15,
@@ -133,7 +133,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dsa',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 16,
@@ -142,7 +142,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/oops',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 17,
@@ -151,7 +151,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cprogramming',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 18,
@@ -160,7 +160,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/engmechanics',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 19,
@@ -169,7 +169,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/basicElectricalEng2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 20,
@@ -178,7 +178,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/analogElect2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 21,
@@ -187,7 +187,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cprogramming2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 22,
@@ -196,7 +196,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/enggMechanics2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 23,
@@ -205,7 +205,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/basicElectricEng3',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 24,
@@ -214,7 +214,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/analogElect3',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 25,
@@ -223,7 +223,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cprogramming3',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 26,
@@ -232,7 +232,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/enggMechanics3',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 27,
@@ -241,16 +241,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/enggGraphics',
-        year: 'First Year'
-    },
-    {
-        id: 27,
-        courseName: "Mathematics-1",
-        courseImage: "https://i.ytimg.com/vi/bJPuy0QZ-tE/maxresdefault.jpg",
-        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
-        watch: "Watch",
-        linking: '/mathematics1',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 28,
@@ -259,7 +250,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/mathematics2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 29,
@@ -268,16 +259,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/basicelectronics1',
-        year: 'First Year'
-    },
-    {
-        id: 30,
-        courseName: "Basic Electronics 2",
-        courseImage: "https://i.ytimg.com/vi/Hq_8zewfMpY/maxresdefault.jpg",
-        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
-        watch: "Watch",
-        linking: '/basicelectronics2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 30,
@@ -286,7 +268,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/evs',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 31,
@@ -295,7 +277,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/evs2',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 32,
@@ -304,7 +286,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp1codewithharry',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 33,
@@ -313,7 +295,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp2luvbabbar',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 34,
@@ -322,7 +304,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp3apnacollege',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 35,
@@ -331,7 +313,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp3collegewallah',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 36,
@@ -340,7 +322,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp4thecherno',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 37,
@@ -349,7 +331,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp5jennyslecture',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 38,
@@ -358,7 +340,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cpp6striverlecture',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 39,
@@ -367,7 +349,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dsainccodewithharry',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 40,
@@ -376,7 +358,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dsaincnesoacademy',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 41,
@@ -385,7 +367,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/degatesmashers',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 42,
@@ -394,7 +376,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/deneso',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 43,
@@ -403,7 +385,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/deallaboutelectronics',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 44,
@@ -412,7 +394,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/deamitkhurana',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 45,
@@ -421,17 +403,9 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/economics1',
-        year: 'Second Year'
+        year: 'College Courses'
     },
-    {
-        id: 46,
-        courseName: "Engg. Economics 2",
-        courseImage: "https://i.ytimg.com/vi/AonY7XKRTUI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4TjiMHpc3ZbCSVviTGgEAaT81NA",
-        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
-        watch: "Watch",
-        linking: '/economics2',
-        year: 'Second Year'
-    },
+
     {
         id: 46,
         courseName: "Probability and Statistics 1",
@@ -439,7 +413,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/pssaurabhdahivadkar',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 47,
@@ -448,7 +422,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/psharishgarg',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 48,
@@ -457,7 +431,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/psfearless',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 49,
@@ -466,7 +440,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/discretemathematics1',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 50,
@@ -475,7 +449,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/discretemathematics2',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 51,
@@ -484,7 +458,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/osneso',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 52,
@@ -493,7 +467,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/oscodehelp',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 53,
@@ -502,7 +476,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/osknowledgegate',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 54,
@@ -511,7 +485,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/osjennylecture',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 55,
@@ -520,7 +494,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dbmsneso',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 56,
@@ -529,7 +503,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dbmsbabbar',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 57,
@@ -538,7 +512,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/dbmscn',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 58,
@@ -547,7 +521,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/aflgatesmashers',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 59,
@@ -556,7 +530,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/aflneso',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 60,
@@ -565,7 +539,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/afllalitvasisth',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 61,
@@ -574,7 +548,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/coagatesmashers',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 62,
@@ -583,7 +557,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/coabinduagarwala',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 63,
@@ -592,7 +566,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/coauniversitacademy',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 64,
@@ -601,7 +575,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/pdcabe',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 65,
@@ -610,7 +584,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/javaharry',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 66,
@@ -619,7 +593,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/javatulesko',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 67,
@@ -628,7 +602,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/htmlframeset',
-        year: 'Second Year'
+        year: 'College Courses'
     },
     {
         id: 68,
@@ -637,7 +611,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/egtikle',
-        year: 'First Year'
+        year: 'College Courses'
     },
     {
         id: 69,
@@ -646,7 +620,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/softgate',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 70,
@@ -655,7 +629,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/softaktu',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 71,
@@ -664,7 +638,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/sofiitkgp',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 72,
@@ -673,7 +647,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/daabari',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 73,
@@ -682,7 +656,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/daagate',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 74,
@@ -691,7 +665,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/daauni',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 75,
@@ -700,7 +674,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/designanalysisofalgoasha',
-        year: 'Third Year'
+        year: 'College Courses'
     },
 
     {
@@ -710,7 +684,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/hpceng',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 77,
@@ -719,17 +693,9 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/hpciisc',
-        year: 'Third Year'
+        year: 'College Courses'
     },
-    {
-        id: 78,
-        courseName: "Computer Network (CN)",
-        courseImage: "https://i.ytimg.com/vi/VwN91x5i25g/maxresdefault.jpg",
-        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
-        watch: "Watch",
-        linking: '/cnbyneso',
-        year: 'Third Year'
-    },
+
     {
         id: 78,
         courseName: "CN (Amit Khurana)",
@@ -737,7 +703,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cnbyamitkhurana',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 79,
@@ -746,7 +712,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cnbygatewallah',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 80,
@@ -755,7 +721,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/cnbyknowledgegate',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 81,
@@ -764,7 +730,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/aibycs50',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 82,
@@ -773,7 +739,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/aibyeasyenggclasses',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 83,
@@ -782,7 +748,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/aibystanford',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 84,
@@ -791,7 +757,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/bdbyperfectcomputerengineer',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 85,
@@ -800,7 +766,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/bdbyenggonevideo',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 86,
@@ -809,7 +775,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/bdby5minengg',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 87,
@@ -818,7 +784,7 @@ const ytVideos = [
         aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/hpcbyharshitanand',
-        year: 'Third Year'
+        year: 'College Courses'
     },
     {
         id: 88,
@@ -827,7 +793,43 @@ const ytVideos = [
         aboutCourse: "Disclaimer: This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
         watch: "Watch",
         linking: '/softwaretestingmentor',
-        year: 'Fourth Year'
+        year: 'College Courses'
+    },
+    {
+        id: 89,
+        courseName: "Mathematics-1",
+        courseImage: "https://i.ytimg.com/vi/bJPuy0QZ-tE/maxresdefault.jpg",
+        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/mathematics1',
+        year: 'College Courses'
+    },
+    {
+        id: 90,
+        courseName: "Basic Electronics 2",
+        courseImage: "https://i.ytimg.com/vi/Hq_8zewfMpY/maxresdefault.jpg",
+        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/basicelectronics2',
+        year: 'College Courses'
+    },
+    {
+        id: 91,
+        courseName: "Engg. Economics 2",
+        courseImage: "https://i.ytimg.com/vi/AonY7XKRTUI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA4TjiMHpc3ZbCSVviTGgEAaT81NA",
+        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/economics2',
+        year: 'College Courses'
+    },
+    {
+        id: 92,
+        courseName: "Computer Network (CN)",
+        courseImage: "https://i.ytimg.com/vi/VwN91x5i25g/maxresdefault.jpg",
+        aboutCourse: "Disclaimer : This is an excellent YouTube playlist that we recommend watching. Always watch video lectures if and only if you are getting them.",
+        watch: "Watch",
+        linking: '/cnbyneso',
+        year: 'College Courses'
     },
 ]
 

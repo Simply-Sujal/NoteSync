@@ -4,7 +4,7 @@ import axios from 'axios';
 const CollegeList = ({ onCollegeSelect }) => {
     const [colleges, setColleges] = useState([]);
     const [searchTerm, setSearchTerm] = useState('');
-
+    // this helps us enabling searching functionality for finding out the college  
     const handleSearchChange = (event) => {
         setSearchTerm(event.target.value);
     };
@@ -23,6 +23,8 @@ const CollegeList = ({ onCollegeSelect }) => {
         });
     }, []);
 
+
+    // here we are trying filtering out the colleges according to the name
     const filteredColleges = colleges.filter((college) =>
         college.college.toLowerCase().includes(searchTerm.toLowerCase())
     );

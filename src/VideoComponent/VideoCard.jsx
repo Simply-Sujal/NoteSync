@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import ytVideos from './SomeVideo';
 import { Link } from 'react-router-dom';
 
@@ -15,9 +15,25 @@ const VideoCard = ({ selectedCategory }) => {
         ? `Recommended Courses for ${selectedCategory}`
         : 'Recommended Courses';
 
+    // adding the video search functionality 
+    const [searchVideo, setSearchVideo] = useState('');
+
+    if (searchVideo) {
+        filteredVideos = filteredVideos.filter(video =>
+            video.courseName.toLowerCase().includes(searchVideo.toLowerCase())
+        );
+    }
+
     return (
         <>
-            <div className='w-full bg-[#F5F5F5]'>
+            <div className='w-full bg-[#F5F5F5] py-4 text-center'>
+                <input
+                    type="text"
+                    placeholder="Search by title..."
+                    className="border py-2 pl-4 rounded-full w-[50%] align-center focus:outline-none focus:border-blue-400"
+                    value={searchVideo}
+                    onChange={e => setSearchVideo(e.target.value)}
+                />
                 <div className='max-w-[1320px] mx-auto'>
                     <h1 className='text-4xl text-center py-6 pt-10 text-[#001C30] font-medium'>
                         {headingText}

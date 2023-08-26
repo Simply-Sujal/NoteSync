@@ -19,10 +19,11 @@ const SubjectList = ({ year, college, subjects, onSubjectSelect }) => {
                     <div className='mt-5'>
                         {subjects.map((subject, index) => (
                             <div key={index} onClick={() => handleSubjectClick(subject)}
-                            className='cursor-pointer border-2 border-sky-500 flex flex-col justify-center mb-2 hover:bg-sky-400 transition duration-200 ease-in-out rounded hover:rounded-md hover:text-white'>
-                                <h1 className='p-3 font-medium text-black hover:text-white'>
+                                className='cursor-pointer border-2 border-sky-500 flex flex-col justify-center mb-2 hover:bg-sky-400 transition duration-200 ease-in-out rounded hover:rounded-md hover:text-white'>
+                                <a href={subject.googleLink} target='_blank'><h1 className='p-3 font-medium text-black hover:text-white'>
                                     {subject.name}
                                 </h1>
+                                </a>
                             </div>
                         ))}
                     </div>

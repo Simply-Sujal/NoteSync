@@ -11,7 +11,7 @@ const ResourceHome = () => {
     };
 
     const handleClick = () => {
-        
+
         const notesSection = document.getElementById('notes-section');
         if (notesSection) {
             notesSection.scrollIntoView({ behavior: 'smooth' });

@@ -11,7 +11,7 @@ const PYQHome = () => {
     };
 
     const handleClick = () => {
-        
+
         const notesSection = document.getElementById('pyq-section');
         if (notesSection) {
             notesSection.scrollIntoView({ behavior: 'smooth' });
@@ -20,7 +20,7 @@ const PYQHome = () => {
 
     return (
         <>
-            <div className='w-full bg-[#ebf3ff] h-screen bg-hero flex flex-col items-center justify-center'>
+            <div className='w-full bg-[#ebf3ff] h-screen bg-hero flex flex-col items-center justify-between'>
                 <div className='grid md:grid-cols-2 max-w-[1240px] mx-auto'>
                     <div className='flex flex-col justify-center md:items-start w-full px-2 mt-20 md:pt-8 gap-2 md:gap-5'>
                         <h1 className='text-3xl md:text-6xl font-bold'>PYQs as Your<span className='text-green-500 my-3'> Secret Weapon</span></h1>

@@ -4,10 +4,10 @@ const SubjectList = ({ year, college, subjects, onSubjectSelect }) => {
     const handleSubjectClick = (subject) => {
         onSubjectSelect(subject);
         // Scroll to the notes section
-        const notesSection = document.getElementById('notes-section');
-        if (notesSection) {
-            notesSection.scrollIntoView({ behavior: 'smooth' });
-        }
+        // const notesSection = document.getElementById('notes-section');
+        // if (notesSection) {
+        //     notesSection.scrollIntoView({ behavior: 'smooth' });
+        // }
     };
 
     return (
@@ -19,16 +19,17 @@ const SubjectList = ({ year, college, subjects, onSubjectSelect }) => {
                     <div className='mt-5'>
                         {subjects.map((subject, index) => (
                             <div key={index} onClick={() => handleSubjectClick(subject)}
-                            className='cursor-pointer border-2 border-sky-500 flex flex-col justify-center mb-2 hover:bg-sky-400 transition duration-200 ease-in-out rounded hover:rounded-md hover:text-white'>
-                                <h1 className='p-3 font-medium text-black hover:text-white'>
+                                className='cursor-pointer border-2 border-sky-500 flex flex-col justify-center mb-2 hover:bg-sky-400 transition duration-200 ease-in-out rounded hover:rounded-md hover:text-white'>
+                                <a target='blank' href={subject.googleLink}><h1 className='p-3 font-medium text-black hover:text-white'>
                                     {subject.name}
                                 </h1>
+                                </a>
                             </div>
                         ))}
                     </div>
                 </div>
             </div>
-            <div id='notes-section'>&nbsp; <br /> &nbsp;</div>
+            {/* <div id='notes-section'>&nbsp; <br /> &nbsp;</div> */}
         </>
     );
 };

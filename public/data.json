@@ -7320,43 +7320,394 @@
 
     {
       "id": "8",
-      "college": "PARUL",
+      "college": "PARUL UNIVERSITY",
       "years": [
         {
           "id": 1,
           "year": "First Year",
           "subjects": [
             {
-              "name": "Computer Organisation and Architecture",
+              "name": "BEE",
               "notes": [
                 {
-                  "name": "Course Handout",
-                  "url": "https://docs.google.com/document/d/1Dqe0ZhHTq7JnLCosKeJxaQoa3tA5-rs-/edit?usp=drive_link&ouid=105659075118348210744&rtpof=true&sd=true"
+                  "name": "DC Theorems",
+                  "url": "https://drive.google.com/file/d/1UOQx5T1aoM6SCZZk2lRAPdbvRK1NugHR/view?usp=drive_link"
+                },
+                {
+                  "name": "DC Circuits",
+                  "url": "https://drive.google.com/file/d/1VPB0vx2IvA9g1_ZPVHE0WDqHdPTOOJuX/view?usp=drive_link"
+                },
+                {
+                  "name": "AC CKT Theory Part",
+                  "url": "https://drive.google.com/file/d/1c7ajFCvENO-2L6xFXqzF7BagMvYWeJkf/view?usp=drive_link"
+                },
+                {
+                  "name": "AC CKT",
+                  "url": "https://drive.google.com/file/d/1c145xVJni9mfT1d_R4ovTz2YMlL6m1Oc/view?usp=drive_link"
+                },
+                {
+                  "name": "Ch:6 final",
+                  "url": "https://drive.google.com/file/d/13yd0CR7QPNH-LsP5vLZqMkm48zy7YC-8/view?usp=drive_link"
+                },
+                {
+                  "name": "Converter",
+                  "url": "https://drive.google.com/file/d/15vVsBn3i1BFYaGLGXNEs-VUV2v0I8J-b/view?usp=drive_link"
+                },
+                {
+                  "name": "Ch:1 Theory Part",
+                  "url": "https://drive.google.com/file/d/1ciIt4IeH7x-v6J76tFjUNNuh9lvt5eOA/view?usp=drive_link"
+                },
+                {
+                  "name": "DC, AC circuit",
+                  "url": "https://drive.google.com/file/d/1Q1IgW8gtRE4f_ph19-iytus5oGEkamYt/view?usp=drive_link"
+                },
+                {
+                  "name": "Electrical Machines",
+                  "url": "https://drive.google.com/file/d/1jovH9NnyQKlj-RBixrViEZ97eRKR40AS/view?usp=drive_link"
+                },
+                {
+                  "name": "Induction Motor",
+                  "url": "https://drive.google.com/file/d/1N_1k-neX2wPTzLREhPyVgp9kCA3foVkR/view?usp=drive_link"
+                },
+                {
+                  "name": "Transformers",
+                  "url": "https://drive.google.com/file/d/1uiTp-5bbf0RJbIF7ncs8gi49O-H1KTYH/view?usp=drive_link"
                 }
+              
               ],
               "thumbnail": "https://static.javatpoint.com/tutorial/coa/images/coa-tutorial.png"
             },
 
             {
-              "name": "DBMS",
+              "name": "CPST",
               "notes": [
                 {
-                  "name": "Course Handout",
-                  "url": "https://drive.google.com/file/d/1K0aJNNrFeXVZHtScD3i47IDmuVn3gRex/view?usp=drive_link"
+                  "name": "Chapter 1",
+                  "url": "https://drive.google.com/file/d/1Y9XLPE0SfPjAXy16zPSB1zxsZVNBhynd/view?usp=drive_link"
+                },
+                {
+                  "name": "CPST Assignment",
+                  "url": "https://drive.google.com/file/d/19vkWLU_KQcyR1nVreFCrNRERgaurRIug/view?usp=drive_link"
+                },
+                {
+                  "name": "Introduction to Latex",
+                  "url": "https://drive.google.com/file/d/1aGwUmMKCWG1YOaIC2VXYCCrFaEAjndiE/view?usp=drive_link"
+                },
+                {
+                  "name": "Latex Book",
+                  "url": "https://drive.google.com/file/d/1BWa3AGjrJSyUpwOToRSXz7EnDI72rvt8/view?usp=drive_link"
+                },
+                {
+                  "name": "MS Word basics",
+                  "url": "https://drive.google.com/file/d/1Wdssbm1dLZ9TotrrtUKkTcvScJk218cC/view?usp=drive_link"
+                },
+                {
+                  "name": "MS Excel",
+                  "url": "https://drive.google.com/file/d/1I1yarKXDOayeQgX8kKX9NowbcrQswz4C/view?usp=drive_link"
+                },
+                {
+                  "name": "Operating System",
+                  "url": "https://drive.google.com/file/d/1WlCgEMtcB3YOaDP9nOLz_m_PjMSKyNVs/view?usp=drive_link"
+                },
+                {
+                  "name": "PowerPoint Slides",
+                  "url": "https://drive.google.com/file/d/1H4zIZn6sREci3gE0Wl4kMGb6-chMd4eN/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit 1",
+                  "url": "https://drive.google.com/file/d/14gm68afYYtg_fVnVYshg5L_XAlDPSOIv/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit 2",
+                  "url": "https://drive.google.com/file/d/1CPSjSdpItmbfC4Vj0Yf98t6soeJZjFxR/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit 3",
+                  "url": "https://drive.google.com/file/d/1lHAPGH45xqerTktkh7IY5bmyA_yZs4F7/view?usp=drive_link"
+                },
+                {
+                  "name": "Unit 4",
+                  "url": "https://drive.google.com/file/d/1LS4xCjL5vr_DUyWbBKqse9MDGNoLWo8q/view?usp=drive_link"
                 }
               ],
               "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCwCXNH4KzhulU7MSrWBEBxO-B-UqC1s0oQVRps7o8UyqNIMo7weOcf9PNPCPBcjmHI1o&usqp=CAU"
             },
 
             {
-              "name": "Algorithm Design I ",
+              "name": "EG",
               "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
                 {
                   "name": "Assignment",
                   "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
                 }
               ],
               "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "ES",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "MATHS",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "PPS",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "BE",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "EPHY",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "M-2",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "OOPC++",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                },
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1S3tci5j6iQ0bMBf7RpvZzleSoD0Mh1I6?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            }
+          ]
+        },
+
+        {
+          "id": 2,
+          "year": "Second Year",
+          "subjects": [
+            {
+              "name": "Computer Network",
+              "notes": [
+                {
+                  "name": "Course HandOut",
+                  "url": "https://drive.google.com/file/d/1mw1jfUG6cc2gFQvcvSYBK00bfUrAiLVz/view?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://png.pngtree.com/element_our/sm/20180524/sm_5b070e05ce86a.jpg"
+            },
+
+            {
+              "name": "Algorithm Design II ",
+              "notes": [
+                {
+                  "name": "Assignments",
+                  "url": "https://drive.google.com/drive/folders/1cfSSKdjQQKuPP1jhUUH9MMpGfNVBE7W3?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://m.media-amazon.com/images/I/616yIIyO+kL._AC_UF1000,1000_QL80_.jpg"
+            },
+
+            {
+              "name": "Advance Discrete Mathematics ",
+              "notes": [
+                {
+                  "name": "Additional Material",
+                  "url": "https://drive.google.com/drive/folders/1H8vo86bynmkEAQvvSMQkvVqFWRX0TJjh?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNJRsmBhWcdOiuU8McThEvUUS0NTMF5PKMzZ2LxQ65kfs94n9QNuS4mzoJVv-ZnBb9j4&usqp=CAU"
+            },
+
+            {
+              "name": "Design of Operating System ",
+              "notes": [
+                {
+                  "name": "Assignment",
+                  "url": "https://drive.google.com/drive/folders/1xmDPxLnMlrsmJvlJSRYEEMDqHTn6kFHt?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9IYWu-K3gJeXI_0R-t9RI7-38SNSjOIrI1A&usqp=CAU"
+            },
+
+            {
+              "name": "Theory of Computation ",
+              "notes": [
+                {
+                  "name": "Assignments",
+                  "url": "https://drive.google.com/drive/folders/19KwOZlsTYMpjSuMOLAibNwI8pVgI5Zaq?usp=drive_link"
+                }
+              ],
+              "thumbnail": "https://rukminim2.flixcart.com/image/850/1000/kiqbma80-0/book/l/m/n/theory-of-computation-original-imafygk9sa8ewab8.jpeg?q=20"
             }
           ]
         },

@@ -1,0 +1,71 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "url": "",
+        "topic": "General",
+        "title": "Opinion: Is Mahindra missing a trick by not doing a modern-day Sumo?",
+        "about": "LoremLorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia! ipsum dolor sit amet consectetur adipisicing elit...",
+        "owner": "Sujal",
+        "thumbnail": "",
+        "date": "12.08.2023",
+        "time": "12:30 pm"
+      },
+      {
+        "id": 2,
+        "url": "",
+        "topic": "General",
+        "title": "Opinion: Is Tata missing a trick by not doing a modern-day Sumo?",
+        "about": "Lorem ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia!dolor sit amet consectetur adipisicing elit...",
+        "owner": "Piyush",
+        "thumbnail": "",
+        "date": "12.08.23",
+        "time": "04:30 pm"
+      },
+      {
+        "id": 3,
+        "url": "",
+        "topic": "Technology",
+        "title": "Opinion: Is Toyota missing a trick by not doing a modern-day Sumo?",
+        "about": "Lorem ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia!dolor sit amet consectetur adipisicing elit...",
+        "owner": "Aditya",
+        "thumbnail": "",
+        "date": "13.08.23",
+        "time": "10:30 am"
+      },
+      {
+        "id": 4,
+        "url": "",
+        "topic": "AutoMobile",
+        "title": "Opinion: Is Hyundai missing a trick by not doing a modern-day Sumo?",
+        "about": "Lorem ipsumLorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia! dolor sit amet consectetur adipisicing elit...",
+        "owner": "Rishabh",
+        "thumbnail": "",
+        "date": "13.08.23",
+        "time": "12:30 pm"
+      },
+      {
+        "id": 5,
+        "url": "",
+        "topic": "Finance",
+        "title": "Opinion: Is Maruti missing a trick by not doing a modern-day Sumo?",
+        "about": "Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia! ipsum dolor sit amet consectetur adipisicing elit...",
+        "owner": "Animesh",
+        "thumbnail": "",
+        "date": "14.08.23",
+        "time": "12:30 pm"
+      },
+      {
+        "id": 6,
+        "url": "",
+        "topic": "College",
+        "title": "Opinion: Is Suzuki missing a trick by not doing a modern-day Sumo?",
+        "about": "Lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ab quas inventore provident alias quia cumque veritatis quod accusantium repudiandae ad dolores iusto, corporis nisi aliquam quis corrupti, illo ipsum aspernatur vel. Impedit sint velit minima est, deserunt, expedita ratione officia reiciendis cumque nihil voluptates aliquam illo quod. Perspiciatis sint autem voluptatem quod esse quia culpa quisquam similique minima itaque at voluptatum aliquam reiciendis nemo dicta officia quis eaque reprehenderit, sed incidunt nostrum placeat natus? Voluptates, officia eveniet. Sunt quam temporibus ad, optio excepturi in laudantium debitis quos ab enim rem atque voluptatum, dicta ducimus quibusdam molestiae ipsum iusto quia! ipsum dolor sit amet consectetur adipisicing elit...",
+        "owner": "Rohit",
+        "thumbnail": "",
+        "date": "15.08.23",
+        "time": "12:30 pm"
+      }
+    ]
+  }
+  

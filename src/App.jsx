@@ -12,6 +12,9 @@ import DisclaimerPart from './Pages/DisclaimerPart';
 import Termsandconditions from './Pages/Termsandconditions';
 import PYQHome from './PYQ/PYQHome';
 import PYQ from './Pages/PYQ';
+import Blogs from './Pages/Blogs';
+import BlogDetails from './Blogs/BlogDetails';
+import BlogEarningInfo from './Blogs/BlogEarningInfo';
 
 
 const App = () => {
@@ -29,7 +32,9 @@ const App = () => {
           <Route path='/about' element={<About />} />
           <Route path='/contact-us' element={<ContactUs />} />
           <Route path='/pyq' element={<PYQ />} />
-          {/* <Route path='/pyq' element={<PYQ />} /> */}
+          <Route path='/blog' element={<Blogs />} />
+          <Route path='/blogearning' element={<BlogEarningInfo />} />
+          <Route exact path="/blogdetails/:id" element={<BlogDetails />} />
           <Route path='/privacy-policy' element={<PrivacyP />} />
           <Route path='/disclaimer' element={<DisclaimerPart />} />
           <Route path='/termsandconditions' element={<Termsandconditions />} />

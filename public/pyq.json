@@ -1,0 +1,2884 @@
+{
+  "colleges": [
+    {
+      "id": "1",
+      "college": "KIIT",
+      "years": [
+        {
+          "id": 1,
+          "year": "First Year",
+          "subjects": [
+            {
+              "name": "AEC Theory",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+            {
+              "name": "BEE Theory",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+            {
+              "name": "Physics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Maths-II",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Chemistry",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "C Programming",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Maths-I",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "PCOM",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "year": "Second Year",
+          "subjects": [
+            {
+              "name": "Data Structure and Algorithm in C",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Digital Electronics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Object Oriented Programming",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Engineering Economics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Probability and Statistics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Discrete Mathematics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Computer Organization and Architecture",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "DBMS",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "OS",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Web Technology",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Automata and Formal Lang.",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Principles of Digital Communication",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Applied Linear Algebra - 1",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "year": "Third Year",
+          "subjects": [
+            {
+              "name": "High Performance Computing",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Software Engineering",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Design and Analysis of Algo.",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Computer Network",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Artificial Intelligence",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Big Data",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Data Mining & Data WareHouse",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Data Analytics",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "FPM",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Object Oriented System Design",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "Machine Learning",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+
+            {
+              "name": "IoT",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            }
+          ]
+        },
+
+        {
+          "id": 4,
+          "year": "Fourth Year",
+          "subjects": [
+            {
+              "name": "OS",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            },
+            {
+              "name": "DBMS",
+              "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+        "id": "2",
+        "college": "ITER",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "Calculas I",
+                "googleLink" : "https://drive.google.com/drive/folders/1VnICNRvCCFAYH5hgXW-KYIRpGYx-X34a?usp=drive_link"
+              },
+              {
+                "name": "Physics I",
+                "googleLink" : "https://drive.google.com/drive/folders/1tGZAT_niUDJL5ZWtrBxTjZwt3xyoaioN?usp=drive_link"
+              },
+              {
+                "name": "Introduction to Java",
+                "googleLink" : "https://drive.google.com/drive/folders/1buI1jw2zixK5imYs3srONt6p9vTSlvJm?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/drive/folders/15A9pwNE-49GVnfzf8HcCQckesd6iabmD?usp=drive_link"
+              },
+  
+              {
+                "name": "Critical Thinking & Communication",
+                "googleLink" : "https://drive.google.com/drive/folders/1vc4HsQjF7B1Tj1qEhgoupINR0Fcb82qa?usp=drive_link"
+              },
+  
+              {
+                "name": "Calculas II",
+                "googleLink" : "https://drive.google.com/drive/folders/1TSjN-rXxBpp39STJUqnNzzyK9qUHt-Fk?usp=drive_link"
+              },
+  
+              {
+                "name": "Physics II",
+                "googleLink" : "https://drive.google.com/drive/folders/1reisoLUh4hb0nes_ufZ_36z_cZyk2baP?usp=drive_link"
+              },
+  
+              {
+                "name": "Introduction to Graph Theory",
+                "googleLink" : "https://drive.google.com/drive/folders/1_Q7tUIhxlRltOxyyL8qCNVAARDStgftv?usp=drive_link"
+              },
+              {
+                "name": "Data Structures and Algorithm",
+                "googleLink" : "https://drive.google.com/drive/folders/1UW9yDtpRojCUBRg3cIVz8AVW15jv6zCo?usp=drive_link"
+              },
+              {
+                "name": "Principles of MicroEconomics",
+                "googleLink" : "https://drive.google.com/drive/folders/1cYX1tLwIIkk_J0W7TeYSxb9APYs3y2PK?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Computer Science Workshop I",
+                "googleLink" : "https://drive.google.com/drive/folders/1WdB47H-XoPL5xkqsIAkGwZQuDZSHGLuc?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Logic",
+                "googleLink" : "https://drive.google.com/drive/folders/1CG5GaZcmlMfC-nQqehi52BUrlFZevBZ2?usp=drive_link"
+              },
+  
+              {
+                "name": "Algorithm Design I",
+                "googleLink" : "https://drive.google.com/drive/folders/1Pk0hVZLX8lpVRffuxID4Yf74K3zx9qDW?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/drive/folders/1uX4A9XD-BS64uT5sTv9Xk4ZMYr5v8Kls?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of MacroEconomics",
+                "googleLink" : "https://drive.google.com/drive/folders/1p2PKhTXyWsmyuC9_wTVl63r_RfJnCdzd?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Science Workshop II",
+                "googleLink" : "https://drive.google.com/drive/folders/1SqV_uEQQh0vl3MI1h2hqcY0u5eIffDKM?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/drive/folders/1GGGoI2ing0fWCxv4TnAx7mzkGJaWtiE7?usp=drive_link"
+              },
+  
+              {
+                "name": "Algorithm Design II",
+                "googleLink" : "https://drive.google.com/drive/folders/1rjC2WCb4uv4wpJ60RbyaWMyoOW1IXtae?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra",
+                "googleLink" : "https://drive.google.com/drive/folders/1vMjqpcqtH1FZt1de5LAWHPGBanWkSBuF?usp=drive_link"
+              },
+  
+              {
+                "name": "UHV",
+                "googleLink" : "https://drive.google.com/drive/folders/1_-Pm5vj9n0WZJKU8hyXBVWz1x59vC37h?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "Operating System Workshop",
+                "googleLink" : "https://drive.google.com/drive/folders/1Ey63wFZr7XrCJ_KicREpsitamfV2w5Yg?usp=drive_link"
+              },
+  
+              {
+                "name": "Design of Operating System",
+                "googleLink" : "https://drive.google.com/drive/folders/153rkF-XnMtixgTJAEimA97l-5vhyEeGJ?usp=drive_link"
+              },
+  
+              {
+                "name": "Advance Discrete Mathemetics",
+                "googleLink" : "https://drive.google.com/drive/folders/11oo2pTV8WVudlHVH-vM-O7nDnPKQTWyo?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/drive/folders/1EI4bgRtXVODrCBFBYCcmhNdCZzR7WETx?usp=drive_link"
+              },
+  
+              {
+                "name": "Introduction to Python",
+                "googleLink" : "https://drive.google.com/drive/folders/1-Ko3XdbuvH_Oa6pCInAJket8KAz2Q0u2?usp=drive_link"
+              },
+  
+              {
+                "name": "Theory of Computation",
+                "googleLink" : "https://drive.google.com/drive/folders/1es_N4DxHSIscoI9EPYVerrh2FQGG7rP6?usp=drive_link"
+              }
+  
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "3",
+        "college": "CV RAMAN",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "4",
+        "college": "SILICON",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "5",
+        "college": "GRAPHIC ERA",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/drive/folders/1j7bURQhJRbaLU8BDMbClSaB364S3hFb4?usp=drive_link"
+              },
+              {
+                "name": "Computer Science",
+                "googleLink" : "https://drive.google.com/drive/folders/1O21QNQUmQ53Sw79kUtcxSMILWsCsgrEb?usp=drive_link"
+              },
+              {
+                "name": "Electronics",
+                "googleLink" : "https://drive.google.com/drive/folders/1-MHuThx91RfGI8cSnIqA8ZUqXA-rmwFU?usp=drive_link"
+              },
+  
+              {
+                "name": "Environmental Science",
+                "googleLink" : "https://drive.google.com/drive/folders/1Ovjl8egIua9LoTEalxR3Qe-gneVfMYAk?usp=drive_link"
+              },
+  
+              {
+                "name": "Professional Communication",
+                "googleLink" : "https://drive.google.com/drive/folders/105KSaD5oUR9kBwbD2yElCiolxjGi4M4F?usp=drive_link"
+              },
+  
+              {
+                "name": "Mathematics",
+                "googleLink" : "https://drive.google.com/drive/folders/1vePxkb0iMkwwr8FNH3mFvuB_LVFdSAct?usp=drive_link"
+              },
+  
+              {
+                "name": "Programming for Problem solving",
+                "googleLink" : "https://drive.google.com/drive/folders/1dzNdOFC23B_btDLYUCHSS5RO3NKGe9Cx?usp=drive_link"
+              },
+  
+              {
+                "name": "Basic Electrical",
+                "googleLink" : "https://drive.google.com/drive/folders/1EQTCCcG-4P3R7wi_PTJaiG0i-xa7sVOx?usp=drive_link"
+              },
+
+              {
+                "name": "Advanced Professional Communication",
+                "googleLink" : "https://drive.google.com/drive/folders/1Ho-3cw0mZu_Zi_Pck1tlepCeaOduiokZ?usp=drive_link"
+              },
+
+              {
+                "name": "Engineering Mathematics II",
+                "googleLink" : "https://drive.google.com/drive/folders/197jqc-ysnyPXc9HP3eUf2Hu116IcPsAW?usp=drive_link"
+              },
+
+              {
+                "name": "Engineering Physics",
+                "googleLink" : "https://drive.google.com/open?id=1RgzC0S2aeY1IIK9761QSonhW38BpKlde&usp=drive_copy"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Logic Design",
+                "googleLink" : "https://drive.google.com/drive/folders/1T9OlPoIA5uefOXvi0wqf7ioNnNDNyDU3?usp=drive_link"
+              },
+  
+              {
+                "name": "Fundamental of Cloud Computing",
+                "googleLink" : "https://drive.google.com/drive/folders/1qRIS1YOvxjnT9lsRlAjXlYp-Oywx43iE?usp=drive_link"
+              },
+  
+              {
+                "name": "Finite Automata",
+                "googleLink" : "https://drive.google.com/drive/folders/14UZrlAGSJ6CxaWqdsYt27AmqIPTb2DnD?usp=drive_link"
+              },
+  
+              {
+                "name": "Microprocessor",
+                "googleLink" : "https://drive.google.com/drive/folders/1kqbxPClaLdKD2K4eYp1hwFxG_nH1bBu5?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organisation",
+                "googleLink" : "https://drive.google.com/drive/folders/19NJalYy7CHLY1xnlsRXZNLDMp4i2LGuE?usp=drive_link"
+              },
+  
+              {
+                "name": "Java Programming Language",
+                "googleLink" : "https://drive.google.com/drive/folders/1fT5EODn0DU0EMHd680z0oL3he4Cwmc4g?usp=drive_link"
+              },
+  
+              {
+                "name": "Design & Analysis of Algorithm",
+                "googleLink" : "https://drive.google.com/drive/folders/1caS_Tne0bCMuAi25w7kbi7E3liYKsiu8?usp=drive_link"
+              },
+  
+              {
+                "name": "CBNST",
+                "googleLink" : "https://drive.google.com/drive/folders/1aSUUj2uYw-2NeifImZ6ew1ITeufTzwMj?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "System Software",
+                "googleLink" : "https://drive.google.com/drive/folders/1H7oz6FlnmFBZ9k4rPE8tMvw10VyzgBZN?usp=drive_link"
+              },
+  
+              {
+                "name": "Operating System",
+                "googleLink" : "https://drive.google.com/drive/folders/1CjPwCnspOwHpb9gCkfzMQ2DIMH88icF9?usp=drive_link"
+              },
+  
+              {
+                "name": "Database Management System",
+                "googleLink" : "https://drive.google.com/drive/folders/1tbn37-VetKe_78-ETqLcVc33bCLMxX39?usp=drive_link"
+              },
+  
+              {
+                "name": "Design & Analysis of Algorithm",
+                "googleLink" : "https://drive.google.com/drive/folders/1b3ShpTvTcbkq7ZBvsp7WSNH_8GjGVo_a?usp=drive_link"
+              },
+  
+              {
+                "name": "Compiler Design",
+                "googleLink" : "https://drive.google.com/drive/folders/1_XR6MANrTiarmM-2RjahWMlTJmEyfg7c?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/drive/folders/1e-gJq_FtGxURA9MqYwqRMOsYHJVT0h0W?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Networks",
+                "googleLink" : "https://drive.google.com/drive/folders/1MCsnA00ojuXOC6M452Qe12iPPZxoyWBJ?usp=drive_link"
+              },
+  
+              {
+                "name": "Full Satck Web Development",
+                "googleLink" : "https://drive.google.com/drive/folders/1QAZbL7hTlElprazNKd7XvJaMkOen6pEa?usp=drive_link"
+              }
+              
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "6",
+        "college": "THAPAR",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "7",
+        "college": "SHARDA UNIVERSITY",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "8",
+        "college": "PARUL",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "BEE",
+                "googleLink" : "https://drive.google.com/drive/folders/11pLOLcDZ7hkvyB3NU4FwK3Qu3G5f8a02?usp=drive_link"
+              },
+              {
+                "name": "CPST",
+                "googleLink" : "https://drive.google.com/drive/folders/1BEF2vPbVEo3vBR7XUZf5O95cCL5u98OG?usp=drive_link"
+              },
+              {
+                "name": "EG",
+                "googleLink" : "https://drive.google.com/drive/folders/1ZHdJeMyF0mAv84Ra0UaxE8T4SGb5VMki?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Physics",
+                "googleLink" : "https://drive.google.com/drive/folders/19m4L5WTh2SQhEMoUfd0MKLWGRqt9dI32?usp=drive_link"
+              },
+  
+              {
+                "name": "ES",
+                "googleLink" : "https://drive.google.com/drive/folders/12ivCK3VMxP8GlfYoMIwGL_WXmgHtRHyf?usp=drive_link"
+              },
+  
+              {
+                "name": "M-2",
+                "googleLink" : "https://drive.google.com/drive/folders/18s7NhL2Lwf-LKeZKlY_iyldcJNAAdheb?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths",
+                "googleLink" : "https://drive.google.com/drive/folders/1d-Sm9RokmxCa9nASYnKNPIKqoEgV75hp?usp=drive_link"
+              },
+  
+              {
+                "name": "OOPCPP",
+                "googleLink" : "https://drive.google.com/drive/folders/1ub7puxaaSFrTFI1Q1NeYrJp9Y1qo3bkw?usp=drive_link"
+              },
+
+              {
+                "name": "PPS",
+                "googleLink" : "https://drive.google.com/drive/folders/13fagMs5RiSYBRbeiFhvc5BkxKDKrs61J?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "COMA",
+                "googleLink" : "https://drive.google.com/drive/folders/1lr9AMITuZCvW7bPozBGTaS2A48GKT-Uk?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/drive/folders/1W_KpzH5WfLnDBz2wCOh64xHs0Vl9ac9T?usp=drive_link"
+              },
+  
+              {
+                "name": "DAA",
+                "googleLink" : "https://drive.google.com/drive/folders/1OU5twiZblysZBuPHaXAjYtagsqvdx4nT?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/drive/folders/1dtULIP0dFHNx1ggd-nb_dh_GX5iGV1cK?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/drive/folders/1aR4uzlenMw93qRx6zTR0Wl1eyTDi50y6?usp=drive_link"
+              },
+  
+              {
+                "name": "DSA",
+                "googleLink" : "https://drive.google.com/drive/folders/1tzWodgDhvK6c5idtaeLyLy5YRqYKLmzQ?usp=drive_link"
+              },
+  
+              {
+                "name": "JAVA",
+                "googleLink" : "https://drive.google.com/drive/folders/1pf5tNyl3u6O0v7DLQWzonxRSZpLpGmaT?usp=drive_link"
+              },
+
+              {
+                "name": "DM",
+                "googleLink" : "https://drive.google.com/drive/folders/1ZXV5P4nnF52na5HA6Bk8-rmuDfhFsEl3?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/drive/folders/1YWBS-HSfcBSijN8KIk-wN15ON-kdG7ku?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/drive/folders/1cLGEitcrfr6vjS2Cxx7JeQKSN7O_13cg?usp=drive_link"
+              },
+  
+              {
+                "name": "Python",
+                "googleLink" : "https://drive.google.com/drive/folders/1NuN7S-XYv59YMTk4hkyXFL66A27Ik0H1?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "AI",
+                "googleLink" : "https://drive.google.com/drive/folders/1yPFg9VF917vh8HXXVdy0zZc6b_4AXgJC?usp=drive_link"
+              },
+  
+              {
+                "name": "AJP",
+                "googleLink" : "https://drive.google.com/drive/folders/1RR_gR5QP-liGBYORW_eXAnoRNA4IkbRA?usp=drive_link"
+              },
+  
+              {
+                "name": "BD",
+                "googleLink" : "https://drive.google.com/drive/folders/1tp3rSyMiUiEKWsjDhnAei2mZryEdeAwu?usp=drive_link"
+              },
+  
+              {
+                "name": "BDA",
+                "googleLink" : "https://drive.google.com/drive/folders/1vewhLeqAcVAmo99jcQArti2Xn53HttWc?usp=drive_link"
+              },
+  
+              {
+                "name": "Block Chain",
+                "googleLink" : "https://drive.google.com/drive/folders/13QkYr6-bxlPQo6neq55CroO7EWjqPROy?usp=drive_link"
+              },
+  
+              {
+                "name": "CC",
+                "googleLink" : "https://drive.google.com/drive/folders/1PK-wELmtAenv7Tb782L_70XSh_yEEU48?usp=drive_link"
+              },
+  
+              {
+                "name": "CE",
+                "googleLink" : "https://drive.google.com/drive/folders/1fVduEDlfN0Z8YGFiJPvSNGXXEjxE2WHO?usp=drive_link"
+              },
+  
+              {
+                "name": "CLE",
+                "googleLink" : "https://drive.google.com/drive/folders/1AGJZOpHdsJmgAKCaFk9BoPvExT_HkG5g?usp=drive_link"
+              },
+  
+              {
+                "name": "CORE",
+                "googleLink" : "https://drive.google.com/drive/folders/1CZz9TzKQp6srtIufRSTJ8IODfK-rjreK?usp=drive_link"
+              },
+  
+              {
+                "name": "CS",
+                "googleLink" : "https://drive.google.com/drive/folders/1bB3rS__t1FmPqwCBjLTZCbKBZIb5HjJB?usp=drive_link"
+              },
+  
+              {
+                "name": "Cyber Security",
+                "googleLink" : "https://drive.google.com/drive/folders/1d-QvhafYokgqQCeKnXCV9TofvmruhVcR?usp=drive_link"
+              },
+  
+              {
+                "name": "DAA",
+                "googleLink" : "https://drive.google.com/drive/folders/1--WziV5_XueckFHl178FW9zZnvFEiBcH?usp=drive_link"
+              },
+
+              {
+                "name": "DMBI",
+                "googleLink" : "https://drive.google.com/drive/folders/1u-cenALA4zd5yG86JhOc0ENjk17DiFbE?usp=drive_link"
+              },
+
+              {
+                "name": "ERP",
+                "googleLink" : "https://drive.google.com/drive/folders/1G1SFBsgnE8UBrcQEVLBcGNI0RotFd18W?usp=drive_link"
+              },
+
+              {
+                "name": "FLAT(COMMON)",
+                "googleLink" : "https://drive.google.com/drive/folders/1nuOa22LXzT8-yKOVFiYDR9p-3fO5thWj?usp=drive_link"
+              },
+
+              {
+                "name": "GPU",
+                "googleLink" : "https://drive.google.com/drive/folders/18bYhKjFrponazkqesme0YjukrCUdFsn_?usp=drive_link"
+              },
+
+              {
+                "name": "MAD",
+                "googleLink" : "https://drive.google.com/drive/folders/1B_ZfLyrZG2LWUvocSg2HIdLCWG2QQuum?usp=drive_link"
+              },
+
+              {
+                "name": "ML",
+                "googleLink" : "https://drive.google.com/drive/folders/1KV4VIKjWuFY174vimCSPmbUEcwW4pg3x?usp=drive_link"
+              },
+
+              {
+                "name": "OE(AZURE)",
+                "googleLink" : "https://drive.google.com/drive/folders/1iQclHFgWljOKY4TAteFl8OJH0HyTBTk6?usp=drive_link"
+              },
+
+              {
+                "name": "SE(COMMON)",
+                "googleLink" : "https://drive.google.com/drive/folders/1RPzgUg77ob0QYw1WD0mJCvY90SlLa30T?usp=drive_link"
+              },
+
+              {
+                "name": "STQA",
+                "googleLink" : "https://drive.google.com/drive/folders/1S3uBuV9oJ0rcIUM6OuIpQUMQ3ts7xbQK?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/drive/folders/1qbZXAUZJExhE2D_Hnibr8ftuCH9ALW3p?usp=drive_link"
+              },
+              {
+                "name": "Cloud Computing",
+                "googleLink" : "https://drive.google.com/drive/folders/1R8gEzv7R9OE_HBDF_98N0beUMygaiNDp?usp=drive_link"
+              },
+              {
+                "name": "Cyber Physical System",
+                "googleLink" : "https://drive.google.com/drive/folders/1p-4pCVo3dJPdzkP_Q53qAj0dS9IwqrqI?usp=drive_link"
+              },
+              {
+                "name": "Data Mining",
+                "googleLink" : "https://drive.google.com/drive/folders/15XUpVQwwF6IFV1gMZH19iCd-NFIBIW0J?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "9",
+        "college": "CHANDIGARH UNIVERSITY",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AUTOCAD",
+                "googleLink" : "https://drive.google.com/drive/folders/1HY4uP1kqam9iSvcxSrmYUJ0mCpSYcrF_?usp=drive_link"
+              },
+              {
+                "name": "BEE",
+                "googleLink" : "https://drive.google.com/drive/folders/1mLnnJw3IKhhlfVuUW76UKN8s6Q4M-Q3r?usp=drive_link"
+              },
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/drive/folders/1U8z1vhcQZGcc6eevHGy_JcNpuokRvs7f?usp=drive_link"
+              },
+  
+              {
+                "name": "Disruptive Electronics II",
+                "googleLink" : "https://drive.google.com/drive/folders/1BnG4MGQByAFO-GEtDnIJWDvGoq23PZfh?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths",
+                "googleLink" : "https://drive.google.com/drive/folders/1I3pwvdaXHYa5F46eInZ7qGQtDFEcm2Zt?usp=drive_link"
+              },
+  
+              {
+                "name": "OOPS using C++",
+                "googleLink" : "https://drive.google.com/drive/folders/1P1UPfLY8CaItgdAdW_UqBdLIV34guzSI?usp=drive_link"
+              },
+  
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/drive/folders/12iiyh5TDiIgS6dM0Yqar6ybNMT4YO8Do?usp=drive_link"
+              },
+  
+              {
+                "name": "Workshop Technology II",
+                "googleLink" : "https://drive.google.com/drive/folders/1JhfwGbD6fmfacksteQwGfSbm9qK9OTR6?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Computer Architecture",
+                "googleLink" : "https://drive.google.com/drive/folders/1UihiUXaIJGL4rAi9sR88megfTXoBYWxE?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Networks",
+                "googleLink" : "https://drive.google.com/drive/folders/17Mq7GhKsl4liWu8VhkXEgesak79mOYtw?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Algorithm Analysis",
+                "googleLink" : "https://drive.google.com/drive/folders/1iYHcGySuXqxJSiYOBZQ8MPV9LUPuEozJ?usp=drive_link"
+              },
+  
+              {
+                "name": "DS",
+                "googleLink" : "https://drive.google.com/drive/folders/1nuCv3cfUKGFbhk0npYCpS5wHmt6Vxiu2?usp=drive_link"
+              },
+  
+              {
+                "name": "Java Programming",
+                "googleLink" : "https://drive.google.com/drive/folders/18DHg7A3CGLumYa5xoOwzq9DWRRP7PkKA?usp=drive_link"
+              },
+  
+              {
+                "name": "Python Lab",
+                "googleLink" : "https://drive.google.com/drive/folders/1KuXey_QlGFSQoWatb56u_IZIqVZJhLn9?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/drive/folders/1vsVI959Y33owFnOCihn10eslZRgyKgIn?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "Advance Programming Lab",
+                "googleLink" : "https://drive.google.com/drive/folders/1DS8zdYxNyYptOoNcvwX9GoqxQdSadxqG?usp=drive_link"
+              },
+  
+              {
+                "name": "AI & ML",
+                "googleLink" : "https://drive.google.com/drive/folders/1yUFU_9MzuJNjJOuxfzjYAgPHAlXtH4og?usp=drive_link"
+              },
+  
+              {
+                "name": "DAA",
+                "googleLink" : "https://drive.google.com/drive/folders/1hRkL_LRPbs9C4NGapwG55JmU5ja-wxyB?usp=drive_link"
+              },
+  
+              {
+                "name": "IOT Lab",
+                "googleLink" : "https://drive.google.com/drive/folders/1DtxnIGvj-sYdexi5yd6NRMTrJkcy_gAK?usp=drive_link"
+              },
+  
+              {
+                "name": "SN Lab",
+                "googleLink" : "https://drive.google.com/drive/folders/16JI9O_GdBd_QHPPcmZDFVHAj8gqjrEjY?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "10",
+        "college": "AMITY",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "11",
+        "college": "SRM UNIVERSITY",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "12",
+        "college": "MANIPAL UNIVERSITY",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "13",
+        "college": "VIT VELLORE",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "14",
+        "college": "MAHARAJA AGRASEN",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "15",
+        "college": "DTU",
+        "years": [
+          {
+            "id": 1,
+            "year": "First Year",
+            "subjects": [
+              {
+                "name": "AEC Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "BEE Theory",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "Physics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-II",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Chemistry",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "C Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Maths-I",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "PCOM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "year": "Second Year",
+            "subjects": [
+              {
+                "name": "Data Structure and Algorithm in C",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Digital Electronics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented Programming",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Engineering Economics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Probability and Statistics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Discrete Mathematics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Organization and Architecture",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Web Technology",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Automata and Formal Lang.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Principles of Digital Communication",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Applied Linear Algebra - 1",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "year": "Third Year",
+            "subjects": [
+              {
+                "name": "High Performance Computing",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Software Engineering",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Design and Analysis of Algo.",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Computer Network",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Artificial Intelligence",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Big Data",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Mining & Data WareHouse",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Data Analytics",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "FPM",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Object Oriented System Design",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "Machine Learning",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+  
+              {
+                "name": "IoT",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          },
+  
+          {
+            "id": 4,
+            "year": "Fourth Year",
+            "subjects": [
+              {
+                "name": "OS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              },
+              {
+                "name": "DBMS",
+                "googleLink" : "https://drive.google.com/file/d/15xS-oanOORmaTPSmYFieyytFlX94onIE/view?usp=drive_link"
+              }
+            ]
+          }
+        ]
+      }
+
+
+      
+  ]
+}

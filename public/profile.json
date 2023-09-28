@@ -1,0 +1,40 @@
+{
+    "posts": [
+      {
+        "username": "Piyush Kumar Singh",
+        "email": "raunaksingh4099@gmail.com",
+        "Phone number": "7352675671",
+        "posts": [0,0,0,0,0,0]
+      },
+
+      {
+        "username": "Sujal Timilsina",
+        "email": "barun@gmail.com",
+        "Phone number": "7352675671",
+        "posts": [0,0,0,0,0,0]
+      },
+
+      {
+        "username": "Rishabh Raj",
+        "email": "rajrishabh@gmail.com",
+        "Phone number": "7352675671",
+        "posts": [0,0,0,0,0,0]
+      },
+
+      {
+        "username": "Rahul",
+        "email": "rahul@gmail.com",
+        "Phone number": "7352675671",
+        "posts": [0,0,0,0,0,0]
+      },
+
+      {
+        "username": "Aadi",
+        "email": "aadi@gmail.com",
+        "Phone number": "7352675671",
+        "posts": [0,0,0,0,0,0]
+      }
+
+    ]
+  }
+  

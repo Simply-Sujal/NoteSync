@@ -1,3 +1,7 @@
+// import React, { useEffect, useState } from 'react'
+// import {auth,provider} from './Blogs/Config';
+// import { signInWithPopup } from 'firebase/auth';
+
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Pages/Home';
@@ -15,12 +19,17 @@ import PYQ from './Pages/PYQ';
 import Blogs from './Pages/Blogs';
 import BlogDetails from './Blogs/BlogDetails';
 import BlogEarningInfo from './Blogs/BlogEarningInfo';
+import Profile from './Blogs/Profile';
+
 
 
 const App = () => {
+
+  
   return (
     <>
       <Router >
+     
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
@@ -35,11 +44,15 @@ const App = () => {
           <Route path='/blog' element={<Blogs />} />
           <Route path='/blogearning' element={<BlogEarningInfo />} />
           <Route exact path="/blogdetails/:id" element={<BlogDetails />} />
+          <Route exact path="profile" element={<Profile />} />
           <Route path='/privacy-policy' element={<PrivacyP />} />
           <Route path='/disclaimer' element={<DisclaimerPart />} />
           <Route path='/termsandconditions' element={<Termsandconditions />} />
         </Routes>
+        
       </Router>
+
+      
     </>
   )
 }

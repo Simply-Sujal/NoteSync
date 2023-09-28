@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Department = () => {
     const data = [
@@ -59,7 +59,8 @@ const Department = () => {
             totalnotes: "video",
             videoLink: "/aibyeasyenggclasses"
         }
-    ]
+    ];
+
     return (
         <>
             <section className='text-center mt-20'>
@@ -68,29 +69,22 @@ const Department = () => {
                         <h2 className='text-[#212121] text-4xl md:text-5xl font-bold'>Explore various <span className='text-green-500'> Departments </span></h2>
                     </div>
                     <div className='grid gap-6 lg:grid-cols-4 md:grid-cols-2 grid-cols-1'>
-                        {
-                            data.map((item) => (
-                                <div key={item.id} className='bg-[#fff] py-6 px-5 shadow-2xl  cursor-pointer hover:bg-sky-400 transition duration-200 ease-in-out hover:text-white hover:rounded'>
+                        {data.map((item) => (
+                            <Link to={item.videoLink} key={item.id}>
+                                <div className='bg-[#fff] py-6 px-5 shadow-2xl cursor-pointer hover:bg-sky-400 transition duration-200 ease-in-out hover:text-white hover:rounded'>
                                     <div className='h-20 mx-auto w-20'>
-                                        <img src={item.image} className='text-red-800 bg-cover' />
+                                        <img src={item.image} alt={item.topic} className='text-red-800 bg-cover' />
                                     </div>
                                     <h1 className='text-[20px] leading-8 my-5 font-bold text-center'>{item.topic}</h1>
-                                    <Link to={item.videoLink}>
-                                        <span className='bg-[#f8f8f8] rounded-md text-[#007dfe] text-1xl py-1 px-2 font-semibold'>{item.totalnotes}</span></Link>
+                                    <span className='bg-[#f8f8f8] rounded-md text-[#007dfe] text-1xl py-1 px-2 font-semibold'>{item.totalnotes}</span>
                                 </div>
-                            ))
-                        }
+                            </Link>
+                        ))}
                     </div>
-
-                    {/* <div className='py-10'>
-                        <Link to='/resources'>
-                            <button className=' bg-[#22c55e] text-white rounded-full shadow-sm shadow-green-700 font-semibold md:text-sm text-xs tracking-wide md:px-16 px-9 py-3'>Know More</button>
-                        </Link>
-                    </div> */}
                 </div>
-            </section >
+            </section>
         </>
-    )
-}
+    );
+};
 
-export default Department
+export default Department;

@@ -13,7 +13,7 @@ NoteSync is a comprehensive platform designed to revolutionize the way students 
 NoteSync is proudly hosted on Hostinger, a reliable and efficient hosting platform known for its performance and affordability.
 
 # Milestones:
-# 75,000+ Views : NoteSync has garnered over 75,000 views, indicating its popularity and relevance among learners.
-# 15,000+ Real Users: With a growing user base of over 15,000 real users, NoteSync has established itself as a trusted platform for academic resources and community engagement.
+# 104k+ Views : NoteSync has garnered over 104k views, indicating its popularity and relevance among learners.
+# 13k+ Real Users: With a growing user base of over 13k real users, NoteSync has established itself as a trusted platform for academic resources and community engagement.
 
 Join us on NoteSync and embark on a journey of learning, collaboration, and personal growth!
